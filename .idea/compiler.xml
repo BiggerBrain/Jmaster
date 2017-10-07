@@ -6,11 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Jmaster" />
+        <module name="concurrency" />
+        <module name="jvm" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="concurrency" target="1.5" />
       <module name="Jmaster" target="1.5" />
+      <module name="jvm" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
