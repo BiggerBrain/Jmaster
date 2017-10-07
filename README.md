@@ -16,7 +16,7 @@
    表示并发相关的项目，力争从代码到底层虚拟机到操作系统到cpu，寄存器，内存的角度去分析理解并发！
    * base 
      基础入门
-      * [MyThread](./concurrency/src/main/java/base/MyThread.java)
+      * [SimpleThread](./concurrency/src/main/java/base/MyThread.java)
       
       
       
