@@ -17,6 +17,9 @@
    * base 
      基础入门
       * [SimpleThread](./concurrency/src/main/java/base/SimpleThread.java)
+        从内存，CPU角度去理解线程
+      * [ReentrantSync](./concurrency/src/main/java/base/synchronize/ReentrantSync)
+        synchronize锁重入，原理
       
       
       
