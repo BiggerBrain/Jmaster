@@ -31,7 +31,6 @@ public class AtomicUse {
 		List<Thread> ts = new ArrayList<Thread>();
 		for (int i = 0; i < 100; i++) {
 			ts.add(new Thread(new Runnable() {
-				@Override
 				public void run() {
 					System.out.println(au.multiAdd());
 				}
