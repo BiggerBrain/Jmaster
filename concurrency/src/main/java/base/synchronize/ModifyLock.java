@@ -1,4 +1,4 @@
-package base.sync006;
+package base.synchronize;
 /**
  * 同一对象属性的修改不会影响锁的情况
  * @author alienware
@@ -41,13 +41,11 @@ public class ModifyLock {
 	public static void main(String[] args) {
 		final ModifyLock modifyLock = new ModifyLock();
 		Thread t1 = new Thread(new Runnable() {
-			@Override
 			public void run() {
 				modifyLock.changeAttributte("张三", 20);
 			}
 		},"t1");
 		Thread t2 = new Thread(new Runnable() {
-			@Override
 			public void run() {
 				modifyLock.changeAttributte("李四", 21);
 			}

@@ -1,4 +1,4 @@
-package base.sync007;
+package base.synchronize;
 
 import java.util.concurrent.atomic.AtomicInteger;
 

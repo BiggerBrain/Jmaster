@@ -29,6 +29,8 @@
        * [ReentrantSyncExtend](./concurrency/src/main/java/base/synchronize/ReentrantSyncExtend.java)
           
           ReentrantSyncExtend,父子继承下synchronize的可重入问题
+       * [SynchronizeLock](./concurrency/src/main/java/base/synchronize/SynchronizeLock)
+          synchronize加锁的方式
       
       
       

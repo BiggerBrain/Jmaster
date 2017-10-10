@@ -1,11 +1,11 @@
-package base.sync006;
+package base.synchronize;
 
 /**
  * 使用synchronized代码块加锁,比较灵活
- * @author alienware
+ * @author lishixiong
  *
  */
-public class ObjectLock {
+public class SynchronizeLock {
 
 	public void method1(){
 		synchronized (this) {	//对象锁
@@ -19,7 +19,7 @@ public class ObjectLock {
 	}
 	
 	public void method2(){		//类锁
-		synchronized (ObjectLock.class) {
+		synchronized (SynchronizeLock.class) {
 			try {
 				System.out.println("do method2..");
 				Thread.sleep(2000);
@@ -44,21 +44,18 @@ public class ObjectLock {
 	
 	public static void main(String[] args) {
 		
-		final ObjectLock objLock = new ObjectLock();
+		final SynchronizeLock objLock = new SynchronizeLock();
 		Thread t1 = new Thread(new Runnable() {
-			@Override
 			public void run() {
 				objLock.method1();
 			}
 		});
 		Thread t2 = new Thread(new Runnable() {
-			@Override
 			public void run() {
 				objLock.method2();
 			}
 		});
 		Thread t3 = new Thread(new Runnable() {
-			@Override
 			public void run() {
 				objLock.method3();
 			}

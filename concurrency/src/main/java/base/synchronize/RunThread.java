@@ -1,4 +1,4 @@
-package base.sync007;
+package base.synchronize;
 
 public class RunThread extends Thread{
 

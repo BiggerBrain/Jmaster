@@ -1,4 +1,4 @@
-package base.sync006;
+package base.synchronize;
 
 /**
  * 使用synchronized代码块减小锁的粒度，提高性能
@@ -30,13 +30,11 @@ public class Optimize {
 	public static void main(String[] args) {
 		final Optimize otz = new Optimize();
 		Thread t1 = new Thread(new Runnable() {
-			@Override
 			public void run() {
 				otz.doLongTimeTask();
 			}
 		},"t1");
 		Thread t2 = new Thread(new Runnable() {
-			@Override
 			public void run() {
 				otz.doLongTimeTask();
 			}

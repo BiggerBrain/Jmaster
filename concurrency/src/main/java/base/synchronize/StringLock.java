@@ -1,4 +1,4 @@
-package base.sync006;
+package base.synchronize;
 /**
  * synchronized代码块对字符串的锁，注意String常量池的缓存功能
  * @author alienware
@@ -24,13 +24,11 @@ public class StringLock {
 	public static void main(String[] args) {
 		final StringLock stringLock = new StringLock();
 		Thread t1 = new Thread(new Runnable() {
-			@Override
 			public void run() {
 				stringLock.method();
 			}
 		},"t1");
 		Thread t2 = new Thread(new Runnable() {
-			@Override
 			public void run() {
 				stringLock.method();
 			}
