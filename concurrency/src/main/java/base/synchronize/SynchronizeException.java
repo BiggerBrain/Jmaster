@@ -1,10 +1,10 @@
 package base.synchronize;
 /**
- * synchronized异常
- * @author alienware
+ * synchronized异常，出现异常会释放锁
+ * @author lishixiong
  *
  */
-public class SyncException {
+public class SynchronizeException {
 
 	private int i = 0;
 	public synchronized void operation(){
@@ -25,7 +25,7 @@ public class SyncException {
 	
 	public static void main(String[] args) {
 		
-		final SyncException se = new SyncException();
+		final SynchronizeException se = new SynchronizeException();
 		Thread t1 = new Thread(new Runnable() {
 			public void run() {
 				se.operation();

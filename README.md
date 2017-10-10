@@ -16,10 +16,19 @@
    表示并发相关的项目，力争从代码到底层虚拟机到操作系统到cpu，寄存器，内存的角度去分析理解并发！
    * base 
      基础入门
-      * [SimpleThread](./concurrency/src/main/java/base/SimpleThread.java)
-        从内存，CPU角度去理解线程
-      * [ReentrantSync](./concurrency/src/main/java/base/synchronize/ReentrantSync)
-        synchronize锁重入，原理
+     * [synchronize]
+       
+       synchronize的小细节
+       
+       * [SimpleThread](./concurrency/src/main/java/base/SimpleThread.java)
+         
+         从内存，CPU角度去理解线程
+       * [ReentrantSyncSimple](./concurrency/src/main/java/base/synchronize/ReentrantSyncSimple.java)
+         
+         synchronize锁重入，简单了解可重入
+       * [ReentrantSyncExtend](./concurrency/src/main/java/base/synchronize/ReentrantSyncExtend.java)
+          
+          ReentrantSyncExtend,父子继承下synchronize的可重入问题
       
       
       
