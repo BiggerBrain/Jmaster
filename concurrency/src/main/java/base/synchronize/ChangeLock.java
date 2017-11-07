@@ -1,7 +1,7 @@
 package base.synchronize;
 /**
  * 锁对象的改变问题
- * @author alienware
+ * @author 拉拉手奥森
  *
  */
 public class ChangeLock {
