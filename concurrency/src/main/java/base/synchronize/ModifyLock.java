@@ -1,7 +1,7 @@
 package base.synchronize;
 /**
  * 同一对象属性的修改不会影响锁的情况
- * @author shixiong li
+ * @author alienware
  *
  */
 public class ModifyLock {
