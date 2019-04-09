@@ -6,14 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="concurrency" />
-        <module name="jvm" />
+        <module name="thread_foundation" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="concurrency" target="1.5" />
+      <module name="a" target="1.5" />
       <module name="Jmaster" target="1.5" />
       <module name="jvm" target="1.5" />
+      <module name="multithreadfoundation" target="1.7" />
+      <module name="thread_foundation" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
