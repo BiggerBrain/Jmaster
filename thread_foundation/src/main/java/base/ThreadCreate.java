@@ -13,7 +13,7 @@ public class ThreadCreate extends Thread {
     public void run() {
         count--;
         // 格式化字符串，输出“当前线程”的线程名称
-        System.out.printf("1.Welcome! I'm %s.%n", Thread.currentThread().getName());
+        System.out.printf("1.Welcome! I'm %s,%d.%n", Thread.currentThread().getName(),count);
     }
     /**
      * 线程执行原理：
