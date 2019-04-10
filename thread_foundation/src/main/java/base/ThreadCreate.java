@@ -6,13 +6,14 @@ package base;
  *
  * @author lishixiong
  */
-public class SimpleThread extends Thread {
+public class ThreadCreate extends Thread {
 
     private int count = 5;
     //synchronized加锁，加锁后这个代码就是一根独木桥，一个时刻，只有一个线程运行
     public void run() {
         count--;
-        System.out.println(this.getId()+this.currentThread().getName() + " count = " + count);
+        // 格式化字符串，输出“当前线程”的线程名称
+        System.out.printf("1.Welcome! I'm %s.%n", Thread.currentThread().getName());
     }
     /**
      * 线程执行原理：
@@ -36,7 +37,7 @@ public class SimpleThread extends Thread {
          * 	2 如果拿到锁，执行synchronized代码体内容；拿不到锁，这个线程就会不断的尝试获得这把锁，直到拿到为止，
          * 	而且是多个线程同时去竞争这把锁。（也就是会有锁竞争的问题）
          */
-        SimpleThread simpleThread = new SimpleThread();
+        ThreadCreate simpleThread = new ThreadCreate();
 
         Thread t1 = new Thread(simpleThread, "t1");
         Thread t2 = new Thread(simpleThread, "t2");
