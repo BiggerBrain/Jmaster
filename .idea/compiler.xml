@@ -13,14 +13,11 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="a" target="1.5" />
-      <module name="design_pattern" target="1.5" />
-      <module name="java_basic" target="1.5" />
-      <module name="Jmaster" target="1.5" />
-      <module name="jvm" target="1.5" />
-      <module name="multithreadfoundation" target="1.7" />
-      <module name="thread_foundation" target="1.5" />
-      <module name="thread_pattern" target="1.5" />
+      <module name="design_pattern" target="8" />
+      <module name="java_basic" target="8" />
+      <module name="Jmaster" target="8" />
+      <module name="thread_foundation" target="8" />
+      <module name="thread_pattern" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
