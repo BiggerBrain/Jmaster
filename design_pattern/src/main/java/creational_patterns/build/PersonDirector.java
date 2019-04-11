@@ -1,8 +1,5 @@
-package creational_patterns.build_pattern;
+package creational_patterns.build;
 
-/**
- * Created by dell on 2017/11/14.
- */
 public class PersonDirector {
     public Person constructPerson(PersonBuilder pb) {
         pb.buildHead();

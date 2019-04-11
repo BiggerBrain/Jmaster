@@ -1,4 +1,4 @@
-package creational_patterns.single_pattern.hunger_singleton;
+package creational_patterns.single.hunger_singleton;
 
 /**
  * Created by dell on 2017/11/10.

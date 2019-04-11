@@ -1,4 +1,4 @@
-package creational_patterns.single_pattern.inner_class_singleton;
+package creational_patterns.single.inner_class_singleton;
 
 /**
  * Created by dell on 2017/11/10.

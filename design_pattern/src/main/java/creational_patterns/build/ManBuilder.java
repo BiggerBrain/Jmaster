@@ -1,4 +1,4 @@
-package creational_patterns.build_pattern;
+package creational_patterns.build;
 
 /**
  * Created by dell on 2017/11/14.

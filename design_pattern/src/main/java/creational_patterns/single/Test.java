@@ -1,9 +1,9 @@
-package creational_patterns.single_pattern;
+package creational_patterns.single;
 
-import creational_patterns.single_pattern.double_synchronized_singleton.SynchronizedSingleton;
-import creational_patterns.single_pattern.full_singleton.FullSingleton;
-import creational_patterns.single_pattern.hunger_singleton.HungerSingleton;
-import creational_patterns.single_pattern.inner_class_singleton.InnerSingleton;
+import creational_patterns.single.double_synchronized_singleton.SynchronizedSingleton;
+import creational_patterns.single.full_singleton.FullSingleton;
+import creational_patterns.single.hunger_singleton.HungerSingleton;
+import creational_patterns.single.inner_class_singleton.InnerSingleton;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

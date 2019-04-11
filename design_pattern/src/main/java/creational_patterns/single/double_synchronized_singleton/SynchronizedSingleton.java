@@ -1,4 +1,4 @@
-package creational_patterns.single_pattern.double_synchronized_singleton;
+package creational_patterns.single.double_synchronized_singleton;
 
 /**
  * Created by dell on 2017/11/10.
