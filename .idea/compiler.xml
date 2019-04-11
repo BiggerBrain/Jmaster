@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="design_pattern" />
         <module name="java_basic" />
         <module name="thread_foundation" />
         <module name="thread_pattern" />
@@ -13,6 +14,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="a" target="1.5" />
+      <module name="design_pattern" target="1.5" />
       <module name="java_basic" target="1.5" />
       <module name="Jmaster" target="1.5" />
       <module name="jvm" target="1.5" />

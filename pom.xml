@@ -12,6 +12,7 @@
         <module>java_basic</module>
         <module>thread_foundation</module>
         <module>thread_pattern</module>
+        <module>design_pattern</module>
     </modules>
 
 </project>

@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Jmaster.iml" filepath="$PROJECT_DIR$/Jmaster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design_pattern/design_pattern.iml" filepath="$PROJECT_DIR$/design_pattern/design_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/java_basic/java_basic.iml" filepath="$PROJECT_DIR$/java_basic/java_basic.iml" />
       <module fileurl="file://$PROJECT_DIR$/thread_foundation/thread_foundation.iml" filepath="$PROJECT_DIR$/thread_foundation/thread_foundation.iml" />
       <module fileurl="file://$PROJECT_DIR$/thread_pattern/thread_pattern.iml" filepath="$PROJECT_DIR$/thread_pattern/thread_pattern.iml" />
