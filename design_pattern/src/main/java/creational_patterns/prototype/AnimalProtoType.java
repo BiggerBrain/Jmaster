@@ -16,6 +16,7 @@ public class AnimalProtoType {
         shapeMap.put(dog.getId(),dog);
     }
     public static  Animal getShapeMap(String id) throws CloneNotSupportedException {
+        //注意，在这里执行原型的克隆
         return (Animal) shapeMap.get(id).clone();
     }
 }
