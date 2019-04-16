@@ -1,8 +1,6 @@
 package structural_patterns.bridge_pattern;
 
-/**
- * Created by dell on 2017/11/14.
- */
+
 abstract class Abstraction {
     // 持有一个 Implementor 对象，形成聚合关系
     protected Implementor implementor;

@@ -1,8 +1,6 @@
 package structural_patterns.bridge_pattern;
 
-/**
- * Created by dell on 2017/11/14.
- */
+
 class ConcreteImplementorB implements Implementor {
     @Override
     public void operationImpl() {
