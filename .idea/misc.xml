@@ -4,6 +4,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/design-pattern/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
@@ -12,6 +13,8 @@
         <option value="$PROJECT_DIR$/jvm/pom.xml" />
         <option value="$PROJECT_DIR$/multithread.design.patterns/pom.xml" />
         <option value="$PROJECT_DIR$/multithread.foundation/pom.xml" />
+        <option value="$PROJECT_DIR$/thread-foundation/pom.xml" />
+        <option value="$PROJECT_DIR$/thread-pattern/pom.xml" />
       </set>
     </option>
   </component>

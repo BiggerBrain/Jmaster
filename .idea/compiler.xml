@@ -6,18 +6,17 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="thread_pattern" />
-        <module name="java_basic" />
-        <module name="design_pattern" />
-        <module name="thread_foundation" />
+        <module name="java-basic" />
+        <module name="design-pattern" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="design-pattern" target="1.8" />
       <module name="design_pattern" target="1.8" />
-      <module name="java_basic" target="1.8" />
+      <module name="java-basic" target="1.8" />
       <module name="Jmaster" target="1.8" />
-      <module name="thread_foundation" target="1.8" />
-      <module name="thread_pattern" target="1.8" />
+      <module name="thread-foundation" target="1.8" />
+      <module name="thread-pattern" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
