@@ -1,328 +1,191 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/java-basic/src/main/java/string/StringFormatExample.java" line="11" />
-    <bookmark url="file://$PROJECT_DIR$/java-basic/src/main/java/list/ListDelete.java" line="34" mnemonic="9" />
+    <bookmark url="file://$PROJECT_DIR$/java-basic/src/main/java/string/StringFormatExample.java" line="12" />
+    <bookmark url="file://$PROJECT_DIR$/java-basic/src/main/java/list/ListDelete.java" line="28" mnemonic="9" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6372d871-7614-410b-8907-934c0d9e6dfb" name="Default Changelist" comment="原型模式">
-      <change afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/simple/factory/AppMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/simple/factory/MailProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/simple/factory/ProductEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/simple/factory/SmsProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/src/main/java/list/ListDelete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/src/main/resources/log4j2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/target/classes/ListDelete.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jmaster.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Jmaster.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral_patterns/commend_pattern/CeilingFanHighCommend.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral_patterns/commend_pattern/CeilingFanLowCommend.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral_patterns/commend_pattern/CeilingFanMediumCommend.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral_patterns/commend_pattern/CeilingFanOffCommend.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral_patterns/commend_pattern/Commend.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral_patterns/commend_pattern/LightOffCommend.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral_patterns/commend_pattern/LightOnCommend.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral_patterns/commend_pattern/NoCommend.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral_patterns/commend_pattern/RemoteController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral_patterns/commend_pattern/SimpleController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral_patterns/commend_pattern/SimpleControllerTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral_patterns/commend_pattern/SprinklerOffCommend.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral_patterns/commend_pattern/SprinklerOnCommend.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral_patterns/commend_pattern/StereoOffCommend.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral_patterns/commend_pattern/StereoOnCommend.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral_patterns/commend_pattern/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral_patterns/commend_pattern/entity/CeilingFan.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral_patterns/commend_pattern/entity/GaragerDoor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral_patterns/commend_pattern/entity/Light.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral_patterns/commend_pattern/entity/Sprinkler.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral_patterns/commend_pattern/entity/Stereo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral_patterns/observer_pattern/CurrentConditionDisplay.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral_patterns/observer_pattern/DisplayElement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral_patterns/observer_pattern/ForcastDisplay.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral_patterns/observer_pattern/Observer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral_patterns/observer_pattern/Subject.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral_patterns/observer_pattern/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral_patterns/observer_pattern/WeatherData.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral_patterns/observer_pattern/jdk_observer/CurrentConditionDisplay.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral_patterns/observer_pattern/jdk_observer/DisplayElement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral_patterns/observer_pattern/jdk_observer/ForcastDisplay.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral_patterns/observer_pattern/jdk_observer/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral_patterns/observer_pattern/jdk_observer/WeatherData.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral_patterns/status_pattern/GumballMachine.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral_patterns/status_pattern/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral_patterns/status_pattern/rebuilding/GumballMachine.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral_patterns/status_pattern/rebuilding/HasQuarterState.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral_patterns/status_pattern/rebuilding/NoQuarterState.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral_patterns/status_pattern/rebuilding/SoldOutState.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral_patterns/status_pattern/rebuilding/SoldState.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral_patterns/status_pattern/rebuilding/State.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral_patterns/status_pattern/rebuilding/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral_patterns/status_pattern/rebuilding/WinnerState.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral_patterns/strategy_pattern/DecoyDuck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral_patterns/strategy_pattern/Duck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral_patterns/strategy_pattern/FlyBehavior.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral_patterns/strategy_pattern/FlyNotWay.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral_patterns/strategy_pattern/FlyRocketWithPower.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral_patterns/strategy_pattern/FlyWithWings.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral_patterns/strategy_pattern/ModelDuck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral_patterns/strategy_pattern/MuteQuack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral_patterns/strategy_pattern/Quack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral_patterns/strategy_pattern/QuackBehavior.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral_patterns/strategy_pattern/RedHeadDuck.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral_patterns/strategy_pattern/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral_patterns/templet_pattern/Cafe.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral_patterns/templet_pattern/CafeTeeBeverage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral_patterns/templet_pattern/Tea.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral_patterns/templet_pattern/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral_patterns/visitor_pattern/ChrysanthemumConreteElement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral_patterns/visitor_pattern/ChrysanthemumVisitor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral_patterns/visitor_pattern/FlowerElement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral_patterns/visitor_pattern/GladiolusConcreteElement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral_patterns/visitor_pattern/GladiolusVisitor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral_patterns/visitor_pattern/ObjectStructure.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral_patterns/visitor_pattern/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral_patterns/visitor_pattern/Visitor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/design_pattern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/design-pattern.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/creational_patterns/abstract_factory/FactoryProduce.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/abstract_factory/FactoryProduce.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/creational_patterns/abstract_factory/MailFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/abstract_factory/MailFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/creational_patterns/abstract_factory/MailSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/abstract_factory/MailSender.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/creational_patterns/abstract_factory/Sender.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/abstract_factory/Sender.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/creational_patterns/abstract_factory/SmsFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/abstract_factory/SmsFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/creational_patterns/abstract_factory/SmsSender.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/abstract_factory/SmsSender.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/creational_patterns/abstract_factory/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/abstract_factory/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/creational_patterns/build/Man.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/build/Man.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/creational_patterns/build/ManBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/build/ManBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/creational_patterns/build/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/build/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/creational_patterns/build/PersonBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/build/PersonBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/creational_patterns/build/PersonDirector.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/build/PersonDirector.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/creational_patterns/build/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/build/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/creational_patterns/build/Woman.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/build/Woman.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/creational_patterns/build/WomanBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/build/WomanBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/creational_patterns/prototype/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/prototype/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/creational_patterns/prototype/AnimalProtoType.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/prototype/AnimalProtoType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/creational_patterns/prototype/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/prototype/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/creational_patterns/prototype/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/prototype/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/creational_patterns/prototype/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/prototype/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/creational_patterns/simple_factory/Fatory.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/simple/factory/Fatory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/creational_patterns/simple_factory/MailSender.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/creational_patterns/simple_factory/Sender.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/simple/factory/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/creational_patterns/simple_factory/SmsSender.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/creational_patterns/simple_factory/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/creational_patterns/simple_factory/普通工厂模式.md" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/resources/log4j2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/creational_patterns/single/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/single/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/creational_patterns/single/double_synchronized_singleton/SynchronizedSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/single/double_synchronized_singleton/SynchronizedSingleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/creational_patterns/single/full_singleton/FullSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/single/full_singleton/FullSingleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/creational_patterns/single/hunger_singleton/HungerSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/single/hunger_singleton/HungerSingleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/creational_patterns/single/inner_class_singleton/InnerSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/single/inner_class_singleton/InnerSingleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/structural_patterns/adapter/AndroidCharger.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/adapter/AndroidCharger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/structural_patterns/adapter/AppleCharger.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/adapter/AppleCharger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/structural_patterns/adapter/ILightning.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/adapter/ILightning.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/structural_patterns/adapter/ImicroUsb.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/adapter/ImicroUsb.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/structural_patterns/adapter/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/adapter/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/structural_patterns/adapter/适配器模式.md" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/adapter/适配器模式.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/structural_patterns/bridge_pattern/Abstraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/bridge_pattern/Abstraction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/structural_patterns/bridge_pattern/ConcreteImplementorA.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/bridge_pattern/ConcreteImplementorA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/structural_patterns/bridge_pattern/ConcreteImplementorB.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/bridge_pattern/ConcreteImplementorB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/structural_patterns/bridge_pattern/Implementor.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/bridge_pattern/Implementor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/structural_patterns/bridge_pattern/RefinedAbstraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/bridge_pattern/RefinedAbstraction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/structural_patterns/bridge_pattern/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/bridge_pattern/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/structural_patterns/composite_pattern/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/composite_pattern/Menu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/structural_patterns/composite_pattern/MenuComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/composite_pattern/MenuComponent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/structural_patterns/composite_pattern/MenuItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/composite_pattern/MenuItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/structural_patterns/composite_pattern/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/composite_pattern/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/structural_patterns/composite_pattern/Waitress.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/composite_pattern/Waitress.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/structural_patterns/decorate_pattern/Beverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/decorate_pattern/Beverage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/structural_patterns/decorate_pattern/CondimentDecorate.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/decorate_pattern/CondimentDecorate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/structural_patterns/decorate_pattern/Espresso.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/decorate_pattern/Espresso.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/structural_patterns/decorate_pattern/HouseCafe.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/decorate_pattern/HouseCafe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/structural_patterns/decorate_pattern/Moca.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/decorate_pattern/Moca.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/structural_patterns/decorate_pattern/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/decorate_pattern/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/structural_patterns/facade_pattern/CPU.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/facade_pattern/CPU.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/structural_patterns/facade_pattern/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/facade_pattern/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/structural_patterns/facade_pattern/Disk.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/facade_pattern/Disk.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/structural_patterns/facade_pattern/Memory.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/facade_pattern/Memory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/java/structural_patterns/facade_pattern/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/facade_pattern/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/resources/中介者模式" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/resources/享元模式" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/resources/代理模式" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/resources/单例模式" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/resources/原型模式" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/resources/命令模式" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/resources/备忘录模式" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/resources/外观模式" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/resources/建造者模式" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/resources/抽象工厂模式.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/resources/普通工厂模式" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/resources/桥接模式" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/resources/组合模式" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/resources/装饰模式" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/resources/观察者模式" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/resources/解释器模式" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/resources/访问者模式" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/src/main/resources/迭代子模式" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/behavioral_patterns/commend_pattern/CeilingFanHighCommend.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/behavioral_patterns/commend_pattern/CeilingFanLowCommend.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/behavioral_patterns/commend_pattern/CeilingFanMediumCommend.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/behavioral_patterns/commend_pattern/CeilingFanOffCommend.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/behavioral_patterns/commend_pattern/Commend.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/behavioral_patterns/commend_pattern/LightOffCommend.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/behavioral_patterns/commend_pattern/LightOnCommend.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/behavioral_patterns/commend_pattern/NoCommend.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/behavioral_patterns/commend_pattern/RemoteController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/behavioral_patterns/commend_pattern/SimpleController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/behavioral_patterns/commend_pattern/SimpleControllerTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/behavioral_patterns/commend_pattern/SprinklerOffCommend.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/behavioral_patterns/commend_pattern/SprinklerOnCommend.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/behavioral_patterns/commend_pattern/StereoOffCommend.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/behavioral_patterns/commend_pattern/StereoOnCommend.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/behavioral_patterns/commend_pattern/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/behavioral_patterns/commend_pattern/entity/CeilingFan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/behavioral_patterns/commend_pattern/entity/GaragerDoor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/behavioral_patterns/commend_pattern/entity/Light.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/behavioral_patterns/commend_pattern/entity/Sprinkler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/behavioral_patterns/commend_pattern/entity/Stereo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/behavioral_patterns/observer_pattern/CurrentConditionDisplay.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/behavioral_patterns/observer_pattern/DisplayElement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/behavioral_patterns/observer_pattern/ForcastDisplay.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/behavioral_patterns/observer_pattern/Observer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/behavioral_patterns/observer_pattern/Subject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/behavioral_patterns/observer_pattern/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/behavioral_patterns/observer_pattern/WeatherData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/behavioral_patterns/observer_pattern/jdk_observer/CurrentConditionDisplay.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/behavioral_patterns/observer_pattern/jdk_observer/DisplayElement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/behavioral_patterns/observer_pattern/jdk_observer/ForcastDisplay.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/behavioral_patterns/observer_pattern/jdk_observer/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/behavioral_patterns/observer_pattern/jdk_observer/WeatherData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/behavioral_patterns/status_pattern/GumballMachine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/behavioral_patterns/status_pattern/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/behavioral_patterns/status_pattern/rebuilding/GumballMachine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/behavioral_patterns/status_pattern/rebuilding/HasQuarterState.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/behavioral_patterns/status_pattern/rebuilding/NoQuarterState.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/behavioral_patterns/status_pattern/rebuilding/SoldOutState.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/behavioral_patterns/status_pattern/rebuilding/SoldState.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/behavioral_patterns/status_pattern/rebuilding/State.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/behavioral_patterns/status_pattern/rebuilding/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/behavioral_patterns/status_pattern/rebuilding/WinnerState.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/behavioral_patterns/strategy_pattern/DecoyDuck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/behavioral_patterns/strategy_pattern/Duck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/behavioral_patterns/strategy_pattern/FlyBehavior.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/behavioral_patterns/strategy_pattern/FlyNotWay.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/behavioral_patterns/strategy_pattern/FlyRocketWithPower.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/behavioral_patterns/strategy_pattern/FlyWithWings.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/behavioral_patterns/strategy_pattern/ModelDuck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/behavioral_patterns/strategy_pattern/MuteQuack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/behavioral_patterns/strategy_pattern/Quack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/behavioral_patterns/strategy_pattern/QuackBehavior.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/behavioral_patterns/strategy_pattern/RedHeadDuck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/behavioral_patterns/strategy_pattern/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/behavioral_patterns/templet_pattern/Cafe.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/behavioral_patterns/templet_pattern/CafeTeeBeverage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/behavioral_patterns/templet_pattern/Tea.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/behavioral_patterns/templet_pattern/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/behavioral_patterns/visitor_pattern/ChrysanthemumConreteElement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/behavioral_patterns/visitor_pattern/ChrysanthemumVisitor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/behavioral_patterns/visitor_pattern/FlowerElement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/behavioral_patterns/visitor_pattern/GladiolusConcreteElement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/behavioral_patterns/visitor_pattern/GladiolusVisitor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/behavioral_patterns/visitor_pattern/ObjectStructure.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/behavioral_patterns/visitor_pattern/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/behavioral_patterns/visitor_pattern/Visitor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/creational_patterns/abstract_factory/FactoryProduce.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/creational_patterns/abstract_factory/MailFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/creational_patterns/abstract_factory/MailSender.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/creational_patterns/abstract_factory/Sender.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/creational_patterns/abstract_factory/SmsFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/creational_patterns/abstract_factory/SmsSender.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/creational_patterns/abstract_factory/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/creational_patterns/build/Man.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/creational_patterns/build/ManBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/creational_patterns/build/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/creational_patterns/build/PersonBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/creational_patterns/build/PersonDirector.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/creational_patterns/build/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/creational_patterns/build/Woman.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/creational_patterns/build/WomanBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/creational_patterns/prototype/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/creational_patterns/prototype/AnimalProtoType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/creational_patterns/prototype/Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/creational_patterns/prototype/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/creational_patterns/prototype/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/creational_patterns/simple_factory/Fatory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/creational_patterns/simple_factory/MailSender.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/creational_patterns/simple_factory/Sender.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/creational_patterns/simple_factory/SmsSender.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/creational_patterns/simple_factory/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/creational_patterns/single/Test$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/creational_patterns/single/Test$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/creational_patterns/single/Test$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/creational_patterns/single/Test$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/creational_patterns/single/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/creational_patterns/single/double_synchronized_singleton/SynchronizedSingleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/creational_patterns/single/full_singleton/FullSingleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/creational_patterns/single/hunger_singleton/HungerSingleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/creational_patterns/single/inner_class_singleton/InnerSingleton$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/creational_patterns/single/inner_class_singleton/InnerSingleton$singleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/creational_patterns/single/inner_class_singleton/InnerSingleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/structural_patterns/adapter/AndroidCharger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/structural_patterns/adapter/AppleCharger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/structural_patterns/adapter/ILightning.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/structural_patterns/adapter/ImicroUsb.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/structural_patterns/adapter/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/structural_patterns/bridge_pattern/Abstraction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/structural_patterns/bridge_pattern/ConcreteImplementorA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/structural_patterns/bridge_pattern/ConcreteImplementorB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/structural_patterns/bridge_pattern/Implementor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/structural_patterns/bridge_pattern/RefinedAbstraction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/structural_patterns/bridge_pattern/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/structural_patterns/composite_pattern/Menu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/structural_patterns/composite_pattern/MenuComponent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/structural_patterns/composite_pattern/MenuItem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/structural_patterns/composite_pattern/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/structural_patterns/composite_pattern/Waitress.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/structural_patterns/decorate_pattern/Beverage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/structural_patterns/decorate_pattern/CondimentDecorate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/structural_patterns/decorate_pattern/Espresso.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/structural_patterns/decorate_pattern/HouseCafe.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/structural_patterns/decorate_pattern/Moca.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/structural_patterns/decorate_pattern/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/structural_patterns/facade_pattern/CPU.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/structural_patterns/facade_pattern/Computer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/structural_patterns/facade_pattern/Disk.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/structural_patterns/facade_pattern/Memory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/structural_patterns/facade_pattern/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/中介者模式" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/享元模式" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/代理模式" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/单例模式" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/原型模式" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/命令模式" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/备忘录模式" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/外观模式" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/建造者模式" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/抽象工厂模式.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/普通工厂模式" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/桥接模式" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/组合模式" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/装饰模式" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/观察者模式" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/解释器模式" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/访问者模式" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/design_pattern/target/classes/迭代子模式" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_basic/java_basic.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_basic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_basic/src/main/java/StringFormatExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/src/main/java/string/StringFormatExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_basic/target/classes/StringFormatExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/target/classes/StringFormatExample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/abs/AppMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/abs/Factory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/abs/IFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/abs/IMailProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/abs/ISmsProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/abs/MailProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/abs/SmsProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/method/AppMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/method/IFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/method/IProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/method/MailFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/method/MailProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/method/SmsFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/method/SmsProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/simple/AppMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/simple/Fatory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/simple/IProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/simple/MailProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/simple/SmsProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-basic/src/main/java/example/EnumExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/commend_pattern/CeilingFanHighCommend.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/commend_pattern/CeilingFanHighCommend.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/observer_pattern/CurrentConditionDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/observer/CurrentConditionDisplay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/observer_pattern/DisplayElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/observer/DisplayElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/observer_pattern/ForcastDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/observer/ForcastDisplay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/observer_pattern/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/observer/Observer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/observer_pattern/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/observer/Subject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/observer_pattern/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/observer/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/observer_pattern/WeatherData.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/observer/WeatherData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/observer_pattern/jdk_observer/CurrentConditionDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/observer/jdk_observer/CurrentConditionDisplay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/observer_pattern/jdk_observer/DisplayElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/observer/jdk_observer/DisplayElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/observer_pattern/jdk_observer/ForcastDisplay.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/observer/jdk_observer/ForcastDisplay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/observer_pattern/jdk_observer/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/observer/jdk_observer/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/observer_pattern/jdk_observer/WeatherData.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/observer/jdk_observer/WeatherData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/abstract_factory/FactoryProduce.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/abstract_factory/MailFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/abstract_factory/MailSender.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/abstract_factory/Sender.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/abstract_factory/SmsFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/abstract_factory/SmsSender.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/abstract_factory/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/build/Man.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/build/Man.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/build/ManBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/build/ManBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/build/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/build/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/build/PersonBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/build/PersonBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/build/PersonDirector.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/build/PersonDirector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/build/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/build/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/build/Woman.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/build/Woman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/build/WomanBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/build/WomanBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/prototype/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/prototype/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/prototype/AnimalProtoType.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/prototype/AnimalProtoType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/prototype/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/prototype/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/prototype/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/prototype/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/prototype/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/prototype/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/simple/factory/AppMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/simple/factory/Fatory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/simple/factory/MailProduct.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/simple/factory/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/simple/factory/ProductEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/simple/ProductEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/simple/factory/SmsProduct.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/single/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/single/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/single/double_synchronized_singleton/SynchronizedSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/single/double_synchronized_singleton/SynchronizedSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/single/full_singleton/FullSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/single/full_singleton/FullSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/single/hunger_singleton/HungerSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/single/hunger_singleton/HungerSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/single/inner_class_singleton/InnerSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/single/inner_class_singleton/InnerSingleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/adapter/AndroidCharger.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/structural/patterns/adapter/AndroidCharger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/adapter/AppleCharger.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/structural/patterns/adapter/AppleCharger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/adapter/ILightning.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/structural/patterns/adapter/ILightning.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/adapter/ImicroUsb.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/structural/patterns/adapter/ImicroUsb.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/adapter/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/structural/patterns/adapter/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/adapter/适配器模式.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/bridge_pattern/Abstraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/structural/patterns/bridge_pattern/Abstraction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/bridge_pattern/ConcreteImplementorA.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/structural/patterns/bridge_pattern/ConcreteImplementorA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/bridge_pattern/ConcreteImplementorB.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/structural/patterns/bridge_pattern/ConcreteImplementorB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/bridge_pattern/Implementor.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/structural/patterns/bridge_pattern/Implementor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/bridge_pattern/RefinedAbstraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/structural/patterns/bridge_pattern/RefinedAbstraction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/bridge_pattern/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/structural/patterns/bridge_pattern/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/composite_pattern/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/structural/patterns/composite_pattern/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/composite_pattern/MenuComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/structural/patterns/composite_pattern/MenuComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/composite_pattern/MenuItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/structural/patterns/composite_pattern/MenuItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/composite_pattern/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/structural/patterns/composite_pattern/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/composite_pattern/Waitress.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/structural/patterns/composite_pattern/Waitress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/decorate_pattern/Beverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/structural/patterns/decorate_pattern/Beverage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/decorate_pattern/CondimentDecorate.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/structural/patterns/decorate_pattern/CondimentDecorate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/decorate_pattern/Espresso.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/structural/patterns/decorate_pattern/Espresso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/decorate_pattern/HouseCafe.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/structural/patterns/decorate_pattern/HouseCafe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/decorate_pattern/Moca.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/structural/patterns/decorate_pattern/Moca.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/decorate_pattern/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/structural/patterns/decorate_pattern/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/facade_pattern/CPU.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/structural/patterns/facade_pattern/CPU.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/facade_pattern/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/structural/patterns/facade_pattern/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/facade_pattern/Disk.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/structural/patterns/facade_pattern/Disk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/facade_pattern/Memory.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/structural/patterns/facade_pattern/Memory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/facade_pattern/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/structural/patterns/facade_pattern/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/resources/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/resources/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/behavioral/patterns/observer_pattern/CurrentConditionDisplay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/behavioral/patterns/observer_pattern/DisplayElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/behavioral/patterns/observer_pattern/ForcastDisplay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/behavioral/patterns/observer_pattern/Observer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/behavioral/patterns/observer_pattern/Subject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/behavioral/patterns/observer_pattern/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/behavioral/patterns/observer_pattern/WeatherData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/behavioral/patterns/observer_pattern/jdk_observer/CurrentConditionDisplay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/behavioral/patterns/observer_pattern/jdk_observer/DisplayElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/behavioral/patterns/observer_pattern/jdk_observer/ForcastDisplay.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/behavioral/patterns/observer_pattern/jdk_observer/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/behavioral/patterns/observer_pattern/jdk_observer/WeatherData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/creational_patterns/abstract_factory/FactoryProduce.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/creational_patterns/abstract_factory/MailFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/creational_patterns/abstract_factory/MailSender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/creational_patterns/abstract_factory/Sender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/creational_patterns/abstract_factory/SmsFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/creational_patterns/abstract_factory/SmsSender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/creational_patterns/abstract_factory/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/creational_patterns/build/Man.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/creational_patterns/build/ManBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/creational_patterns/build/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/creational_patterns/build/PersonBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/creational_patterns/build/PersonDirector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/creational_patterns/build/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/creational_patterns/build/Woman.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/creational_patterns/build/WomanBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/creational_patterns/prototype/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/creational_patterns/prototype/AnimalProtoType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/creational_patterns/prototype/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/creational_patterns/prototype/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/creational_patterns/prototype/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/creational_patterns/simple/factory/AppMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/creational_patterns/simple/factory/Fatory$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/creational_patterns/simple/factory/Fatory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/creational_patterns/simple/factory/MailProduct.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/creational_patterns/simple/factory/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/creational_patterns/simple/factory/ProductEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/creational_patterns/simple/factory/SmsProduct.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/creational_patterns/single/Test$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/creational_patterns/single/Test$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/creational_patterns/single/Test$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/creational_patterns/single/Test$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/creational_patterns/single/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/creational_patterns/single/double_synchronized_singleton/SynchronizedSingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/creational_patterns/single/full_singleton/FullSingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/creational_patterns/single/hunger_singleton/HungerSingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/creational_patterns/single/inner_class_singleton/InnerSingleton$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/creational_patterns/single/inner_class_singleton/InnerSingleton$singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/creational_patterns/single/inner_class_singleton/InnerSingleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/target/classes/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/structural_patterns/adapter/AndroidCharger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/structural_patterns/adapter/AppleCharger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/structural_patterns/adapter/ILightning.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/structural_patterns/adapter/ImicroUsb.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/structural_patterns/adapter/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/structural_patterns/bridge_pattern/Abstraction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/structural_patterns/bridge_pattern/ConcreteImplementorA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/structural_patterns/bridge_pattern/ConcreteImplementorB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/structural_patterns/bridge_pattern/Implementor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/structural_patterns/bridge_pattern/RefinedAbstraction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/structural_patterns/bridge_pattern/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/structural_patterns/composite_pattern/Menu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/structural_patterns/composite_pattern/MenuComponent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/structural_patterns/composite_pattern/MenuItem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/structural_patterns/composite_pattern/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/structural_patterns/composite_pattern/Waitress.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/structural_patterns/decorate_pattern/Beverage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/structural_patterns/decorate_pattern/CondimentDecorate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/structural_patterns/decorate_pattern/Espresso.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/structural_patterns/decorate_pattern/HouseCafe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/structural_patterns/decorate_pattern/Moca.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/structural_patterns/decorate_pattern/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/structural_patterns/facade_pattern/CPU.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/structural_patterns/facade_pattern/Computer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/structural_patterns/facade_pattern/Disk.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/structural_patterns/facade_pattern/Memory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/target/classes/structural_patterns/facade_pattern/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basic/java-basic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/java-basic.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basic/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basic/src/main/java/list/ListDelete.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/src/main/java/list/ListDelete.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basic/src/main/java/string/StringFormatExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/src/main/java/string/StringFormatExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basic/src/main/java/thread/ThreadCreate.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/src/main/java/thread/ThreadCreate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basic/src/main/resources/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/src/main/resources/log4j2.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thread-foundation/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/thread-foundation/src/main/java/base/ThreadCreate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/thread-foundation/src/main/java/communication/WaitNotifyExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/thread-foundation/target/classes/base/ThreadCreate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/thread-foundation/target/classes/communication/Consumer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/thread-foundation/target/classes/communication/Producer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/thread-foundation/target/classes/communication/WaitNotifyExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/thread-foundation/thread-foundation.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/thread_pattern/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/thread_pattern/thread_pattern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/java-basic.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/jvm/target/" />
@@ -356,96 +219,108 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/simple/factory/AppMain.java">
+        <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/simple/AppMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="4" column="73" selection-start-line="4" selection-start-column="73" selection-end-line="4" selection-end-column="73" />
+            <state relative-caret-position="220">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/simple/factory/Product.java">
+        <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/abs/SmsProduct.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="4" column="73" selection-start-line="4" selection-start-column="73" selection-end-line="4" selection-end-column="73" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/simple/factory/SmsProduct.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="6" column="73" selection-start-line="6" selection-start-column="73" selection-end-line="6" selection-end-column="73" />
+            <state relative-caret-position="260">
+              <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
               <folding>
-                <element signature="e#270#271#0" expanded="true" />
-                <element signature="e#301#302#0" expanded="true" />
+                <element signature="e#346#347#0" expanded="true" />
+                <element signature="e#386#387#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/simple/factory/Fatory.java">
+        <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/method/SmsProduct.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="6" column="73" selection-start-line="6" selection-start-column="73" selection-end-line="6" selection-end-column="73" />
+            <state relative-caret-position="200">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/simple/factory/ProductEnum.java">
+        <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/abs/MailProduct.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="8" selection-end-column="73" />
+            <state relative-caret-position="260">
+              <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+              <folding>
+                <element signature="e#344#345#0" expanded="true" />
+                <element signature="e#384#385#0" expanded="true" />
+              </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-basic/src/main/java/thread/ThreadCreate.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-basic/src/main/resources/log4j2.xml">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java-basic/src/main/java/list/ListDelete.java">
+        <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/abs/AppMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+            <state relative-caret-position="240">
+              <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/abs/ISmsProduct.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/abs/IMailProduct.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/method/SmsFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#321#322#0" expanded="true" />
+                <element signature="e#360#361#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-basic/src/main/java/thread/WaitNotifyExample.java">
+        <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/abs/IFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="51" column="6" selection-start-line="51" selection-start-column="6" selection-end-line="51" selection-end-column="6" />
+            <state relative-caret-position="160">
+              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="14" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-basic/src/main/java/string/StringFormatExample.java">
+        <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/abs/Factory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            <state relative-caret-position="300">
+              <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#314#315#0" expanded="true" />
+                <element signature="e#351#352#0" expanded="true" />
+                <element signature="e#396#397#0" expanded="true" />
+                <element signature="e#423#424#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -456,9 +331,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
+        <option value="Kotlin Class" />
         <option value="Interface" />
         <option value="Class" />
-        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -468,42 +344,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/design_pattern/src/main/java/abstract_factory_pattern/FactoryProduce.java" />
-        <option value="$PROJECT_DIR$/design_pattern/src/main/java/creational_patterns/abstract_factory_pattern/FactoryProduce.java" />
-        <option value="$PROJECT_DIR$/design_pattern/src/main/java/creational_patterns/abstract_factory/FactoryProduce.java" />
-        <option value="$PROJECT_DIR$/design_pattern/src/main/java/creational_patterns/simple_factory/Sender.java" />
-        <option value="$PROJECT_DIR$/design_pattern/src/main/java/creational_patterns/simple_factory/MailSender.java" />
-        <option value="$PROJECT_DIR$/design_pattern/src/main/java/creational_patterns/simple_factory/SmsSender.java" />
-        <option value="$PROJECT_DIR$/design_pattern/src/main/java/creational_patterns/simple_factory/Fatory.java" />
-        <option value="$PROJECT_DIR$/design_pattern/src/main/java/creational_patterns/simple_factory/Test.java" />
-        <option value="$PROJECT_DIR$/design_pattern/src/main/java/behavioral_patterns/commend_pattern/Test.java" />
-        <option value="$PROJECT_DIR$/design_pattern/src/main/java/creational_patterns/build_pattern/PersonDirector.java" />
-        <option value="$PROJECT_DIR$/design_pattern/src/main/java/creational_patterns/build_pattern/Woman.java" />
-        <option value="$PROJECT_DIR$/design_pattern/src/main/java/creational_patterns/build_pattern/Test.java" />
-        <option value="$PROJECT_DIR$/design_pattern/src/main/java/creational_patterns/build/Test.java" />
-        <option value="$PROJECT_DIR$/design_pattern/src/main/java/creational_patterns/prototype/Animal.java" />
-        <option value="$PROJECT_DIR$/design_pattern/src/main/java/creational_patterns/prototype/Cat.java" />
-        <option value="$PROJECT_DIR$/design_pattern/src/main/java/creational_patterns/prototype/Dog.java" />
-        <option value="$PROJECT_DIR$/design_pattern/src/main/java/creational_patterns/prototype/Test.java" />
-        <option value="$PROJECT_DIR$/design_pattern/src/main/java/creational_patterns/prototype/AnimalProtoType.java" />
-        <option value="$PROJECT_DIR$/design_pattern/src/main/java/structural_patterns/bridge_pattern/Abstraction.java" />
-        <option value="$PROJECT_DIR$/design_pattern/src/main/java/structural_patterns/bridge_pattern/ConcreteImplementorA.java" />
-        <option value="$PROJECT_DIR$/design_pattern/src/main/java/structural_patterns/bridge_pattern/ConcreteImplementorB.java" />
-        <option value="$PROJECT_DIR$/design_pattern/src/main/java/structural_patterns/adapter/AdvancedMediaPlayer.java" />
-        <option value="$PROJECT_DIR$/design_pattern/src/main/java/structural_patterns/adapter/MediaPlayer.java" />
-        <option value="$PROJECT_DIR$/design_pattern/src/main/java/structural_patterns/adapter/ImicroUsb.java" />
-        <option value="$PROJECT_DIR$/design_pattern/src/main/java/structural_patterns/adapter/ILightning.java" />
-        <option value="$PROJECT_DIR$/design_pattern/src/main/java/structural_patterns/adapter/AndroidCharger.java" />
-        <option value="$PROJECT_DIR$/design_pattern/src/main/java/structural_patterns/adapter/AppleCharger.java" />
-        <option value="$PROJECT_DIR$/design_pattern/src/main/java/structural_patterns/adapter/Test.java" />
-        <option value="$PROJECT_DIR$/Jmaster.iml" />
-        <option value="$PROJECT_DIR$/design_pattern/design_pattern.iml" />
-        <option value="$PROJECT_DIR$/java_basic/src/main/java/StringFormatExample.java" />
-        <option value="$PROJECT_DIR$/java_basic/src/main/java/ListDelete.java" />
-        <option value="$PROJECT_DIR$/design_pattern/src/main/java/behavioral_patterns/commend_pattern/CeilingFanHighCommend.java" />
-        <option value="$PROJECT_DIR$/java-basic/src/main/java/ThreadCreate.java" />
-        <option value="$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/simple/factory/Test.java" />
-        <option value="$PROJECT_DIR$/java-basic/pom.xml" />
         <option value="$PROJECT_DIR$/design-pattern/pom.xml" />
         <option value="$PROJECT_DIR$/java-basic/src/main/java/ListDelete.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
@@ -518,7 +358,43 @@
         <option value="$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/simple/factory/Product.java" />
         <option value="$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/simple/factory/SmsProduct.java" />
         <option value="$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/simple/factory/AppMain.java" />
+        <option value="$PROJECT_DIR$/java-basic/src/main/java/string/StringFormatExample.java" />
         <option value="$PROJECT_DIR$/java-basic/src/main/java/list/ListDelete.java" />
+        <option value="$PROJECT_DIR$/java-basic/src/main/java/enumlearn/EnumLearn.java" />
+        <option value="$PROJECT_DIR$/java-basic/src/main/java/example/EnumLearn.java" />
+        <option value="$PROJECT_DIR$/java-basic/src/main/java/example/EnumExample.java" />
+        <option value="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/simple/factory/AppMain.java" />
+        <option value="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/simple/factory/MailProduct.java" />
+        <option value="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/simple/factory/Product.java" />
+        <option value="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/simple/factory/ProductEnum.java" />
+        <option value="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/simple/factory/SmsProduct.java" />
+        <option value="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/simple/factory/Fatory.java" />
+        <option value="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/method/IFactory.java" />
+        <option value="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/simple/Fatory.java" />
+        <option value="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/simple/IProduct.java" />
+        <option value="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/simple/MailProduct.java" />
+        <option value="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/simple/SmsProduct.java" />
+        <option value="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/method/ProductEnum.java" />
+        <option value="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/method/MailFactory.java" />
+        <option value="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/method/SmsFactory.java" />
+        <option value="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/abstract/Sender.java" />
+        <option value="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/abstract/FactoryProduce.java" />
+        <option value="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/abs/Test.java" />
+        <option value="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/abs/IProduct1.java" />
+        <option value="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/method/AppMain.java" />
+        <option value="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/simple/AppMain.java" />
+        <option value="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/abs/Product1.java" />
+        <option value="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/abs/Product2.java" />
+        <option value="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/abs/IFactory.java" />
+        <option value="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/abs/Factory.java" />
+        <option value="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/abs/AppMain.java" />
+        <option value="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/abs/IProduct2.java" />
+        <option value="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/abs/IProductB.java" />
+        <option value="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/abs/IProductA.java" />
+        <option value="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/abs/ISmsProduct.java" />
+        <option value="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/abs/ProductA.java" />
+        <option value="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/abs/SmsProduct.java" />
+        <option value="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/abs/MailProduct.java" />
       </list>
     </option>
   </component>
@@ -564,11 +440,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="x" value="-13" />
-    <option name="y" value="83" />
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
-    <option name="height" value="812" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -578,6 +452,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Jmaster" type="58d84e3e:PackageViewProjectNode" />
+              <item name="java-basic" type="616d4139:PackageViewModuleNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -610,61 +495,57 @@
               <item name="design-pattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Jmaster" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Jmaster" type="462c0819:PsiDirectoryNode" />
-              <item name="java-basic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Jmaster" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Jmaster" type="462c0819:PsiDirectoryNode" />
-              <item name="java-basic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Jmaster" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Jmaster" type="462c0819:PsiDirectoryNode" />
-              <item name="java-basic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Jmaster" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Jmaster" type="462c0819:PsiDirectoryNode" />
-              <item name="java-basic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Jmaster" type="b2602c69:ProjectViewProjectNode" />
               <item name="Jmaster" type="462c0819:PsiDirectoryNode" />
-              <item name="java-basic" type="462c0819:PsiDirectoryNode" />
+              <item name="design-pattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="list" type="462c0819:PsiDirectoryNode" />
+              <item name="patterns" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Jmaster" type="b2602c69:ProjectViewProjectNode" />
               <item name="Jmaster" type="462c0819:PsiDirectoryNode" />
-              <item name="java-basic" type="462c0819:PsiDirectoryNode" />
+              <item name="design-pattern" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="patterns" type="462c0819:PsiDirectoryNode" />
             </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
             <path>
-              <item name="Jmaster" type="58d84e3e:PackageViewProjectNode" />
-              <item name="java-basic" type="616d4139:PackageViewModuleNode" />
+              <item name="Jmaster" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Jmaster" type="462c0819:PsiDirectoryNode" />
+              <item name="design-pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="factory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Jmaster" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Jmaster" type="462c0819:PsiDirectoryNode" />
+              <item name="design-pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="factory" type="462c0819:PsiDirectoryNode" />
+              <item name="abs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Jmaster" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Jmaster" type="462c0819:PsiDirectoryNode" />
+              <item name="design-pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="factory" type="462c0819:PsiDirectoryNode" />
+              <item name="simple" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -686,7 +567,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555571905218" />
     <property name="editor.config.ad.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/java-basic/src/main" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/abs" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -694,17 +575,20 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/java-basic/src/main" />
-      <recent name="$PROJECT_DIR$/java-basic/src/main/java" />
-      <recent name="C:\Users\admin\IdeaProjects\Jmaster\design_pattern\src\main\java\creational_patterns\simple_factory" />
-      <recent name="C:\Users\admin\IdeaProjects\Jmaster\design_pattern\src\main\java" />
-      <recent name="C:\Users\admin\IdeaProjects\Jmaster\thread_foundation\src\main\java" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\admin\IdeaProjects\Jmaster\design_pattern\src\main\java\creational_patterns\simple_factory" />
       <recent name="C:\Users\admin\IdeaProjects\Jmaster\design_pattern\src\main\resources" />
       <recent name="C:\Users\admin\IdeaProjects\Jmaster\concurrency\src\main" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="creational.patterns.factory.abs" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/abs" />
+      <recent name="$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/method" />
+      <recent name="$PROJECT_DIR$/java-basic/src/main" />
+      <recent name="$PROJECT_DIR$/java-basic/src/main/java" />
+      <recent name="C:\Users\admin\IdeaProjects\Jmaster\design_pattern\src\main\java\creational_patterns\simple_factory" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -719,13 +603,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AppMain">
+  <component name="RunManager" selected="Application.AppMain (3)">
+    <configuration name="AppMain (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="creational.patterns.factory.method.AppMain" />
+      <module name="design-pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="creational.patterns.factory.method.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppMain (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example.AppMain" />
+      <module name="java-basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="AppMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="creational_patterns.simple.factory.AppMain" />
+      <option name="MAIN_CLASS_NAME" value="creational.patterns.factory.abs.AppMain" />
       <module name="design-pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="creational_patterns.simple.factory.*" />
+          <option name="PATTERN" value="creational.patterns.factory.abs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -733,26 +643,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListDelete" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="list.ListDelete" />
-      <module name="java-basic" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringFormatExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string.StringFormatExample" />
-      <module name="java-basic" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="behavioral_patterns.commend_pattern.Test" />
+    <configuration name="AppMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="creational.patterns.simple.factory.AppMain" />
       <module name="design-pattern" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="behavioral_patterns.commend_pattern.*" />
+          <option name="PATTERN" value="creational.patterns.simple.factory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -760,12 +656,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="behavioral_patterns.visitor_pattern.Test" />
-      <module name="design-pattern" />
+    <configuration name="EnumLearn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example.EnumLearn" />
+      <module name="java-basic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="behavioral_patterns.visitor_pattern.*" />
+          <option name="PATTERN" value="example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -788,11 +684,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AppMain" />
-        <item itemvalue="Application.ListDelete" />
-        <item itemvalue="Application.StringFormatExample" />
-        <item itemvalue="Application.Test (2)" />
-        <item itemvalue="Application.Test (4)" />
+        <item itemvalue="Application.AppMain (3)" />
+        <item itemvalue="Application.AppMain (1)" />
+        <item itemvalue="Application.AppMain (1)" />
+        <item itemvalue="Application.AppMain (2)" />
+        <item itemvalue="Application.EnumLearn" />
       </list>
     </recent_temporary>
   </component>
@@ -914,10 +810,10 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" sideWeight="0.50128204" side_tool="true" weight="0.18063584" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49871793" visible="true" weight="0.23627168" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49871793" visible="true" weight="0.2817919" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.48121387" visible="true" weight="0.33846155" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32948717" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.48121387" visible="true" weight="0.33846155" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1013,180 +909,7 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/prototype/Dog.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
-          <folding>
-            <element signature="e#91#92#0" expanded="true" />
-            <element signature="e#122#123#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/build/Woman.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/build/PersonBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="14" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/prototype/AnimalProtoType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/bridge_pattern/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/bridge_pattern/RefinedAbstraction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/structural_patterns/adapter/AdvancedMediaPlayer.java" />
-    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/structural_patterns/adapter/MediaPlayer.java" />
-    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/adapter/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/adapter/ImicroUsb.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/adapter/ILightning.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/adapter/AndroidCharger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/adapter/AppleCharger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="e#200#201#0" expanded="true" />
-            <element signature="e#259#260#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/adapter/适配器模式.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/commend_pattern/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/observer_pattern/WeatherData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
-          <folding>
-            <element signature="e#332#333#0" expanded="true" />
-            <element signature="e#377#378#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/bridge_pattern/Implementor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/bridge_pattern/Abstraction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/bridge_pattern/ConcreteImplementorA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/structural_patterns/bridge_pattern/ConcreteImplementorB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/commend_pattern/CeilingFanHighCommend.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="22" column="63" selection-start-line="22" selection-start-column="63" selection-end-line="22" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/visitor_pattern/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread-pattern/thread-pattern.iml" />
-    <entry file="file://$PROJECT_DIR$/thread-pattern/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/thread-foundation/src/main/java/communication/WaitNotifyExample.java" />
     <entry file="file://$PROJECT_DIR$/thread-foundation/src/main/java/base/ThreadCreate.java" />
-    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/abstract_factory/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.editorconfig">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1250,68 +973,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/simple/factory/MailProduct.java">
+    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/resources/中介者模式" />
+    <entry file="file://$PROJECT_DIR$/java-basic/src/main/java/thread/WaitNotifyExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-          <folding>
-            <element signature="e#188#189#0" expanded="true" />
-            <element signature="e#236#237#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="152">
+          <caret line="51" column="6" selection-start-line="51" selection-start-column="6" selection-end-line="51" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/simple/factory/Fatory.java">
+    <entry file="file://$PROJECT_DIR$/java-basic/src/main/java/list/a.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/SuppressWarnings.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="73" selection-start-line="6" selection-start-column="73" selection-end-line="6" selection-end-column="73" />
+        <state relative-caret-position="39">
+          <caret line="53" column="18" selection-start-line="53" selection-start-column="18" selection-end-line="53" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/simple/factory/Product.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="73" selection-start-line="4" selection-start-column="73" selection-end-line="4" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/simple/factory/SmsProduct.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="73" selection-start-line="6" selection-start-column="73" selection-end-line="6" selection-end-column="73" />
-          <folding>
-            <element signature="e#270#271#0" expanded="true" />
-            <element signature="e#301#302#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/simple/factory/AppMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="73" selection-start-line="4" selection-start-column="73" selection-end-line="4" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/resources/中介者模式">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/creational_patterns/simple/factory/ProductEnum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="8" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-basic/src/main/resources/log4j2.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/structural/patterns/adapter/适配器模式.md" />
     <entry file="file://$PROJECT_DIR$/java-basic/src/main/java/string/StringFormatExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="160">
+          <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#142#172#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1323,20 +1008,242 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-basic/src/main/java/thread/WaitNotifyExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="51" column="6" selection-start-line="51" selection-start-column="6" selection-end-line="51" selection-end-column="6" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/java-basic/src/main/java/enum/EnumTest.kt" />
+    <entry file="file://$PROJECT_DIR$/java-basic/src/main/resources/log4j2.xml">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/java-basic/src/main/java/list/ListDelete.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        <state relative-caret-position="-149">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/Enum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="141" column="25" selection-start-line="141" selection-start-column="25" selection-end-line="141" selection-end-column="25" />
+          <folding>
+            <element signature="e#2036#2037#0" expanded="true" />
+            <element signature="e#2063#2064#0" expanded="true" />
+            <element signature="e#4005#4006#0" expanded="true" />
+            <element signature="e#4032#4033#0" expanded="true" />
+            <element signature="e#4357#4358#0" expanded="true" />
+            <element signature="e#4391#4392#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java-basic/src/main/java/example/EnumExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+          <folding>
+            <element signature="e#846#847#0" expanded="true" />
+            <element signature="e#874#875#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/simple/Fatory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="61">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/simple/IProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/method/Fatory.java" />
+    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/method/ProductEnum.java" />
+    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/simple/MailProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/simple/ProductEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/simple/SmsProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/method/IFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/method/MailProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/method/MailFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+          <folding>
+            <element signature="e#323#324#0" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/abs/Sender.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" selection-start-line="2" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/abs/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="9" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/abs/MailFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/abs/SmsFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/abs/FactoryProduce.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/method/IProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/method/AppMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/simple/AppMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/abs/IFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/abs/IMailProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/abs/ISmsProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/abs/Factory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+          <folding>
+            <element signature="e#314#315#0" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#423#424#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/method/SmsFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+          <folding>
+            <element signature="e#321#322#0" expanded="true" />
+            <element signature="e#360#361#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/method/SmsProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/abs/SmsProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+          <folding>
+            <element signature="e#346#347#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/abs/MailProduct.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="16" column="22" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
+          <folding>
+            <element signature="e#344#345#0" expanded="true" />
+            <element signature="e#384#385#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/factory/abs/AppMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
         </state>
       </provider>
     </entry>

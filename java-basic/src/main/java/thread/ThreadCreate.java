@@ -10,13 +10,6 @@ public class ThreadCreate extends Thread {
 
     private int count = 5;
 
-    //synchronized加锁，加锁后这个代码就是一根独木桥，一个时刻，只有一个线程运行
-    public void run() {
-        count--;
-        // 格式化字符串，输出“当前线程”的线程名称
-        System.out.printf("1.Welcome! I'm %s,%d.%n", Thread.currentThread().getName(), count);
-    }
-
     /**
      * 线程执行原理：
      * 1，新建哪了一个simpleThread对象，对象有一个count属性，初始化值为5
@@ -51,6 +44,13 @@ public class ThreadCreate extends Thread {
         t3.start();
         t4.start();
         t5.start();
+    }
+
+    //synchronized加锁，加锁后这个代码就是一根独木桥，一个时刻，只有一个线程运行
+    public void run() {
+        count--;
+        // 格式化字符串，输出“当前线程”的线程名称
+        System.out.printf("1.Welcome! I'm %s,%d.%n", Thread.currentThread().getName(), count);
     }
 }
 

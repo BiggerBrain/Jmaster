@@ -4,10 +4,11 @@ import java.util.Date;
 import java.util.Locale;
 
 /**
- * String 类的format方法用于创建格式化的字符串以及连接多个字符串对象
- *
  * @author lishixiong
+ * @version 1.0: a.java, v 0.1 2019年04月30日 15:32 lishixiong Exp $
+ * String 类的format方法用于创建格式化的字符串以及连接多个字符串对象
  */
+@SuppressWarnings({"unchecked"})
 public class StringFormatExample {
     public static void main(String[] args) {
         dateFormat();

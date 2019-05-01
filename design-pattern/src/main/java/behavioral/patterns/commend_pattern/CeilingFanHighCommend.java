@@ -1,7 +1,7 @@
 package behavioral.patterns.commend_pattern;
 
 import behavioral.patterns.commend_pattern.entity.CeilingFan;
-import behavioral.patterns.observer_pattern.DisplayElement;
+import behavioral.patterns.observer.DisplayElement;
 
 /**
  * Created by dell on 2017/11/10.
