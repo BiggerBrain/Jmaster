@@ -12,8 +12,10 @@ package creational.patterns.factory.abs;
 interface IFactory {
     /**
      * interface默认public，不需要写
+     *
      * @return
      */
-     ISmsProduct createProduct1();
-     IMailProduct createProduct2();
+    ISmsProduct createProduct1();
+
+    IMailProduct createProduct2();
 }

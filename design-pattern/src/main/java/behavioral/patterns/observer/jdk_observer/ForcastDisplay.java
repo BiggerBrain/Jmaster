@@ -1,12 +1,15 @@
 package behavioral.patterns.observer.jdk_observer;
 
 
+import lombok.extern.log4j.Log4j2;
+
 import java.util.Observable;
 import java.util.Observer;
 
 /**
- * Created by dell on 2017/11/10.
+ * @author lishixiong on 2017/11/10.
  */
+@Log4j2
 public class ForcastDisplay implements Observer, DisplayElement {
     private float temp;
     private float humidity;
@@ -20,7 +23,7 @@ public class ForcastDisplay implements Observer, DisplayElement {
 
     @Override
     public void display() {
-        System.out.println("fortemp : " + temp + "\t forhumidity : " + humidity + "\t forpressure : " + pressure);
+        log.info("fortemp : " + temp + "\t forhumidity : " + humidity + "\t forpressure : " + pressure);
     }
 
     @Override

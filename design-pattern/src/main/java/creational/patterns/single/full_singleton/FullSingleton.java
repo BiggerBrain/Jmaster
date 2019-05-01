@@ -1,8 +1,11 @@
 package creational.patterns.single.full_singleton;
 
+import lombok.extern.log4j.Log4j2;
+
 /**
- * Created by dell on 2017/11/10.
+ * @author lishixiong on 2017/11/10.
  */
+@Log4j2
 public class FullSingleton {
     private static FullSingleton fullSingleton;
 
@@ -17,6 +20,6 @@ public class FullSingleton {
     }
 
     public void say() {
-        System.out.println("i'm fullSingleton!!!");
+        log.info("i'm fullSingleton!!!");
     }
 }

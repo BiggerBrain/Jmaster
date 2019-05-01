@@ -1,8 +1,11 @@
 package behavioral.patterns.observer;
 
+import lombok.extern.log4j.Log4j2;
+
 /**
- * Created by dell on 2017/11/10.
+ * @author lishixiong on 2017/11/10.
  */
+@Log4j2
 public class CurrentConditionDisplay implements Observer, DisplayElement {
     private float temp;
     private float humidity;
@@ -16,7 +19,7 @@ public class CurrentConditionDisplay implements Observer, DisplayElement {
 
     @Override
     public void display() {
-        System.out.println("temp : " + temp + "\t humidity : " + humidity + "\t pressure : " + pressure);
+        log.info("temp : " + temp + "\t humidity : " + humidity + "\t pressure : " + pressure);
     }
 
     @Override

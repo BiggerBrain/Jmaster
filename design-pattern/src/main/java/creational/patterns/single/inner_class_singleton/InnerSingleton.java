@@ -1,8 +1,11 @@
 package creational.patterns.single.inner_class_singleton;
 
+import lombok.extern.log4j.Log4j2;
+
 /**
- * Created by dell on 2017/11/10.
+ * @author lishixiong on 2017/11/10.
  */
+@Log4j2
 public class InnerSingleton {
     private InnerSingleton() {
     }
@@ -12,7 +15,7 @@ public class InnerSingleton {
     }
 
     public void say() {
-        System.out.println("i'm InnerSingleton!!!");
+        log.info("i'm InnerSingleton!!!");
     }
 
     private static class singleton {

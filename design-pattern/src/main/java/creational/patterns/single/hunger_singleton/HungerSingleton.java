@@ -1,8 +1,11 @@
 package creational.patterns.single.hunger_singleton;
 
+import lombok.extern.log4j.Log4j2;
+
 /**
- * Created by dell on 2017/11/10.
+ * @author lishixiong on 2017/11/10.
  */
+@Log4j2
 public class HungerSingleton {
     private static HungerSingleton hungerSingleton = new HungerSingleton();
 
@@ -14,6 +17,6 @@ public class HungerSingleton {
     }
 
     public void say() {
-        System.out.println("i'm HungerSingleton!!!");
+        log.info("i'm HungerSingleton!!!");
     }
 }

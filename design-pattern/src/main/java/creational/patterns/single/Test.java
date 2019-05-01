@@ -4,13 +4,15 @@ import creational.patterns.single.double_synchronized_singleton.SynchronizedSing
 import creational.patterns.single.full_singleton.FullSingleton;
 import creational.patterns.single.hunger_singleton.HungerSingleton;
 import creational.patterns.single.inner_class_singleton.InnerSingleton;
+import lombok.extern.log4j.Log4j2;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
 /**
- * Created by dell on 2017/11/10.
+ * @author lishixiong on 2017/11/10.
  */
+@Log4j2
 public class Test {
     public static void main(String[] args) {
         FullSingleton fullSingleton = FullSingleton.getInstance();
@@ -22,9 +24,9 @@ public class Test {
         SynchronizedSingleton synchronizedSingleton = SynchronizedSingleton.getInstance();
         synchronizedSingleton.say();
 
-        System.out.println("------------------------------");
-        System.out.println("------------------------------");
-        System.out.println("------------------------------");
+        log.info("------------------------------");
+        log.info("------------------------------");
+        log.info("------------------------------");
 
         // 开始用线程池模拟单例模式是否产生真正的单例，比较hashcode值就ok
 
@@ -36,8 +38,8 @@ public class Test {
                     try {
                         InnerSingleton innerSingleton = InnerSingleton.getInstance();
                         //  innerSingleton.say();
-                        System.out.println(innerSingleton.hashCode());
-                        // System.out.println("Accessing: " + NO);
+                        log.info(innerSingleton.hashCode());
+                        // log.info("Accessing: " + NO);
                         //模拟实际业务逻辑
                         Thread.sleep((long) (Math.random() * 10));
 
@@ -47,7 +49,7 @@ public class Test {
             };
             exec.execute(run);
         }
-        System.out.println("------------------------------");
+        log.info("------------------------------");
         for (int index = 0; index < 5; index++) {
             final int NO = index;
             Runnable run = new Runnable() {
@@ -55,8 +57,8 @@ public class Test {
                     try {
                         FullSingleton fullSingleton = FullSingleton.getInstance();
                         // fullSingleton.say();
-                        System.out.println(fullSingleton.hashCode());
-                        // System.out.println("Accessing: " + NO);
+                        log.info(fullSingleton.hashCode());
+                        // log.info("Accessing: " + NO);
                         //模拟实际业务逻辑
                         Thread.sleep((long) (Math.random() * 10));
 
@@ -66,7 +68,7 @@ public class Test {
             };
             exec.execute(run);
         }
-        System.out.println("------------------------------");
+        log.info("------------------------------");
         for (int index = 0; index < 5; index++) {
             final int NO = index;
             Runnable run = new Runnable() {
@@ -74,8 +76,8 @@ public class Test {
                     try {
                         HungerSingleton hungerSingleton = HungerSingleton.getInstance();
                         // hungerSingleton.say();
-                        System.out.println(hungerSingleton.hashCode());
-                        // System.out.println("Accessing: " + NO);
+                        log.info(hungerSingleton.hashCode());
+                        // log.info("Accessing: " + NO);
                         //模拟实际业务逻辑
                         Thread.sleep((long) (Math.random() * 10));
 
@@ -85,7 +87,7 @@ public class Test {
             };
             exec.execute(run);
         }
-        System.out.println("------------------------------");
+        log.info("------------------------------");
         for (int index = 0; index < 5; index++) {
             final int NO = index;
             Runnable run = new Runnable() {
@@ -93,8 +95,8 @@ public class Test {
                     try {
                         SynchronizedSingleton synchronizedSingleton = SynchronizedSingleton.getInstance();
                         //synchronizedSingleton.say();
-                        System.out.println(synchronizedSingleton.hashCode());
-                        // System.out.println("Accessing: " + NO);
+                        log.info(synchronizedSingleton.hashCode());
+                        // log.info("Accessing: " + NO);
                         //模拟实际业务逻辑
                         Thread.sleep((long) (Math.random() * 10));
 

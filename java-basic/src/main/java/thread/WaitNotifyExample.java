@@ -6,7 +6,7 @@ import java.util.Random;
 
 public class WaitNotifyExample {
     public static void main(String args[]) {
-        System.out.println("用生成者和消费者的例子来学习多线程wait and notify方法的使用");
+        log.info("用生成者和消费者的例子来学习多线程wait and notify方法的使用");
         Queue buffer = new LinkedList();
         int maxSize = 10;
         Thread producer = new Producer(buffer, maxSize, "PRODUCER");
@@ -33,7 +33,7 @@ class Producer extends Thread {
             synchronized (queue) {
                 while (queue.size() == maxSize) {
                     try {
-                        System.out.println("生产满！");
+                        log.info("生产满！");
                         queue.wait();
                     } catch (Exception ex) {
                         ex.printStackTrace();
@@ -41,7 +41,7 @@ class Producer extends Thread {
                 }
                 Random random = new Random();
                 int i = random.nextInt();
-                System.out.println("Producing value : " + i);
+                log.info("Producing value : " + i);
                 queue.add(i);
                 queue.notifyAll();
             }
@@ -64,14 +64,14 @@ class Consumer extends Thread {
         while (true) {
             synchronized (queue) {
                 while (queue.isEmpty()) {
-                    System.out.println("消费完！");
+                    log.info("消费完！");
                     try {
                         queue.wait();
                     } catch (Exception ex) {
                         ex.printStackTrace();
                     }
                 }
-                System.out.println("Consuming value : " + queue.remove());
+                log.info("Consuming value : " + queue.remove());
                 queue.notifyAll();
             }
         }

@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by dell on 2017/11/10.
+ * @author lishixiongon 2017/11/10.
  */
 public class WeatherData implements Subject {
     private float temp;

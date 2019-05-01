@@ -3,7 +3,7 @@ package behavioral.patterns.observer.jdk_observer;
 import java.util.Observer;
 
 /**
- * Created by dell on 2017/11/10.
+ * @author lishixiong on 2017/11/10.
  */
 public class Test {
     public static void main(String[] args) {

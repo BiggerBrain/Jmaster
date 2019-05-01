@@ -7,9 +7,9 @@ package creational.patterns.factory.method;
  */
 public class AppMain {
     public static void main(String[] args) {
-        IFactory factory=new SmsFactory();
+        IFactory factory = new SmsFactory();
         factory.createProduct().use();
-        factory=new MailFactory();
+        factory = new MailFactory();
         factory.createProduct().use();
     }
 }

@@ -4,7 +4,7 @@ package behavioral.patterns.observer.jdk_observer;
 import java.util.Observable;
 
 /**
- * Created by dell on 2017/11/10.
+ * @author lishixiong on 2017/11/10.
  */
 public class WeatherData extends Observable {
     private float temp;

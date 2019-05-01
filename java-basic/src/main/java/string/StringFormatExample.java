@@ -21,9 +21,9 @@ public class StringFormatExample {
         String str = null;
         //通过String的format方法生成字符串
         str = String.format("我的名字叫%s", "李世雄");
-        System.out.println(str);
+        log.info(str);
         str = String.format("Hi,%s:%s.%s", "王南", "王力", "王张");
-        System.out.println(str);
+        log.info(str);
         //注意这里是printf不是println,%n表示换行符
         System.out.printf("字母a的大写是：%c %n", 'A');
         System.out.printf("3>7的结果是：%b %n", 3 > 7);
@@ -45,7 +45,7 @@ public class StringFormatExample {
         String str = null;
         //$使用
         str = String.format("格式参数$的使用：%1$d,%2$s", 99, "abc");
-        System.out.println(str);
+        log.info(str);
         //+使用
         System.out.printf("显示正负数的符号：%+d与%d%n", 99, -99);
         //补O使用
@@ -94,7 +94,7 @@ public class StringFormatExample {
         System.out.printf("9位数字的毫秒数（不足9位前面补0）:%tN%n", date);
         //p的使用
         String str = String.format(Locale.US, "小写字母的上午或下午标记(英)：%tp", date);
-        System.out.println(str);
+        log.info(str);
         System.out.printf("小写字母的上午或下午标记（中）：%tp%n", date);
         //z的使用
         System.out.printf("相对于GMT的RFC822时区的偏移量:%tz%n", date);
@@ -106,15 +106,15 @@ public class StringFormatExample {
         System.out.printf("1970-1-1 00:00:00 到现在所经过的毫秒数：%tQ%n", date);
         //b的使用，月份简称
         str = String.format(Locale.US, "英文月份简称：%tb", date);
-        System.out.println(str);
+        log.info(str);
         System.out.printf("本地月份简称：%tb%n", date);
         //B的使用，月份全称
         str = String.format(Locale.US, "英文月份全称：%tB", date);
-        System.out.println(str);
+        log.info(str);
         System.out.printf("本地月份全称：%tB%n", date);
         //a的使用，星期简称
         str = String.format(Locale.US, "英文星期的简称：%ta", date);
-        System.out.println(str);
+        log.info(str);
         //A的使用，星期全称
         System.out.printf("本地星期的简称：%tA%n", date);
         //C的使用，年前两位

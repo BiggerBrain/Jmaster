@@ -1,8 +1,11 @@
 package creational.patterns.single.double_synchronized_singleton;
 
+import lombok.extern.log4j.Log4j2;
+
 /**
- * Created by dell on 2017/11/10.
+ * @author lishixiong on 2017/11/10.
  */
+@Log4j2
 public class SynchronizedSingleton {
     private static SynchronizedSingleton synchronizedSingleton;
 
@@ -22,6 +25,6 @@ public class SynchronizedSingleton {
     }
 
     public void say() {
-        System.out.println("i'm SynchronizedSingleton!!!");
+        log.info("i'm SynchronizedSingleton!!!");
     }
 }
