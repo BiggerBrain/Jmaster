@@ -1,12 +1,16 @@
+/**
+ * Alipay.com Inc.
+ * Copyright (c) 2004-2019 All Rights Reserved.
+ */
 package structural.patterns.facade;
 
 /**
- * @author lishixiong on 2017/11/11.
+ * @author lishixiong
+ * @version 1.0: AppMain.java, v 0.1 2019年05月06日 18:11 lishixiong Exp $
  */
 public class AppMain {
     public static void main(String[] args) {
-        Computer computer = new Computer(new CPU(), new Memory(), new Disk());
-        computer.startup();
-        computer.shutdown();
+        Facade facade = new Facade();
+        facade.Method();
     }
 }

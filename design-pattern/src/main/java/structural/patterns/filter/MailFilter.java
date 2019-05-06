@@ -15,7 +15,9 @@ public class MailFilter implements IFilter {
     @Override
     public List<Product> filter(List<Product> productList) {
         List<Product> products = new ArrayList<>();
-        if (null == productList || productList.isEmpty()) return products;
+        if ((null == productList) || productList.isEmpty()) {
+            return products;
+        }
         for (Product product : productList) {
             if (product.getType().equalsIgnoreCase("mail")) {
                 products.add(product);
