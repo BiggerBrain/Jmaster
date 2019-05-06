@@ -4,6 +4,7 @@ import lombok.extern.log4j.Log4j2;
 
 /**
  * 电风扇
+ *
  * @author lishixiong on 2017/11/10.
  */
 @Log4j2

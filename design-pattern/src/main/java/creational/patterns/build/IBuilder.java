@@ -5,11 +5,9 @@ package creational.patterns.build;
  */
 public interface IBuilder {
 
-    void buildHead();
+    void buildName();
 
-    void buildBody();
+    void buildFunction();
 
-    void buildFoot();
-
-    Product buildPerson();
+    IProduct buildProduct();
 }

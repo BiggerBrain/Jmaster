@@ -9,12 +9,12 @@ package creational.patterns.build;
  * Builder：抽象建造者
  * ConcreteBuilder：具体建造者
  * Director：指挥者
- * Product：产品角色
+ * IProduct：产品角色
  */
 public class AppMain {
     public static void main(String[] args) {
-        Director pd = new Director();
-        Product manPerson = pd.constructPerson(new SmsBuilder());
-        Product womanPerson = pd.constructPerson(new MailBuilder());
+        Director director = new Director();
+        IProduct manPerson = director.builderProduct(new SmsProductBuilder());
+        IProduct womanPerson = director.builderProduct(new MailProductBuilder());
     }
 }

@@ -1,10 +1,13 @@
 package creational.patterns.build;
 
+/**
+ * @author lishixiong
+ * 建造对象
+ */
 public class Director {
-    public Product constructPerson(IBuilder pb) {
-        pb.buildHead();
-        pb.buildBody();
-        pb.buildFoot();
-        return pb.buildPerson();
+    public IProduct builderProduct(IBuilder builder) {
+        builder.buildName();
+        builder.buildFunction();
+        return builder.buildProduct();
     }
 }

@@ -4,9 +4,10 @@ import lombok.extern.log4j.Log4j2;
 
 /**
  * @author lishixiong
+ * 扩充抽象类
  */
 @Log4j2
-class RefinedAbstraction extends Abstraction {
+public class RefinedAbstraction extends Abstraction {
 
     public RefinedAbstraction(Implementor implementor) {
         super(implementor);

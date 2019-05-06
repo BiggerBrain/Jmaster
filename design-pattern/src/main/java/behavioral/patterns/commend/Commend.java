@@ -2,10 +2,11 @@ package behavioral.patterns.commend;
 
 /**
  * 命令模式用遥控器讲解比较简单易懂
+ *
  * @author lishixiong on 2017/11/10.
  */
 public interface Commend {
-    public void execute();
+    void execute();
 
-    public void undo();
+    void undo();
 }
