@@ -1,9 +1,10 @@
 package thread;
 
+import lombok.extern.log4j.Log4j2;
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Random;
-
+@Log4j2
 public class WaitNotifyExample {
     public static void main(String args[]) {
         log.info("用生成者和消费者的例子来学习多线程wait and notify方法的使用");
@@ -16,7 +17,7 @@ public class WaitNotifyExample {
     }
 }
 
-
+@Log4j2
 class Producer extends Thread {
     private Queue queue;
     private int maxSize;
@@ -48,7 +49,7 @@ class Producer extends Thread {
         }
     }
 }
-
+@Log4j2
 class Consumer extends Thread {
     private Queue queue;
     private int maxSize;

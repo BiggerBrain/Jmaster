@@ -1,5 +1,7 @@
 package string;
 
+import lombok.extern.log4j.Log4j2;
+
 import java.util.Date;
 import java.util.Locale;
 
@@ -9,6 +11,7 @@ import java.util.Locale;
  * String 类的format方法用于创建格式化的字符串以及连接多个字符串对象
  */
 @SuppressWarnings({"unchecked"})
+@Log4j2
 public class StringFormatExample {
     public static void main(String[] args) {
         dateFormat();

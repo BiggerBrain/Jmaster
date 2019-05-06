@@ -13,8 +13,8 @@ import lombok.extern.log4j.Log4j2;
 @Log4j2
 public class TerminalExpression implements IExpression {
     @Override
-    public int interpret(Context context) {
+    public void interpret(Context context) {
         log.info("TerminalExpression interpreter ...");
-        return 0;
+
     }
 }
