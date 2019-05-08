@@ -11,15 +11,14 @@ import lombok.extern.log4j.Log4j2;
 @Log4j2
 public class AppMain {
     public static void main(String[] args) throws CloneNotSupportedException {
-        MailProduct mailProduct = (MailProduct) ProductProtoTypeManager.getShapeMap("1");
+        MailProduct mailProduct = (MailProduct) ProductProtoTypeManager.getProductPrototype("1");
         MailProduct mailProduct1 = (MailProduct) mailProduct.clone();
         log.info(mailProduct == mailProduct1);//克隆，不是同一个对象的引用，false
         //-------------------------------------------------------------------------------------------------
-        //第一个是优先级的trick
         log.info(mailProduct.getId() + ":" + mailProduct1.getId() + ":" + (mailProduct.getId() == mailProduct1.getId()));//1:1:true,执行的是浅拷贝
         //-------------------------------------------------------------------------------------------------
         log.info("ProductPrototype type:" + mailProduct.getType());
-        SmsProduct smsProduct = (SmsProduct) ProductProtoTypeManager.getShapeMap("2");
+        SmsProduct smsProduct = (SmsProduct) ProductProtoTypeManager.getProductPrototype("2");
         log.info("ProductPrototype type:" + smsProduct.getType());
     }
 }

@@ -3,8 +3,9 @@
     <Appenders>
         <Console name="console" target="SYSTEM_OUT">
             <PatternLayout
-                pattern="%highlight{[ %p ] [%-d{yyyy-MM-dd HH:mm:ss}] [ LOGID:%X{logid} ] [%l] %m%n}"/>
-            />
+                pattern="%highlight{[ %p ] [%-d{yyyy-MM-dd HH:mm:ss}] %m%n}"/>
+            <!--      pattern="%highlight{[ %p ] [%-d{yyyy-MM-dd HH:mm:ss}] [%l] %m%n}"/>
+           -->
         </Console>
     </Appenders>
     <Loggers>
