@@ -1,14 +1,11 @@
-/**
- * Alipay.com Inc.
- * Copyright (c) 2004-2019 All Rights Reserved.
- */
+
 package structural.patterns.composite;
 
 import java.util.List;
 
 /**
  * @author lishixiong
- * @version 1.0: Component.java, v 0.1 2019年05月06日 16:25 lishixiong Exp $
+ * @version 1.0: IComponent.java, v 0.1 2019年05月06日 16:25 lishixiong Exp $
  */
 public abstract class Component {
     //个体和整体都具有

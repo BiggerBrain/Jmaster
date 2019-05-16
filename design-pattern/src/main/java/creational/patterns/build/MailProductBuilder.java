@@ -18,7 +18,6 @@ public class MailProductBuilder implements IBuilder {
         log.info("mail产品功能设置");
     }
 
-
     public void buildName() {
         mailProduct.setHead("mail产品名称设置");
         log.info("mail产品名称设置");

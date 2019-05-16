@@ -3,8 +3,7 @@ package structural.patterns.bridge;
 import lombok.extern.log4j.Log4j2;
 
 /**
- * @author lishixiong
- * 扩充抽象类
+ * @author lishixiong 扩充抽象类
  */
 @Log4j2
 public class RefinedAbstraction extends Abstraction {

@@ -1,7 +1,4 @@
-/**
- * Alipay.com Inc.
- * Copyright (c) 2004-2019 All Rights Reserved.
- */
+
 package structural.patterns.flyweight;
 
 /**
@@ -11,13 +8,13 @@ package structural.patterns.flyweight;
 public class AppMain {
     public static void main(String[] args) {
         FlyweightFactory factory = new FlyweightFactory();
-        Flyweight fly = factory.factory(new Character('a'));
-        fly.operation("First Call");
+        IFlyweight fly = factory.factory("sms");
+        fly.operation("开始状态");
 
-        fly = factory.factory(new Character('b'));
-        fly.operation("Second Call");
+        fly = factory.factory("mail");
+        fly.operation("开始状态");
 
-        fly = factory.factory(new Character('a'));
-        fly.operation("Third Call");
+        fly = factory.factory("sms");
+        fly.operation("运行状态");
     }
 }

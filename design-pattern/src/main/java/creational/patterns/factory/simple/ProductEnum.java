@@ -1,7 +1,4 @@
-/**
- * Alipay.com Inc.
- * Copyright (c) 2004-2019 All Rights Reserved.
- */
+
 package creational.patterns.factory.simple;
 
 /**
@@ -10,5 +7,6 @@ package creational.patterns.factory.simple;
  * 产品类型枚举
  */
 public enum ProductEnum {
-    MAIL, SMS;
+    MAIL,
+    SMS
 }

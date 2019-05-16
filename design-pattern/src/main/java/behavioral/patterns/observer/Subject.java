@@ -1,12 +1,12 @@
 package behavioral.patterns.observer;
 
 /**
- * @author lishixiong on 2017/11/10.
+ * @author lishixiong
  */
 public interface Subject {
-    public void registerObserver(Observer o);
+    void registerObserver(Observer o);
 
-    public void removeObserver(Observer o);
+    void removeObserver(Observer o);
 
-    public void notifyObserver();
+    void notifyObserver();
 }

@@ -1,8 +1,7 @@
 package structural.patterns.bridge;
 
 /**
- * @author lishixiong
- * 抽象层，在这里对接口进行聚合设计
+ * @author lishixiong 抽象层，在这里对接口进行聚合设计
  */
 abstract class Abstraction {
     // 持有一个 Implementor 对象，形成聚合关系

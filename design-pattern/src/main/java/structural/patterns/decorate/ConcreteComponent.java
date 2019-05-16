@@ -1,7 +1,4 @@
-/**
- * Alipay.com Inc.
- * Copyright (c) 2004-2019 All Rights Reserved.
- */
+
 package structural.patterns.decorate;
 
 import lombok.extern.log4j.Log4j2;
@@ -12,7 +9,7 @@ import lombok.extern.log4j.Log4j2;
  * 具体构件角色
  */
 @Log4j2
-public class ConcreteComponent implements Component {
+public class ConcreteComponent implements IComponent {
     @Override
     public void opreation() {
         log.info("操作方法");

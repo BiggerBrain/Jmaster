@@ -1,7 +1,4 @@
-/**
- * Alipay.com Inc.
- * Copyright (c) 2004-2019 All Rights Reserved.
- */
+
 package structural.patterns.decorate;
 
 import lombok.extern.log4j.Log4j2;
@@ -12,7 +9,7 @@ import lombok.extern.log4j.Log4j2;
  */
 @Log4j2
 public class ConcreteDecoratorB extends Decorator {
-    public ConcreteDecoratorB(Component component) {
+    public ConcreteDecoratorB(IComponent component) {
         super(component);
     }
 

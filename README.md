@@ -10,27 +10,14 @@ java基础、设计模式等
 ### Classify
 
 项目用Maven组织，按照模板分类，模块包括代码和测试用例，这里阐述每个模块的意义
-
-* concurrency
-   
-   表示并发相关的项目，力争从代码到底层虚拟机到操作系统到cpu，寄存器，内存的角度去分析理解并发！
-   * base 
-     基础入门
-     * [synchronize]
+* java-base 
+    基础入门
+     * synchronize的小细节
        
-       synchronize的小细节
-       
-       * [SimpleThread](./concurrency/src/main/java/base/SimpleThread.java)
-         
-         从内存，CPU角度去理解线程
-       * [ReentrantSyncSimple](./concurrency/src/main/java/base/synchronize/ReentrantSyncSimple.java)
-         
-         synchronize锁重入，简单了解可重入
-       * [ReentrantSyncExtend](./concurrency/src/main/java/base/synchronize/ReentrantSyncExtend.java)
-          
-          ReentrantSyncExtend,父子继承下synchronize的可重入问题
-       * [SynchronizeLock](./concurrency/src/main/java/base/synchronize/SynchronizeLock)
-          synchronize加锁的方式
+       * 从内存，CPU角度去理解线程
+       * synchronize锁重入，简单了解可重入
+       * ReentrantSyncExtend,父子继承下synchronize的可重入问题
+       * synchronize加锁的方式
       
       
       

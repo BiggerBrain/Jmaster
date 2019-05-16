@@ -18,7 +18,6 @@ public class SmsProductBuilder implements IBuilder {
         log.info("sms产品功能设置");
     }
 
-
     public void buildName() {
         smsProduct.setHead("sms产品名称设置");
         log.info("sms产品名称设置");

@@ -1,2 +1,9 @@
+example/Color1.class
+thread/WaitNotifyExample.class
 list/ListDelete.class
 thread/ThreadCreate.class
+example/Color.class
+thread/Consumer.class
+thread/Producer.class
+example/AppMain.class
+string/StringFormatExample.class

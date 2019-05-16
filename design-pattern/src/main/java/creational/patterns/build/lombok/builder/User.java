@@ -1,7 +1,4 @@
-/**
- * Alipay.com Inc.
- * Copyright (c) 2004-2019 All Rights Reserved.
- */
+
 package creational.patterns.build.lombok.builder;
 
 /**
@@ -26,7 +23,7 @@ public class User {
     }
 
     public static void main(String[] args) {
-        UserBuilder userBuilder = new User.UserBuilder();
+        UserBuilder userBuilder = new UserBuilder();
         User user = userBuilder
             .firstName("li")
             .lastName("shixiong")

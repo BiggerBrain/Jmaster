@@ -1,7 +1,4 @@
-/**
- * Alipay.com Inc.
- * Copyright (c) 2004-2019 All Rights Reserved.
- */
+
 package example;
 
 import lombok.extern.log4j.Log4j2;
@@ -10,7 +7,7 @@ import lombok.extern.log4j.Log4j2;
  * enum的好处：类型安全和可读性
  */
 enum Color {
-    RED, YELLOW, GREEN, BLACK;
+    RED, YELLOW, GREEN, BLACK
 }
 
 enum Color1 {
@@ -23,7 +20,7 @@ enum Color1 {
     private int index;
 
     // 构造方法，默认就是private修饰
-    private Color1(String name, int index) {
+    Color1(String name, int index) {
         this.name = name;
         this.index = index;
     }

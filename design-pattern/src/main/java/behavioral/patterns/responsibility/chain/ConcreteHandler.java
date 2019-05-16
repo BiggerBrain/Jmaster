@@ -1,7 +1,4 @@
-/**
- * Alipay.com Inc.
- * Copyright (c) 2004-2019 All Rights Reserved.
- */
+
 package behavioral.patterns.responsibility.chain;
 
 import lombok.extern.log4j.Log4j2;
@@ -12,9 +9,10 @@ import lombok.extern.log4j.Log4j2;
  */
 @Log4j2
 public class ConcreteHandler extends Handler {
-    public ConcreteHandler(String name){
-        this.name=name;
+    public ConcreteHandler(String name) {
+        this.name = name;
     }
+
     /**
      * 处理方法，调用此方法处理请求
      */
@@ -25,13 +23,11 @@ public class ConcreteHandler extends Handler {
          * 如果有，就转发请求给后继的责任对象
          * 如果没有，则处理请求
          */
-        if(getSuccessor() != null)
-        {
-            log.info(name+"处理当前请求，并传递请求！");
+        if (getSuccessor() != null) {
+            log.info(name + "处理当前请求，并传递请求！");
             getSuccessor().handleRequest();
-        }else
-        {
-            log.info(name+"没有后继者，自己处理完请求");
+        } else {
+            log.info(name + "没有后继者，自己处理完请求");
         }
     }
 }

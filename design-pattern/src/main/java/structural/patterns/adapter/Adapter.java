@@ -1,7 +1,4 @@
-/**
- * Alipay.com Inc.
- * Copyright (c) 2004-2019 All Rights Reserved.
- */
+
 package structural.patterns.adapter;
 
 import lombok.extern.log4j.Log4j2;
@@ -13,10 +10,10 @@ import lombok.extern.log4j.Log4j2;
  * 1.继承
  * 2.实现目标接口
  * 3.适配
- * 适配器Adapter继承自Adaptee，同时又实现了目标(Target)接口。
+ * 适配器Adapter继承自Adaptee，同时又实现了目标(ITarget)接口。
  */
 @Log4j2
-public class Adapter extends Adaptee implements Target {
+public class Adapter extends Adaptee implements ITarget {
     //目标接口要求调用Request()这个方法名，但源类Adaptee没有方法Request()
     //因此适配器补充上这个方法名
     //但实际上Request()只是调用源类Adaptee的SpecificRequest()方法的内容

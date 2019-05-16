@@ -1,8 +1,7 @@
 package creational.patterns.build;
 
 /**
- * @author lishixiong
- * 建造对象
+ * @author lishixiong 建造对象
  */
 public class Director {
     public IProduct builderProduct(IBuilder builder) {

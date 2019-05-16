@@ -1,12 +1,9 @@
 package creational.patterns.prototype;
 
-
 import lombok.extern.log4j.Log4j2;
 
 /**
- * 1、原型模式用于创建重复对象，同时又能保证性能
- * 2、原型模式实现了原型接口，该接口用于创建当前对象的克隆
- * 3、原型模式用了Object方法的Cloneable方法，该方法执行的浅拷贝
+ * 1、原型模式用于创建重复对象，同时又能保证性能 2、原型模式实现了原型接口，该接口用于创建当前对象的克隆 3、原型模式用了Object方法的Cloneable方法，该方法执行的浅拷贝
  */
 @Log4j2
 public class AppMain {
