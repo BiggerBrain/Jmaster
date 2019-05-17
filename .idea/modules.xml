@@ -4,7 +4,11 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Jmaster.iml" filepath="$PROJECT_DIR$/Jmaster.iml" />
       <module fileurl="file://$PROJECT_DIR$/design-pattern/design-pattern.iml" filepath="$PROJECT_DIR$/design-pattern/design-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-advance/java-advance.iml" filepath="$PROJECT_DIR$/java-advance/java-advance.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-basic/java-basic.iml" filepath="$PROJECT_DIR$/java-basic/java-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thread-advance/thread-advance.iml" filepath="$PROJECT_DIR$/thread-advance/thread-advance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thread-basic/thread-basic.iml" filepath="$PROJECT_DIR$/thread-basic/thread-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thread-pattern/thread-pattern.iml" filepath="$PROJECT_DIR$/thread-pattern/thread-pattern.iml" />
     </modules>
   </component>
 </project>

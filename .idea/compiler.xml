@@ -6,15 +6,23 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="java-basic" />
         <module name="design-pattern" />
+        <module name="thread-pattern" />
+        <module name="java-basic" />
+        <module name="java-advance" />
+        <module name="thread-advance" />
+        <module name="thread-basic" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="design-pattern" target="1.8" />
       <module name="design_pattern" target="1.8" />
+      <module name="java-advance" target="1.8" />
       <module name="java-basic" target="1.8" />
       <module name="Jmaster" target="1.8" />
+      <module name="thread-adv" target="1.8" />
+      <module name="thread-advance" target="1.8" />
+      <module name="thread-basic" target="1.8" />
       <module name="thread-foundation" target="1.8" />
       <module name="thread-pattern" target="1.8" />
     </bytecodeTargetLevel>

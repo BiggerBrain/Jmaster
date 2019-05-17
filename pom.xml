@@ -11,6 +11,10 @@
     <modules>
         <module>java-basic</module>
         <module>design-pattern</module>
+        <module>java-advance</module>
+        <module>thread-basic</module>
+        <module>thread-advance</module>
+        <module>thread-pattern</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
