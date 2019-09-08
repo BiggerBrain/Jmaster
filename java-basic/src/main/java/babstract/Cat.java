@@ -2,7 +2,7 @@
  * Alipay.com Inc.
  * Copyright (c) 2004-2019 All Rights Reserved.
  */
-package abs;
+package babstract;
 
 import lombok.extern.log4j.Log4j2;
 

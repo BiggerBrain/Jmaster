@@ -1,7 +1,7 @@
-package abs; /**
- * Alipay.com Inc.
- * Copyright (c) 2004-2019 All Rights Reserved.
- */
+package babstract; /**
+                   * Alipay.com Inc.
+                   * Copyright (c) 2004-2019 All Rights Reserved.
+                   */
 
 import java.util.ArrayList;
 import java.util.concurrent.ArrayBlockingQueue;
@@ -11,12 +11,12 @@ import java.util.concurrent.TimeUnit;
 
 /**
  * @author lishixiong
- * @version 1.0: abs.AppMain.java, v 0.1 2019年05月17日 09:41 lishixiong Exp $
+ * @version 1.0: babstract.AppMain.java, v 0.1 2019年05月17日 09:41 lishixiong Exp $
  */
 class MyTask implements Callable<String> {
 
     @Override
-    public String call() throws Exception {
+    public String call() {
         System.out.println("s");
         return "1";
     }
