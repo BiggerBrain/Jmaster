@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/java-basic/src/main/java/bstring/StringFormatExample.java" line="15" />
-    <bookmark url="file://$PROJECT_DIR$/java-basic/src/main/java/blist/ListDelete.java" line="28" mnemonic="9" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="6372d871-7614-410b-8907-934c0d9e6dfb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/eclipseCodeFormatter.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/src/main/java/babstract/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/src/main/java/bannotation/PasswordUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/src/main/java/bannotation/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/src/main/java/bannotation/UserCaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java-basic/src/main/java/bannotation/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_rholder_guava_retrying_2_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_rholder_guava_retrying_2_0_0_AONE_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_2_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_errorprone_error_prone_annotations_2_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_failureaccess_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_28_1_jre.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_j2objc_j2objc_annotations_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_checkerframework_checker_qual_2_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_mojo_animal_sniffer_annotations_1_18.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guava/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guava/src/main/java/gimmutable/ImmutableExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-basic/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-basic/src/main/java/com/lishixiong/model/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-basic/src/main/java/retry/Retry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/command/ConcreteCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/command/ConcreteCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/src/main/java/abs/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/src/main/java/babstract/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/src/main/java/abs/AppMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/src/main/java/babstract/AppMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/src/main/java/abs/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/src/main/java/babstract/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/src/main/java/example/EnumExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/src/main/java/benum/EnumExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/src/main/java/list/ListDelete.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/src/main/java/blist/ListDelete.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/src/main/java/string/StringFormatExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/src/main/java/bstring/StringFormatExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/src/main/java/thread/ThreadCreate.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/src/main/java/bthread/ThreadCreate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/src/main/java/thread/WaitNotifyExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/src/main/java/bthread/WaitNotifyExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/command/AppMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/command/AppMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basic/src/main/java/blist/ListDelete.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/src/main/java/blist/ListDelete.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/target/" />
-    <ignored path="$PROJECT_DIR$/jvm/target/" />
-    <ignored path="$PROJECT_DIR$/concurrency/target/" />
-    <ignored path="$PROJECT_DIR$/multithread.design.patterns/target/" />
-    <ignored path="$PROJECT_DIR$/multithread.foundation/target/" />
-    <ignored path="$PROJECT_DIR$/thread_foundation/target/" />
-    <ignored path="$PROJECT_DIR$/thread_pattern/target/" />
-    <ignored path="$PROJECT_DIR$/java_basic/target/" />
-    <ignored path="$PROJECT_DIR$/design_pattern/target/" />
     <ignored path="$PROJECT_DIR$/design-pattern/target/" />
     <ignored path="$PROJECT_DIR$/java-basic/target/" />
-    <ignored path="$PROJECT_DIR$/java-advance/target/" />
     <ignored path="$PROJECT_DIR$/thread-basic/target/" />
-    <ignored path="$PROJECT_DIR$/thread-adv/target/" />
-    <ignored path="$PROJECT_DIR$/thread-advance/target/" />
+    <ignored path="$PROJECT_DIR$/java-advance/target/" />
+    <ignored path="$PROJECT_DIR$/spring-basic/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/guava/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,43 +57,90 @@
     <favorites_list name="Jmaster" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-basic/src/main/java/bannotation/UserCaseTest.java">
+        <entry file="file://$PROJECT_DIR$/spring-basic/src/main/java/com/lishixiong/model/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="35">
-              <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+            <state relative-caret-position="304">
+              <caret line="22" column="81" selection-start-line="22" selection-start-column="81" selection-end-line="22" selection-end-column="81" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#437#438#0" expanded="true" />
-                <element signature="e#495#496#0" expanded="true" />
+                <element signature="e#399#400#0" expanded="true" />
+                <element signature="e#487#488#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/guava/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="14" column="8" selection-end-line="21" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java-basic/src/main/java/bannotation/PasswordUtils.java">
+        <entry file="file://$PROJECT_DIR$/guava/src/main/java/gimmutable/ImmutableExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+            <state relative-caret-position="352">
+              <caret line="22" column="43" selection-end-line="36" selection-end-column="1" />
               <folding>
-                <element signature="e#415#416#0" expanded="true" />
-                <element signature="e#471#472#0" expanded="true" />
-                <element signature="e#581#582#0" expanded="true" />
-                <element signature="e#652#653#0" expanded="true" />
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#791#792#0" expanded="true" />
+                <element signature="e#813#814#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-basic/src/main/java/bannotation/User.java">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/28.1-jre/guava-28.1-jre-sources.jar!/com/google/common/collect/ImmutableList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="151">
-              <caret line="31" column="18" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+            <state relative-caret-position="320">
+              <caret line="60" column="22" selection-start-line="60" selection-start-column="22" selection-end-line="60" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/28.1-jre/guava-28.1-jre-sources.jar!/com/google/common/collect/Lists.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4064">
+              <caret line="305" column="28" selection-start-line="305" selection-start-column="28" selection-end-line="305" selection-end-column="28" />
               <folding>
-                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#3223#3224#0" expanded="true" />
+                <element signature="e#3257#3258#0" expanded="true" />
+                <element signature="e#12867#12868#0" expanded="true" />
+                <element signature="e#12919#12920#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/Objects.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="512">
+              <caret line="57" column="26" selection-start-line="57" selection-start-column="26" selection-end-line="57" selection-end-column="26" />
+              <folding>
+                <element signature="e#1410#1411#0" expanded="true" />
+                <element signature="e#1471#1472#0" expanded="true" />
+                <element signature="e#8380#8381#0" expanded="true" />
+                <element signature="e#8414#8415#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-basic/src/main/java/retry/Retry.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="24" column="49" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="49" />
+              <folding>
                 <element signature="imports" expanded="true" />
               </folding>
             </state>
@@ -101,64 +148,29 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/annotation/Target.java">
+        <entry file="file://$PROJECT_DIR$/spring-basic/pom.xml">
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="78" column="18" selection-start-line="78" selection-start-column="18" selection-end-line="78" selection-end-column="18" />
+            <state relative-caret-position="288">
+              <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java-basic/src/main/java/bannotation/package-info.java">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.2.RELEASE/spring-context-5.1.2.RELEASE-sources.jar!/org/springframework/validation/annotation/Validated.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
+            <state relative-caret-position="560">
+              <caret line="53" column="18" selection-start-line="53" selection-start-column="18" selection-end-line="53" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/reflect/Method.java">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/checkerframework/checker-qual/2.8.1/checker-qual-2.8.1-sources.jar!/org/checkerframework/checker/nullness/qual/Nullable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="159">
-              <caret line="620" column="54" selection-start-line="620" selection-start-column="54" selection-end-line="620" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/Class.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="118" column="24" selection-start-line="118" selection-start-column="19" selection-end-line="118" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.6/lombok-1.18.6-sources.jar!/lombok/extern/log4j/Log4j.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="62" column="18" selection-start-line="62" selection-start-column="18" selection-end-line="62" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/command/AppMain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/command/ConcreteCommand.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+            <state relative-caret-position="368">
+              <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -172,6 +184,11 @@
         <option value="Kotlin Class" />
         <option value="Interface" />
         <option value="package-info" />
+        <option value="FxmlFile" />
+        <option value="spring.xml" />
+        <option value="XSLT Stylesheet" />
+        <option value="XML Properties File" />
+        <option value="xml" />
         <option value="Class" />
       </list>
     </option>
@@ -186,6 +203,7 @@
       <find>on 2017/11/10.</find>
       <find>import codes.</find>
       <find>java_basic</find>
+      <find>command</find>
     </findStrings>
     <replaceStrings>
       <replace>log.info</replace>
@@ -202,65 +220,20 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/iterator/IAggregate.java" />
-        <option value="$PROJECT_DIR$/design-pattern/src/main/java/structural/patterns/flyweight/IFlyweight.java" />
-        <option value="$PROJECT_DIR$/design-pattern/src/main/java/structural/patterns/flyweight/ConcreteFlyweight.java" />
-        <option value="$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/command/ICommand.java" />
-        <option value="$PROJECT_DIR$/design-pattern/src/main/java/structural/patterns/flyweight/FlyweightFactory.java" />
-        <option value="$PROJECT_DIR$/design-pattern/src/main/java/structural/patterns/flyweight/AppMain.java" />
-        <option value="$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/mediator/AbstractMediator.java" />
-        <option value="$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/mediator/ConcreteMediator.java" />
-        <option value="$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/mediator/Colleague.java" />
-        <option value="$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/templet/example/CafeTeeBeverage.java" />
-        <option value="$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/templet/example/AppMain.java" />
-        <option value="$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/visitor/AppMain.java" />
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/templet/AbstractClass.java" />
-        <option value="$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/observer/WeatherData.java" />
-        <option value="$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/observer/jdk_observer/Test.java" />
-        <option value="$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/observer/jdk/observer/Test.java" />
-        <option value="$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/observer/DisplayElement.java" />
-        <option value="$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/observer/ForcastDisplay.java" />
-        <option value="$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/observer/CurrentConditionDisplay.java" />
-        <option value="$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/observer/AppMain.java" />
-        <option value="$PROJECT_DIR$/design-pattern/src/main/resources/log4j2.xml" />
-        <option value="$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/observer/WeatherSubject.java" />
-        <option value="$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/observer/jdk/observer/WeatherData.java" />
-        <option value="$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/observer/jdk/observer/AppMain.java" />
-        <option value="$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/responsibility/chain/AppMain.java" />
-        <option value="$PROJECT_DIR$/design-pattern/src/main/java/patterns/mediator/Colleague.java" />
-        <option value="$PROJECT_DIR$/java-basic/src/main/java/AppMain.java" />
-        <option value="$PROJECT_DIR$/java-basic/src/main/java/abs/Cat.java" />
-        <option value="$PROJECT_DIR$/java-basic/src/main/java/abs/AppMain.java" />
-        <option value="$PROJECT_DIR$/java-advance/src/main/java/chapter02/two/Wolf.java" />
-        <option value="$PROJECT_DIR$/java-advance/src/main/java/chapter12/three/QuickSort.java" />
-        <option value="$PROJECT_DIR$/java-advance/src/main/java/chapter12/four/one/InsertSort.java" />
-        <option value="$PROJECT_DIR$/thread-pattern/pom.xml" />
-        <option value="$PROJECT_DIR$/thread-pattern/thread-pattern.iml" />
-        <option value="$PROJECT_DIR$/thread-basic/src/main/java/ap.java" />
-        <option value="$PROJECT_DIR$/thread-adv/src/main/java/AppMain.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/thread-advance/src/main/java/a.java" />
-        <option value="$PROJECT_DIR$/thread-advance/thread-advance.iml" />
-        <option value="$PROJECT_DIR$/thread-pattern/src/main/java/AppMain.java" />
-        <option value="$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/command/Invoker.java" />
-        <option value="$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/command/ConcreteCommand.java" />
-        <option value="$PROJECT_DIR$/java-basic/src/main/java/abs/Animal.java" />
-        <option value="$PROJECT_DIR$/java-basic/src/main/java/babstract/Animal.java" />
-        <option value="$PROJECT_DIR$/java-basic/src/main/java/babstract/package-info.java" />
-        <option value="$PROJECT_DIR$/java-basic/src/main/java/bannotation/AnnotationCase.java" />
-        <option value="$PROJECT_DIR$/java-basic/src/main/java/bannotation/UserCaseTest.java" />
-        <option value="$PROJECT_DIR$/java-basic/src/main/java/bannotation/package-info.java" />
-        <option value="$PROJECT_DIR$/java-basic/src/main/java/bannotation/User.java" />
-        <option value="$PROJECT_DIR$/java-basic/src/main/java/bannotation/PasswordUtils.java" />
+        <option value="$PROJECT_DIR$/spring-basic/src/main/java/retry/Retry.java" />
+        <option value="$PROJECT_DIR$/spring-basic/src/main/java/com/lishixiong/model/Person.java" />
+        <option value="$PROJECT_DIR$/spring-basic/pom.xml" />
+        <option value="$PROJECT_DIR$/guava/pom.xml" />
+        <option value="$PROJECT_DIR$/guava/src/main/java/gimmutable/ImmutableTest.java" />
+        <option value="$PROJECT_DIR$/guava/src/main/java/gimmutable/ImmutableExample.java" />
       </list>
     </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="/usr/local/Cellar/maven/3.6.1/libexec" />
-        <option name="userSettingsFile" value="$MAVEN_REPOSITORY$/settings.xml" />
+        <option name="mavenHome" value="/Library/apache-maven-3.6.1" />
+        <option name="threads" value="8" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -269,53 +242,19 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Profiles" type="6783ec58:MavenProjectsStructure$ProfilesNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="design-pattern" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="design-pattern" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="java-basic" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="java-basic" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
-        </path>
-      </expand>
-      <select />
-    </treeState>
-  </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="726" />
-    <option name="width" value="714" />
+    <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
+  <component name="ProjectId" id="1S5Nl8qvrY9ZX8d8loAvhjiQGSD" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
-      <flattenPackages ProjectPane="false" />
-      <showMembers PackagesPane="true" />
-      <hideEmptyPackages ProjectPane="false" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="CatdeaLogs" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -326,92 +265,25 @@
             <path>
               <item name="Jmaster" type="b2602c69:ProjectViewProjectNode" />
               <item name="Jmaster" type="462c0819:PsiDirectoryNode" />
-              <item name="design-pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="guava" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Jmaster" type="b2602c69:ProjectViewProjectNode" />
               <item name="Jmaster" type="462c0819:PsiDirectoryNode" />
-              <item name="design-pattern" type="462c0819:PsiDirectoryNode" />
+              <item name="guava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Jmaster" type="b2602c69:ProjectViewProjectNode" />
               <item name="Jmaster" type="462c0819:PsiDirectoryNode" />
-              <item name="design-pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Jmaster" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Jmaster" type="462c0819:PsiDirectoryNode" />
-              <item name="design-pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Jmaster" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Jmaster" type="462c0819:PsiDirectoryNode" />
-              <item name="design-pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="patterns" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Jmaster" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Jmaster" type="462c0819:PsiDirectoryNode" />
-              <item name="design-pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="command" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Jmaster" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Jmaster" type="462c0819:PsiDirectoryNode" />
-              <item name="design-pattern" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="patterns" type="462c0819:PsiDirectoryNode" />
-              <item name="command" type="462c0819:PsiDirectoryNode" />
-              <item name="Invoker" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="Jmaster" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Jmaster" type="462c0819:PsiDirectoryNode" />
-              <item name="java-advance" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Jmaster" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Jmaster" type="462c0819:PsiDirectoryNode" />
-              <item name="java-advance" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Jmaster" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Jmaster" type="462c0819:PsiDirectoryNode" />
-              <item name="java-basic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Jmaster" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Jmaster" type="462c0819:PsiDirectoryNode" />
-              <item name="java-basic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Jmaster" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Jmaster" type="462c0819:PsiDirectoryNode" />
-              <item name="java-basic" type="462c0819:PsiDirectoryNode" />
+              <item name="guava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Jmaster" type="b2602c69:ProjectViewProjectNode" />
               <item name="Jmaster" type="462c0819:PsiDirectoryNode" />
-              <item name="java-basic" type="462c0819:PsiDirectoryNode" />
+              <item name="guava" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -419,31 +291,24 @@
             <path>
               <item name="Jmaster" type="b2602c69:ProjectViewProjectNode" />
               <item name="Jmaster" type="462c0819:PsiDirectoryNode" />
-              <item name="java-basic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="bannotation" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-basic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Jmaster" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Jmaster" type="58d84e3e:PackageViewProjectNode" />
-              <item name="java-basic" type="616d4139:PackageViewModuleNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="CatdeaLogs" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="LINKA_CHANGED_FILES_ANALYSIS_RESULTS_SCOPE" value="VCS changed files" />
+    <property name="LINKA_ISSUES_SPLIT_PROPORTION" value="0.57586974" />
     <property name="LINKA_PROJECT_FILES_ANALYSIS_RESULTS_SCOPE" value="All project files" />
     <property name="LINKA_SELECTED_FILES_ANALYSIS_RESULTS_SCOPE" value="All Selected Files" />
     <property name="LINKC_FILTER_ACTION" value="all" />
@@ -452,21 +317,33 @@
     <property name="LINKC_SERVICE_ENABLE_KEY" value="0" />
     <property name="LINKE_TAB_PROPERTY_KEY" value="0" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="ImmutableSample&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1567954726844" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570962195022" />
     <property name="editor.config.ad.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/java-advance/src/main/resources" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.23120914" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="EclipseFormatter" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\IdeaProjects\Jmaster\design_pattern\src\main\java\creational_patterns\simple_factory" />
+      <recent name="C:\Users\admin\IdeaProjects\Jmaster\design_pattern\src\main\resources" />
+      <recent name="C:\Users\admin\IdeaProjects\Jmaster\concurrency\src\main" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="structural.patterns.decorate.example" />
+      <recent name="creational.patterns.prototype" />
+      <recent name="creational.patterns.factory.abs" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/java-advance/src/main/resources" />
@@ -474,16 +351,6 @@
       <recent name="$PROJECT_DIR$/thread-pattern/src/main/java" />
       <recent name="$PROJECT_DIR$/thread-pattern/src/main/resources" />
       <recent name="$PROJECT_DIR$/design-pattern/src/main/java" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="structural.patterns.decorate.example" />
-      <recent name="creational.patterns.prototype" />
-      <recent name="creational.patterns.factory.abs" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\admin\IdeaProjects\Jmaster\design_pattern\src\main\java\creational_patterns\simple_factory" />
-      <recent name="C:\Users\admin\IdeaProjects\Jmaster\design_pattern\src\main\resources" />
-      <recent name="C:\Users\admin\IdeaProjects\Jmaster\concurrency\src\main" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -498,9 +365,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.UserCaseTest">
+  <component name="RunManager" selected="Application.ImmutableExample">
     <configuration name="AppMain " type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="AppMain" />
+      <option name="MAIN_CLASS_NAME" value="blist.ListDelete" />
       <module name="thread-pattern" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -584,12 +451,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FinalClassVaribaleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter02.four.FinalClassVaribaleTest" />
-      <module name="java-advance" />
+    <configuration name="ImmutableExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gimmutable.ImmutableExample" />
+      <module name="guava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter02.four.*" />
+          <option name="PATTERN" value="gimmutable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lishixiong.model.Person" />
+      <module name="springbasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lishixiong.model.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -610,27 +490,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ap" />
-      <module name="thread-basic" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.AppMain " />
       <item itemvalue="Application.AppMain" />
-      <item itemvalue="Application.FinalClassVaribaleTest" />
-      <item itemvalue="Application.ap" />
       <item itemvalue="Application.UserCaseTest" />
+      <item itemvalue="Application.Person" />
+      <item itemvalue="Application.ImmutableExample" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.UserCaseTest" />
-        <item itemvalue="Application.AppMain " />
-        <item itemvalue="Application.ap" />
+        <item itemvalue="Application.ImmutableExample" />
+        <item itemvalue="Application.Person" />
         <item itemvalue="Application.AppMain" />
-        <item itemvalue="Application.FinalClassVaribaleTest" />
+        <item itemvalue="Application.AppMain " />
+        <item itemvalue="Application.UserCaseTest" />
       </list>
     </recent_temporary>
   </component>
@@ -770,7 +643,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566202503472</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="增加注解的学习例子">
+      <created>1567954770405</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1567954770405</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -786,52 +666,42 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="726" y="0" width="714" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" order="0" />
-      <window_info id="Designer" order="1" />
-      <window_info id="UI Designer" order="2" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info id="Favorites" order="4" sideWeight="0.50128204" side_tool="true" weight="0.18063584" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49871793" weight="0.38449848" />
-      <window_info anchor="bottom" id="FindBugs-IDEA" />
-      <window_info anchor="bottom" id="Tail" />
-      <window_info anchor="bottom" id="Statistic" />
-      <window_info anchor="bottom" id="MyBatis Log" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26575932" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.5744681" weight="0.32933334" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6519757" visible="true" weight="0.29866666" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329602" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32627645" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3985056" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49638727" weight="0.32692307" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.7030347" weight="0.32564104" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.5982659" weight="0.33461538" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.3480243" side_tool="true" visible="true" weight="0.29866666" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.54552025" weight="0.32692307" />
-      <window_info anchor="bottom" id="智能研发" order="13" sideWeight="0.49855492" weight="0.4974359" />
-      <window_info anchor="bottom" id="LinkE" order="14" sideWeight="0.5715318" weight="0.32820514" />
-      <window_info anchor="bottom" id="Tala" order="15" sideWeight="0.49927744" weight="0.2846154" />
-      <window_info anchor="bottom" id="Alipay DevTools" order="16" weight="0.20641026" />
-      <window_info anchor="bottom" id="DB Execution Console" order="17" />
-      <window_info anchor="bottom" id="Thumbnails" order="18" weight="0.32985073" />
-      <window_info anchor="bottom" id="Sequence" order="19" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="智能研发" order="8" weight="0.329602" />
+      <window_info anchor="bottom" id="LinkE" order="9" weight="0.22636816" />
+      <window_info anchor="bottom" id="Statistic" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Tala" order="13" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="14" />
+      <window_info anchor="bottom" id="Messages" order="15" weight="0.32876712" />
+      <window_info anchor="bottom" id="MyBatis Log" order="16" />
+      <window_info anchor="bottom" id="Tail" order="17" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" show_stripe_button="false" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" weight="0.027456647" />
-      <window_info anchor="right" id="Capture Analysis" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="right" id="Structure" order="9" sideWeight="0.50128204" weight="0.15462428" />
-      <window_info anchor="right" id="DB Browser" order="10" weight="0.14884393" />
-      <window_info anchor="right" id="PlantUML" order="11" show_stripe_button="false" weight="0.15101156" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -862,14 +732,7 @@
               <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
                 <collection />
               </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
+              <option name="COLUMN_ORDER" />
             </State>
           </value>
         </entry>
@@ -893,7 +756,8 @@
     <MESSAGE value="新增享元模式、迭代器模式" />
     <MESSAGE value="新增状态模式" />
     <MESSAGE value="完成设计模式所有例子" />
-    <option name="LAST_COMMIT_MESSAGE" value="完成设计模式所有例子" />
+    <MESSAGE value="增加注解的学习例子" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加注解的学习例子" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -903,332 +767,204 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/java-advance/src/main/java/chapter03/four/IteratorTest.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/rholder/guava-retrying/2.0.0/guava-retrying-2.0.0.jar!/com/github/rholder/retry/Retryer.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+        <state relative-caret-position="96">
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-advance/src/main/java/chapter12/three/QuickSort.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.6/lombok-1.18.6-sources.jar!/lombok/var.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+        <state relative-caret-position="208">
+          <caret line="33" column="18" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-advance/src/main/java/chapter12/four/one/InsertSort.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/rholder/guava-retrying/2.0.0-AONE-SNAPSHOT/guava-retrying-2.0.0-AONE-20190817.045833-2.jar!/com/github/rholder/retry/Retryer.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="12" column="38" lean-forward="true" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+        <state relative-caret-position="96">
+          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-advance/src/main/resources/log4j2.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md" />
-    <entry file="file://$PROJECT_DIR$/thread-pattern/thread-pattern.iml">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/code/findbugs/jsr305/2.0.2/jsr305-2.0.2.jar!/javax/annotation/concurrent/Immutable.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="6" column="40" lean-forward="true" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+        <state relative-caret-position="144">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design-pattern/design-pattern.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-advance/java-advance.iml">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/code/findbugs/jsr305/2.0.2/jsr305-2.0.2.jar!/javax/annotation/Nonnull.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        <state relative-caret-position="144">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.editorconfig">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread-basic/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread-advance/src/main/java/AppMain.java" />
-    <entry file="file://$PROJECT_DIR$/thread-advance/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-basic/java-basic.iml">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.1.2.RELEASE/spring-core-5.1.2.RELEASE-sources.jar!/org/springframework/lang/NonNull.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="9" selection-end-line="16" selection-end-column="9" />
+        <state relative-caret-position="363">
+          <caret line="50" column="18" selection-start-line="50" selection-start-column="18" selection-end-line="50" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/thread-advance/thread-advance.iml">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.6/lombok-1.18.6-sources.jar!/lombok/NonNull.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+        <state relative-caret-position="352">
+          <caret line="46" column="18" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/thread-advance/src/main/java/a.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/rholder/guava-retrying/2.0.0/guava-retrying-2.0.0-sources.jar!/com/github/rholder/retry/StopStrategies.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        <state relative-caret-position="157">
+          <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-advance/src/main/java/chapter02/four/FinalClassVaribaleTest.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/rholder/guava-retrying/2.0.0/guava-retrying-2.0.0-sources.jar!/com/github/rholder/retry/StopStrategy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="64">
+          <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/thread-basic/src/main/java/ap.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/rholder/guava-retrying/2.0.0/guava-retrying-2.0.0-sources.jar!/com/github/rholder/retry/AttemptTimeLimiters.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        <state relative-caret-position="16">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/thread-pattern/pom.xml">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/rholder/guava-retrying/2.0.0/guava-retrying-2.0.0-sources.jar!/com/github/rholder/retry/RetryerBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="156">
+          <caret line="74" column="29" selection-start-line="74" selection-start-column="29" selection-end-line="74" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Jmaster.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thread-pattern/src/main/java/AppMain.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/checkerframework/checker-qual/2.8.1/checker-qual-2.8.1.jar!/org/checkerframework/checker/nullness/qual/Nullable.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        <state relative-caret-position="240">
+          <caret line="27" column="18" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/creational/patterns/prototype/MailProduct.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/28.1-jre/guava-28.1-jre.jar!/com/google/common/base/Preconditions.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="112">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/iterator/IAggregate.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/rholder/guava-retrying/2.0.0/guava-retrying-2.0.0-sources.jar!/com/github/rholder/retry/Retryer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        <state relative-caret-position="243">
+          <caret line="124" column="13" selection-start-line="124" selection-start-column="13" selection-end-line="124" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/iterator/Iterator.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/28.1-jre/guava-28.1-jre-sources.jar!/com/google/common/base/Preconditions.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        <state relative-caret-position="-1303">
+          <caret line="158" column="34" selection-start-line="158" selection-start-column="21" selection-end-line="158" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/iterator/Product.java">
+    <entry file="file://$PROJECT_DIR$/spring-basic/src/main/java/com/lishixiong/model/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/iterator/Products.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="741">
-          <caret line="45" column="34" selection-start-line="45" selection-start-column="34" selection-end-line="45" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/resources/log4j2.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/status/InitState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/iterator/AppMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="8" column="12" selection-end-line="26" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/command/example/AppMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-basic/src/main/java/babstract/Animal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="15" column="27" selection-end-line="26" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-basic/src/main/java/babstract/package-info.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-basic/src/main/java/babstract/Cat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-basic/src/main/java/bannotation/User.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/javax/annotation/Resource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1172">
-          <caret line="54" column="18" selection-start-line="54" selection-start-column="18" selection-end-line="54" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/annotation/ElementType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-432">
-          <caret line="72" column="12" selection-start-line="72" selection-start-column="12" selection-end-line="72" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-basic/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.6/lombok-1.18.6.jar!/lombok/extern/log4j/Log4j.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/command/Receiver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/command/Invoker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="7" selection-end-line="27" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/command/ICommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/command/ConcreteCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design-pattern/src/main/java/behavioral/patterns/command/AppMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.6/lombok-1.18.6-sources.jar!/lombok/extern/log4j/Log4j.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="62" column="18" selection-start-line="62" selection-start-column="18" selection-end-line="62" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="118" column="24" selection-start-line="118" selection-start-column="19" selection-end-line="118" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/reflect/Method.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="620" column="54" selection-start-line="620" selection-start-column="54" selection-end-line="620" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-basic/src/main/java/bannotation/package-info.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/lang/annotation/Target.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="78" column="18" selection-start-line="78" selection-start-column="18" selection-end-line="78" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-basic/src/main/java/bannotation/UserCaseTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="35">
-          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+        <state relative-caret-position="304">
+          <caret line="22" column="81" selection-start-line="22" selection-start-column="81" selection-end-line="22" selection-end-column="81" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#437#438#0" expanded="true" />
-            <element signature="e#495#496#0" expanded="true" />
+            <element signature="e#399#400#0" expanded="true" />
+            <element signature="e#487#488#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java-basic/src/main/java/bannotation/User.java">
+    <entry file="file://$PROJECT_DIR$/guava/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="31" column="18" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+        <state relative-caret-position="224">
+          <caret line="14" column="8" selection-end-line="21" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/28.1-jre/guava-28.1-jre-sources.jar!/com/google/common/collect/ImmutableList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="60" column="22" selection-start-line="60" selection-start-column="22" selection-end-line="60" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/28.1-jre/guava-28.1-jre-sources.jar!/com/google/common/collect/Lists.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4064">
+          <caret line="305" column="28" selection-start-line="305" selection-start-column="28" selection-end-line="305" selection-end-column="28" />
+          <folding>
+            <element signature="e#3223#3224#0" expanded="true" />
+            <element signature="e#3257#3258#0" expanded="true" />
+            <element signature="e#12867#12868#0" expanded="true" />
+            <element signature="e#12919#12920#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip!/java/util/Objects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="57" column="26" selection-start-line="57" selection-start-column="26" selection-end-line="57" selection-end-column="26" />
+          <folding>
+            <element signature="e#1410#1411#0" expanded="true" />
+            <element signature="e#1471#1472#0" expanded="true" />
+            <element signature="e#8380#8381#0" expanded="true" />
+            <element signature="e#8414#8415#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-basic/src/main/java/retry/Retry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="24" column="49" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-basic/pom.xml">
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.2.RELEASE/spring-context-5.1.2.RELEASE-sources.jar!/org/springframework/validation/annotation/Validated.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="53" column="18" selection-start-line="53" selection-start-column="18" selection-end-line="53" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/checkerframework/checker-qual/2.8.1/checker-qual-2.8.1-sources.jar!/org/checkerframework/checker/nullness/qual/Nullable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/guava/src/main/java/gimmutable/ImmutableExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="22" column="43" selection-end-line="36" selection-end-column="1" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/java-basic/src/main/java/bannotation/PasswordUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-          <folding>
-            <element signature="e#415#416#0" expanded="true" />
-            <element signature="e#471#472#0" expanded="true" />
-            <element signature="e#581#582#0" expanded="true" />
-            <element signature="e#652#653#0" expanded="true" />
+            <element signature="e#791#792#0" expanded="true" />
+            <element signature="e#813#814#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1265,7 +1001,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.23120914" />
               </list>
             </option>
           </splitter-proportions>
@@ -1285,11 +1021,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>thread-pattern</last-edited>
+          <last-edited>springbasic</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.23120914" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

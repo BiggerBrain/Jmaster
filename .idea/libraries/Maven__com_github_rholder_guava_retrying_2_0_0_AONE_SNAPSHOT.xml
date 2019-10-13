@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: com.github.rholder:guava-retrying:2.0.0-AONE-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/rholder/guava-retrying/2.0.0-AONE-SNAPSHOT/guava-retrying-2.0.0-AONE-20190817.045833-2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/rholder/guava-retrying/2.0.0-AONE-SNAPSHOT/guava-retrying-2.0.0-AONE-20190817.045833-2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/rholder/guava-retrying/2.0.0-AONE-SNAPSHOT/guava-retrying-2.0.0-AONE-20190817.045833-2-sources.jar!/" />
+      <root url="file://$MAVEN_REPOSITORY$/com/github/rholder/guava-retrying/2.0.0-AONE-SNAPSHOT" />
+    </SOURCES>
+  </library>
+</component>

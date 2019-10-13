@@ -1,6 +1,5 @@
 package blist;
 
-import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
@@ -38,7 +37,7 @@ public class ListDelete {
         if (input == null || input.isEmpty()) {
             return;
         }
-        for (int i = 0; i < input.size(); ) {
+        for (int i = 0; i < input.size();) {
             if (input.get(i) == null) {
                 input.remove(i);
             } else {
@@ -48,13 +47,13 @@ public class ListDelete {
     }
 
     public static void main(String[] args) {
-        List<String> stringArrayList = new ArrayList<>();
-        stringArrayList.add("A");
-        stringArrayList.add(null);
-        stringArrayList.add(null);
-        stringArrayList.add("B");
-        removeNull(stringArrayList);
-        log.info(stringArrayList.toString());
+        //        List<String> stringArrayList = new ArrayList<>();
+        //        stringArrayList.add("A");
+        //        stringArrayList.add(null);
+        //        stringArrayList.add(null);
+        //        stringArrayList.add("B");
+        //        removeNull(stringArrayList);
+        //        log.info(stringArrayList.toString());
 
     }
 }

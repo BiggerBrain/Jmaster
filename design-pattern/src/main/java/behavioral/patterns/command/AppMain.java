@@ -15,5 +15,6 @@ public class AppMain {
         Invoker invoker = new Invoker(command);
         //执行方法
         invoker.action();
+
     }
 }
