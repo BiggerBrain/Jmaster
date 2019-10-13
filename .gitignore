@@ -1,0 +1,59 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+### Java template
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+.gitignore
+design-pattern/target/
+guava/guava.iml
+guava/src/main/resources/
+guava/src/test/
+guava/target/
+java-advance/src/test/
+java-advance/target/generated-sources/
+java-basic/target/
+server/
+spring-basic/springbasic.iml
+spring-basic/src/main/resources/
+spring-basic/src/test/
+spring-basic/target/
+thread-advance/src/main/resources/
+thread-advance/src/test/
+thread-basic/src/main/resources/
+thread-basic/src/test/
+thread-pattern/src/main/resources/
+thread-pattern/src/test/
+thread-pattern/target/
+target/
+target/
+target/
+Receiver.java
