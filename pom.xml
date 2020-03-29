@@ -15,8 +15,7 @@
         <module>thread-basic</module>
         <module>thread-advance</module>
         <module>thread-pattern</module>
-        <module>spring-basic</module>
-        <module>guava</module>
+        <module>java-algorithm</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -40,6 +39,19 @@
             <version>${lombok.version}</version>
         </dependency>
     </dependencies>
+    <repositories>
+        <repository>
+            <id>alimaven</id>
+            <name>aliyun maven</name>
+            <url>http://maven.aliyun.com/nexus/content/groups/public/</url>
+            <releases>
+                <enabled>true</enabled>
+            </releases>
+            <snapshots>
+                <enabled>false</enabled>
+            </snapshots>
+        </repository>
+    </repositories>
     <build>
         <plugins>
             <plugin>

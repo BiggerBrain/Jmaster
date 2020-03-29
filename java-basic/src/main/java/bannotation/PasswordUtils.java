@@ -4,13 +4,11 @@
  */
 package bannotation;
 
-import javax.annotation.Resource;
 
 /**
  * @author lishixiong
  * @version $Id: PasswordUtils.java, v 0.1 2019年09月08日 10:05 PM lishixiong Exp $
  */
-@Resource
 public class PasswordUtils {
     @User(id = "1", description = "tom", characteristics = { "sunny", "soft" })
     public boolean validatePassword(String password) {

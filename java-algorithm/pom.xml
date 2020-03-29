@@ -9,14 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>guava</artifactId>
+    <artifactId>java-algorithm</artifactId>
 
-    <dependencies>
-        <!-- https://mvnrepository.com/artifact/com.github.rholder/guava-retrying -->
-        <dependency>
-            <groupId>com.github.rholder</groupId>
-            <artifactId>guava-retrying</artifactId>
-            <version>2.0.0</version>
-        </dependency>
-    </dependencies>
+
 </project>
