@@ -5,6 +5,8 @@
       <Settings>
         <option name="formatter" value="ECLIPSE" />
         <option name="id" value="1567934179601" />
+        <option name="importOrderConfigFilePath" value="$USER_HOME$/Documents/alipay/ali_import_order.importorder" />
+        <option name="importOrderFromFile" value="true" />
         <option name="name" value="alipay" />
         <option name="pathToConfigFileJava" value="$USER_HOME$/Documents/alipay/AlipayFormatter.xml" />
         <option name="selectedJavaProfile" value="Alipay Convention" />
