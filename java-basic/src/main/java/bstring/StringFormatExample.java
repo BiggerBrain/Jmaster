@@ -3,15 +3,12 @@ package bstring;
 import java.util.Date;
 import java.util.Locale;
 
-import lombok.extern.log4j.Log4j2;
-
 /**
  * @author lishixiong
  * @version 1.0: a.java, v 0.1 2019年04月30日 15:32 lishixiong Exp $
  * String 类的format方法用于创建格式化的字符串以及连接多个字符串对象
  */
-@SuppressWarnings({"unchecked"})
-@Log4j2
+@SuppressWarnings({ "unchecked" })
 public class StringFormatExample {
     public static void main(String[] args) {
         dateFormat();
@@ -24,9 +21,9 @@ public class StringFormatExample {
         String str = null;
         //通过String的format方法生成字符串
         str = String.format("我的名字叫%s", "李世雄");
-        log.info(str);
+        System.out.println(str);
         str = String.format("Hi,%s:%s.%s", "王南", "王力", "王张");
-        log.info(str);
+        System.out.println(str);
         //注意这里是printf不是println,%n表示换行符
         System.out.printf("字母a的大写是：%c %n", 'A');
         System.out.printf("3>7的结果是：%b %n", 3 > 7);
@@ -48,7 +45,7 @@ public class StringFormatExample {
         String str = null;
         //$使用
         str = String.format("格式参数$的使用：%1$d,%2$s", 99, "abc");
-        log.info(str);
+        System.out.println(str);
         //+使用
         System.out.printf("显示正负数的符号：%+d与%d%n", 99, -99);
         //补O使用
@@ -97,7 +94,7 @@ public class StringFormatExample {
         System.out.printf("9位数字的毫秒数（不足9位前面补0）:%tN%n", date);
         //p的使用
         String str = String.format(Locale.US, "小写字母的上午或下午标记(英)：%tp", date);
-        log.info(str);
+        System.out.println(str);
         System.out.printf("小写字母的上午或下午标记（中）：%tp%n", date);
         //z的使用
         System.out.printf("相对于GMT的RFC822时区的偏移量:%tz%n", date);
@@ -109,15 +106,15 @@ public class StringFormatExample {
         System.out.printf("1970-1-1 00:00:00 到现在所经过的毫秒数：%tQ%n", date);
         //b的使用，月份简称
         str = String.format(Locale.US, "英文月份简称：%tb", date);
-        log.info(str);
+        System.out.println(str);
         System.out.printf("本地月份简称：%tb%n", date);
         //B的使用，月份全称
         str = String.format(Locale.US, "英文月份全称：%tB", date);
-        log.info(str);
+        System.out.println(str);
         System.out.printf("本地月份全称：%tB%n", date);
         //a的使用，星期简称
         str = String.format(Locale.US, "英文星期的简称：%ta", date);
-        log.info(str);
+        System.out.println(str);
         //A的使用，星期全称
         System.out.printf("本地星期的简称：%tA%n", date);
         //C的使用，年前两位

@@ -4,11 +4,9 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Random;
 
-import lombok.extern.log4j.Log4j2;
-@Log4j2
 public class WaitNotifyExample {
-    public static void main(String args[]) {
-        log.info("用生成者和消费者的例子来学习多线程wait and notify方法的使用");
+    public static void main(String[] args) {
+        System.out.println("用生成者和消费者的例子来学习多线程wait and notify方法的使用");
         Queue buffer = new LinkedList();
         int maxSize = 10;
         Thread producer = new Producer(buffer, maxSize, "PRODUCER");
@@ -18,10 +16,9 @@ public class WaitNotifyExample {
     }
 }
 
-@Log4j2
 class Producer extends Thread {
-    private Queue queue;
-    private int maxSize;
+    private final Queue queue;
+    private final int   maxSize;
 
     public Producer(Queue queue, int maxSize, String name) {
         super(name);
@@ -35,7 +32,7 @@ class Producer extends Thread {
             synchronized (queue) {
                 while (queue.size() == maxSize) {
                     try {
-                        log.info("生产满！");
+                        System.out.println("生产满！");
                         queue.wait();
                     } catch (Exception ex) {
                         ex.printStackTrace();
@@ -43,17 +40,17 @@ class Producer extends Thread {
                 }
                 Random random = new Random();
                 int i = random.nextInt();
-                log.info("Producing value : " + i);
+                System.out.println("Producing value : " + i);
                 queue.add(i);
                 queue.notifyAll();
             }
         }
     }
 }
-@Log4j2
+
 class Consumer extends Thread {
-    private Queue queue;
-    private int maxSize;
+    private final Queue queue;
+    private final int   maxSize;
 
     public Consumer(Queue queue, int maxSize, String name) {
         super(name);
@@ -66,14 +63,14 @@ class Consumer extends Thread {
         while (true) {
             synchronized (queue) {
                 while (queue.isEmpty()) {
-                    log.info("消费完！");
+                    System.out.println("消费完！");
                     try {
                         queue.wait();
                     } catch (Exception ex) {
                         ex.printStackTrace();
                     }
                 }
-                log.info("Consuming value : " + queue.remove());
+                System.out.println("Consuming value : " + queue.remove());
                 queue.notifyAll();
             }
         }
