@@ -29,12 +29,8 @@ import java.util.*;
  */
 public class WordLadderII {
 
-}
 
-class Solution {
-    public List<List<String>> findLadders(String beginWord,
-                                          String endWord,
-                                          List<String> wordList) {
+    public List<List<String>> findLadders(String beginWord, String endWord, List<String> wordList) {
         HashSet<String> dict = new HashSet<>(wordList);
         List<List<String>> result = new ArrayList<>();
         //Neighbors for every node
@@ -56,9 +52,7 @@ class Solution {
      * @param nodeNeighbors
      * @param distance
      */
-    private void bfs(String start,
-                     String end,
-                     Set<String> dict,
+    private void bfs(String start, String end, Set<String> dict,
                      HashMap<String, ArrayList<String>> nodeNeighbors,
                      HashMap<String, Integer> distance) {
         for (String str : dict) {
@@ -93,12 +87,9 @@ class Solution {
         }
     }
 
-    private void dfs(String cur,
-                     String end,
-                     Set<String> dict,
+    private void dfs(String cur, String end, Set<String> dict,
                      HashMap<String, ArrayList<String>> nodeNeighbors,
-                     HashMap<String, Integer> distance,
-                     ArrayList<String> solution,
+                     HashMap<String, Integer> distance, ArrayList<String> solution,
                      List<List<String>> res) {
         solution.add(cur);
         if (end.equals(cur)) {
@@ -123,7 +114,8 @@ class Solution {
         char[] chs = node.toCharArray();
         for (char ch = 'a'; ch <= 'z'; ch++) {
             for (int i = 0; i < chs.length; i++) {
-                if (chs[i] == ch) continue;
+                if (chs[i] == ch)
+                    continue;
                 char old_ch = chs[i];
                 chs[i] = ch;
                 if (dict.contains(String.valueOf(chs))) {

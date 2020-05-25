@@ -20,13 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6372d871-7614-410b-8907-934c0d9e6dfb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/qaplug_profiles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-algorithm/src/main/java/leetcode/LongestConsecutiveSequence.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/src/main/java/babstract/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/src/main/java/babstract/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/src/main/java/bannotation/UserCaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/src/main/java/bannotation/UserCaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/src/main/java/benum/EnumExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/src/main/java/benum/EnumExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/src/main/java/blist/ListDelete.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/src/main/java/bcollection/blist/ListDelete.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/src/main/java/bstring/StringFormatExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/src/main/java/bstring/StringFormatExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/src/main/java/bthread/WaitNotifyExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/src/main/java/bthread/WaitNotifyExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithm/src/main/java/leetcode/WordLadderII.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithm/src/main/java/leetcode/WordLadderII.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,7 +137,7 @@
       <recent name="$PROJECT_DIR$/design-pattern/src/main/java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ListDelete">
+  <component name="RunManager" selected="Application.LongestConsecutiveSequence">
     <configuration name="AppMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="$PROJECT_DIR$/../Java/jdk1.8.0_45" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -243,12 +244,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lishixiong.model.Person" />
-      <module name="springbasic" />
+    <configuration name="LongestConsecutiveSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.LongestConsecutiveSequence" />
+      <module name="java-algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lishixiong.model.*" />
+          <option name="PATTERN" value="leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -273,16 +274,16 @@
       <item itemvalue="Application.AppMain" />
       <item itemvalue="Application.ImmutableExample" />
       <item itemvalue="Application.ListDelete" />
-      <item itemvalue="Application.Person" />
+      <item itemvalue="Application.LongestConsecutiveSequence" />
       <item itemvalue="Application.WordLadderII" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LongestConsecutiveSequence" />
         <item itemvalue="Application.ListDelete" />
         <item itemvalue="Application.WordLadderII" />
         <item itemvalue="Application.AppMain" />
         <item itemvalue="Application.ImmutableExample" />
-        <item itemvalue="Application.Person" />
       </list>
     </recent_temporary>
   </component>
@@ -464,7 +465,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589966958703</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="修改输出方式">
+      <created>1590219050987</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1590219050987</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -531,12 +539,17 @@
     <MESSAGE value="增加注解的学习例子" />
     <MESSAGE value="增加guava学习" />
     <MESSAGE value="增加算法模块" />
-    <option name="LAST_COMMIT_MESSAGE" value="增加算法模块" />
+    <MESSAGE value="修改输出方式" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改输出方式" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="462" y="161" key="#Auto_Import" timestamp="1590220986076">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="462" y="161" key="#Auto_Import/0.0.1440.900@0.0.1440.900" timestamp="1590220986076" />
     <state x="419" y="118" key="#Custom_Plugin_Repositories" timestamp="1585469070076">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
@@ -557,38 +570,42 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="297" y="381" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1440.900@0.0.1440.900" timestamp="1589968422288" />
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1589966958512">
+    <state x="184" y="0" key="CommitChangelistDialog2" timestamp="1590219050727">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1589966958512" />
+    <state x="184" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1590219050727" />
     <state x="350" y="0" key="CommitChangelistDialog2/0.0.1707.920@0.0.1707.920" timestamp="1585471829143" />
-    <state x="185" y="51" key="DiffContextDialog" timestamp="1589966952048">
+    <state x="185" y="51" key="DiffContextDialog" timestamp="1590219024614">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="185" y="51" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1589966952048" />
+    <state x="185" y="51" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1590219024614" />
     <state x="605" y="208" key="FileChooserDialogImpl" timestamp="1585471331838">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state x="605" y="208" key="FileChooserDialogImpl/0.0.1707.920@0.0.1707.920" timestamp="1585471331838" />
-    <state width="1396" height="234" key="GridCell.Tab.0.bottom" timestamp="1589974062272">
+    <state x="588" y="354" width="494" height="248" key="Github.ShareDialog" timestamp="1590219104202">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1396" height="234" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1589974062272" />
+    <state x="588" y="354" width="494" height="248" key="Github.ShareDialog/0.0.1440.900@0.0.1440.900" timestamp="1590219104202" />
+    <state width="1396" height="234" key="GridCell.Tab.0.bottom" timestamp="1590371777632">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1396" height="234" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1590371777632" />
     <state width="1657" height="232" key="GridCell.Tab.0.bottom/0.0.1707.920@0.0.1707.920" timestamp="1585471889361" />
-    <state width="1396" height="234" key="GridCell.Tab.0.center" timestamp="1589974062269">
+    <state width="1396" height="234" key="GridCell.Tab.0.center" timestamp="1590371777631">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1396" height="234" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1589974062269" />
+    <state width="1396" height="234" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1590371777631" />
     <state width="1657" height="232" key="GridCell.Tab.0.center/0.0.1707.920@0.0.1707.920" timestamp="1585471889361" />
-    <state width="1396" height="234" key="GridCell.Tab.0.left" timestamp="1589974062269">
+    <state width="1396" height="234" key="GridCell.Tab.0.left" timestamp="1590371777630">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1396" height="234" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1589974062269" />
+    <state width="1396" height="234" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1590371777630" />
     <state width="1657" height="232" key="GridCell.Tab.0.left/0.0.1707.920@0.0.1707.920" timestamp="1585471889361" />
-    <state width="1396" height="234" key="GridCell.Tab.0.right" timestamp="1589974062270">
+    <state width="1396" height="234" key="GridCell.Tab.0.right" timestamp="1590371777632">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1396" height="234" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1589974062270" />
+    <state width="1396" height="234" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1590371777632" />
     <state width="1657" height="232" key="GridCell.Tab.0.right/0.0.1707.920@0.0.1707.920" timestamp="1585471889361" />
     <state x="272" y="35" key="Maven.ArtifactSearchDialog" timestamp="1585471176151">
       <screen x="0" y="0" width="1707" height="920" />
@@ -602,18 +619,19 @@
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state x="319" y="37" key="SettingsEditor/0.0.1707.920@0.0.1707.920" timestamp="1585492849685" />
-    <state x="346" y="130" key="Vcs.Push.Dialog.v2" timestamp="1585471931265">
-      <screen x="0" y="0" width="1707" height="920" />
+    <state x="292" y="127" key="Vcs.Push.Dialog.v2" timestamp="1590219140214">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="292" y="127" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1590219140214" />
     <state x="346" y="130" key="Vcs.Push.Dialog.v2/0.0.1707.920@0.0.1707.920" timestamp="1585471931265" />
     <state x="542" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1585615663506">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state x="542" y="284" key="com.intellij.ide.util.TipDialog/0.0.1707.920@0.0.1707.920" timestamp="1585615663506" />
-    <state x="406" y="205" width="628" height="490" key="find.popup" timestamp="1590139585080">
+    <state x="406" y="205" width="675" height="640" key="find.popup" timestamp="1590219874421">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="406" y="205" width="628" height="490" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1590139585080" />
+    <state x="406" y="205" width="675" height="640" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1590219874421" />
     <state x="0" y="0" key="new project wizard" timestamp="1585471571766">
       <screen x="0" y="0" width="1707" height="920" />
     </state>
@@ -622,10 +640,10 @@
       <screen x="0" y="0" width="1707" height="920" />
     </state>
     <state x="998" y="214" key="run.anything.popup/0.0.1707.920@0.0.1707.920" timestamp="1585492370362" />
-    <state x="837" y="196" width="670" height="664" key="search.everywhere.popup" timestamp="1589966977714">
+    <state x="837" y="196" width="670" height="664" key="search.everywhere.popup" timestamp="1590219844374">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="837" y="196" width="670" height="664" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1589966977714" />
+    <state x="837" y="196" width="670" height="664" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1590219844374" />
     <state x="992" y="200" width="672" height="678" key="search.everywhere.popup/0.0.1707.920@0.0.1707.920" timestamp="1585484084327" />
     <state x="65" y="228" key="vcs.ApplyPatchDifferentiatedDialog" timestamp="1589966498751">
       <screen x="39" y="23" width="1401" height="877" />
