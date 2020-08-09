@@ -21,165 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6372d871-7614-410b-8907-934c0d9e6dfb" name="Default Changelist" comment="leetcode算法">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Jmaster.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Jmaster.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/design-pattern/design-pattern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/design-pattern.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/java-advance.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-advance/java-advance.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter02/four/FinalClassVaribaleTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter02/four/FinalInitTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter02/four/FinalInstanceVaribaleTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter02/four/FinalLocalTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter02/four/FinalStaticTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter02/four/FinalTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter02/four/Price.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter02/four/PriceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter02/four/StringJoinTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter02/four/StringJoinTest2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter02/four/four/Active.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter02/four/four/ClosureTest$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter02/four/four/ClosureTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter02/four/four/CommandTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter02/four/four/CommandTest2$1IntArrayProductorImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter02/four/four/CommandTest2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter02/four/four/IntArrayProductor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter02/four/four/Milk$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter02/four/four/Milk.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter02/four/four/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter02/four/three/Base.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter02/four/three/FinalMethodTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter02/three/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter02/three/Apple.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter02/three/Base.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter02/three/Base2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter02/three/Derived.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter02/three/Derived2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter02/three/FieldAndMethodTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter02/three/Fruit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter02/three/HideTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter02/three/Mid.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter02/three/Parent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter02/three/StaticBase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter02/three/StaticSub.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter02/three/Sub.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter02/three/Wolf.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter02/two/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter02/two/Animal2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter02/two/Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter02/two/InitTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter02/two/StaticInitTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter02/two/Wolf.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter02/two/Wolf2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter03/four/ArrayListRemove.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter03/four/Gender.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter03/four/IteratorTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter03/four/TreeSetRemove.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter03/one/one/Set2Map.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter03/one/one/Set2MapTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter03/one/one/SimpleEntry.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter03/one/three/TreeMapTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter03/one/two/Apple.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter03/one/two/HashSetTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter03/one/two/HashSetTest2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter03/one/two/ListTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter03/one/two/Name.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter03/one/two/Name2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter03/two/one/MapValueTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter04/one/five/PhantomReferenceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter04/one/four/CrazyKey.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter04/one/four/WeakHashMapTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter04/one/four/WeakReferenceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter04/one/one/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter04/one/one/NodeTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter04/one/one/StatusTranfer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter04/one/three/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter04/one/three/SoftReference.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter04/one/three/SoftReferenceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter04/one/three/StrongReferenceTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter04/two/one/Stack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter05/eight/one/InvokeRun.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter05/eight/three/StaticThreadInit$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter05/eight/three/StaticThreadInit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter05/eight/three/StaticThreadInit2$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter05/eight/three/StaticThreadInit2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter05/eight/three/StaticThreadInit3$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter05/eight/three/StaticThreadInit3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter05/eight/two/SynchronizedStatic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter05/five/one/StringLength.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter05/seven/StringSplit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter05/six/one/RawTypeTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter05/six/one/RawTypeTest2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter05/six/one/RawTypeTest3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter05/six/two/Apple.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter05/six/two/Apple2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter05/six/two/ErasureTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter05/six/two/ErasureTest2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter05/two/two/CompositeAssign.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter05/two/two/CompositeAssign2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter07/eight/NativeTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter07/eight/SleepTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter07/one/NullInstanceof.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter07/seven/one/InnerTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter07/seven/one/Outer$Inner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter07/seven/one/Outer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter07/six/one/Outer$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter07/six/one/Outer$Inner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter07/six/one/Outer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter07/six/one/Outer2$Inner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter07/six/one/Outer2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter07/two/one/Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter07/two/two/CloneTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter07/two/two/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter07/two/two/SerializableTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter07/two/two/Singleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter07/two/two/SingletonTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter07/two/two/Wolf.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter08/two/one/ExitFinally.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter08/two/one/ExitHook$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter08/two/one/ExitHook.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter08/two/two/FinallyFlowTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter11/one/four/TreeChild$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter11/one/four/TreeChild$SonNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter11/one/four/TreeChild.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter11/one/four/TreeChildTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter11/one/three/TreeParent$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter11/one/three/TreeParent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter11/one/three/TreeParentTesst.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter11/three/four/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter11/three/four/ThreeLinkBinTree$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter11/three/four/ThreeLinkBinTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter11/three/one/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter11/three/one/ThreeLinkBinTree$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter11/three/one/ThreeLinkBinTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter11/three/three/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter11/three/three/ThreeLinkBinTree$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter11/three/three/ThreeLinkBinTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter11/three/two/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter11/three/two/ThreeLinkBinTree$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter11/three/two/ThreeLinkBinTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter11/two/five/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter11/two/five/ThreeLinkBinTree$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter11/two/five/ThreeLinkBinTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter11/two/four/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter11/two/four/TwoLinkBinTree$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter11/two/four/TwoLinkBinTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter11/two/four/TwoLinkBinTreeTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter11/two/three/ArrayBinTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter11/two/three/ArrayBinTreeTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter12/four/one/InsertSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter12/four/three/ShellSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter12/four/two/BinaryInsertSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter12/three/BubbleSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter12/three/QuickSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter12/two/one/DataWrap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter12/two/one/SelectSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter12/two/one/SelectSort2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter12/two/two/HeapSort.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/java-algorithm/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithm/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-algorithm/src/main/java/com/leetcode/LongestConsecutiveSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithm/src/main/java/com/leetcode/solutions/LongestConsecutiveSequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-algorithm/src/main/java/com/leetcode/MaximumSubarray.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithm/src/main/java/com/leetcode/solutions/MaximumSubarray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-algorithm/src/main/java/com/leetcode/WordLadderII.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithm/src/main/java/com/leetcode/solutions/WordLadderII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/java-basic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/java-basic.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/thread-basic/thread-basic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/thread-basic/thread-basic.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -463,7 +305,7 @@
       <workItem from="1596962373557" duration="600000" />
       <workItem from="1596963049146" duration="851000" />
       <workItem from="1596963910134" duration="498000" />
-      <workItem from="1596964449509" duration="158000" />
+      <workItem from="1596964449509" duration="365000" />
     </task>
     <task id="LOCAL-00001" summary="调整模块">
       <created>1554792177929</created>
@@ -654,7 +496,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596963883851</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="leetcode算法">
+      <created>1596964664962</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1596964664962</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -748,30 +597,30 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="588" y="354" width="494" height="248" key="Github.ShareDialog/0.0.1440.900@0.0.1440.900" timestamp="1590219104202" />
-    <state width="1911" height="201" key="GridCell.Tab.0.bottom" timestamp="1596964293179">
+    <state width="1911" height="201" key="GridCell.Tab.0.bottom" timestamp="1596964759802">
       <screen x="0" y="0" width="1966" height="1066" />
     </state>
     <state width="350" height="148" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1590494146799" />
     <state width="1635" height="216" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1594307100775" />
-    <state width="1911" height="201" key="GridCell.Tab.0.bottom/0.0.1966.1066@0.0.1966.1066" timestamp="1596964293179" />
-    <state width="1911" height="201" key="GridCell.Tab.0.center" timestamp="1596964293179">
+    <state width="1911" height="201" key="GridCell.Tab.0.bottom/0.0.1966.1066@0.0.1966.1066" timestamp="1596964759802" />
+    <state width="1911" height="201" key="GridCell.Tab.0.center" timestamp="1596964759802">
       <screen x="0" y="0" width="1966" height="1066" />
     </state>
     <state width="350" height="148" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1590494146798" />
     <state width="1635" height="216" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1594307100772" />
-    <state width="1911" height="201" key="GridCell.Tab.0.center/0.0.1966.1066@0.0.1966.1066" timestamp="1596964293179" />
-    <state width="1911" height="201" key="GridCell.Tab.0.left" timestamp="1596964293179">
+    <state width="1911" height="201" key="GridCell.Tab.0.center/0.0.1966.1066@0.0.1966.1066" timestamp="1596964759802" />
+    <state width="1911" height="201" key="GridCell.Tab.0.left" timestamp="1596964759802">
       <screen x="0" y="0" width="1966" height="1066" />
     </state>
     <state width="350" height="148" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1590494146797" />
     <state width="1635" height="216" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1594307100771" />
-    <state width="1911" height="201" key="GridCell.Tab.0.left/0.0.1966.1066@0.0.1966.1066" timestamp="1596964293179" />
-    <state width="1911" height="201" key="GridCell.Tab.0.right" timestamp="1596964293179">
+    <state width="1911" height="201" key="GridCell.Tab.0.left/0.0.1966.1066@0.0.1966.1066" timestamp="1596964759802" />
+    <state width="1911" height="201" key="GridCell.Tab.0.right" timestamp="1596964759802">
       <screen x="0" y="0" width="1966" height="1066" />
     </state>
     <state width="350" height="148" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1590494146798" />
     <state width="1635" height="216" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1594307100773" />
-    <state width="1911" height="201" key="GridCell.Tab.0.right/0.0.1966.1066@0.0.1966.1066" timestamp="1596964293179" />
+    <state width="1911" height="201" key="GridCell.Tab.0.right/0.0.1966.1066@0.0.1966.1066" timestamp="1596964759802" />
     <state x="380" y="89" key="MergeDialog" timestamp="1596963405884">
       <screen x="0" y="0" width="1966" height="1066" />
     </state>
