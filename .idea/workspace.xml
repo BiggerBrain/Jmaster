@@ -20,13 +20,63 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6372d871-7614-410b-8907-934c0d9e6dfb" name="Default Changelist" comment="修改输出方式">
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_11_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_11_2.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Jmaster.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Jmaster.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/design-pattern/design-pattern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/design-pattern.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java-advance/java-advance.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-advance/java-advance.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter02/four/FinalInitTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-advance/target/classes/chapter02/four/FinalInitTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter02/four/FinalStaticTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-advance/target/classes/chapter02/four/FinalStaticTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter02/four/FinalTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-advance/target/classes/chapter02/four/FinalTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter02/four/StringJoinTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-advance/target/classes/chapter02/four/StringJoinTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter02/four/StringJoinTest2.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-advance/target/classes/chapter02/four/StringJoinTest2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter02/four/four/ClosureTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-advance/target/classes/chapter02/four/four/ClosureTest$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter02/four/four/ClosureTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-advance/target/classes/chapter02/four/four/ClosureTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter02/three/Apple.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-advance/target/classes/chapter02/three/Apple.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter03/four/ArrayListRemove.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-advance/target/classes/chapter03/four/ArrayListRemove.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter03/four/TreeSetRemove.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-advance/target/classes/chapter03/four/TreeSetRemove.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter03/one/one/Set2Map.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-advance/target/classes/chapter03/one/one/Set2Map.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter03/one/two/ListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-advance/target/classes/chapter03/one/two/ListTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter03/one/two/Name.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-advance/target/classes/chapter03/one/two/Name.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter04/one/five/PhantomReferenceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-advance/target/classes/chapter04/one/five/PhantomReferenceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter04/one/four/WeakHashMapTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-advance/target/classes/chapter04/one/four/WeakHashMapTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter04/two/one/Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-advance/target/classes/chapter04/two/one/Stack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter05/eight/three/StaticThreadInit$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-advance/target/classes/chapter05/eight/three/StaticThreadInit$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter05/eight/three/StaticThreadInit.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-advance/target/classes/chapter05/eight/three/StaticThreadInit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter05/eight/three/StaticThreadInit2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-advance/target/classes/chapter05/eight/three/StaticThreadInit2$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter05/eight/three/StaticThreadInit2.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-advance/target/classes/chapter05/eight/three/StaticThreadInit2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter05/eight/three/StaticThreadInit3$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-advance/target/classes/chapter05/eight/three/StaticThreadInit3$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter05/eight/three/StaticThreadInit3.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-advance/target/classes/chapter05/eight/three/StaticThreadInit3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter05/eight/two/SynchronizedStatic.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-advance/target/classes/chapter05/eight/two/SynchronizedStatic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter05/seven/StringSplit.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-advance/target/classes/chapter05/seven/StringSplit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter05/six/one/RawTypeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-advance/target/classes/chapter05/six/one/RawTypeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter05/six/one/RawTypeTest2.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-advance/target/classes/chapter05/six/one/RawTypeTest2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter05/six/one/RawTypeTest3.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-advance/target/classes/chapter05/six/one/RawTypeTest3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter05/six/two/Apple2.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-advance/target/classes/chapter05/six/two/Apple2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter05/six/two/ErasureTest2.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-advance/target/classes/chapter05/six/two/ErasureTest2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter07/seven/one/Outer.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-advance/target/classes/chapter07/seven/one/Outer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter07/six/one/Outer.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-advance/target/classes/chapter07/six/one/Outer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter07/six/one/Outer2.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-advance/target/classes/chapter07/six/one/Outer2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter07/two/one/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-advance/target/classes/chapter07/two/one/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter07/two/two/CloneTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-advance/target/classes/chapter07/two/two/CloneTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter07/two/two/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-advance/target/classes/chapter07/two/two/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter07/two/two/SerializableTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-advance/target/classes/chapter07/two/two/SerializableTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter07/two/two/SingletonTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-advance/target/classes/chapter07/two/two/SingletonTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter08/two/one/ExitFinally.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-advance/target/classes/chapter08/two/one/ExitFinally.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter08/two/one/ExitHook$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-advance/target/classes/chapter08/two/one/ExitHook$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter08/two/one/ExitHook.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-advance/target/classes/chapter08/two/one/ExitHook.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter11/one/four/TreeChild.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-advance/target/classes/chapter11/one/four/TreeChild.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter11/one/three/TreeParent.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-advance/target/classes/chapter11/one/three/TreeParent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter11/three/four/ThreeLinkBinTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-advance/target/classes/chapter11/three/four/ThreeLinkBinTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter11/three/one/ThreeLinkBinTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-advance/target/classes/chapter11/three/one/ThreeLinkBinTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter11/three/three/ThreeLinkBinTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-advance/target/classes/chapter11/three/three/ThreeLinkBinTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter11/three/two/ThreeLinkBinTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-advance/target/classes/chapter11/three/two/ThreeLinkBinTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter11/two/five/ThreeLinkBinTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-advance/target/classes/chapter11/two/five/ThreeLinkBinTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter11/two/four/TwoLinkBinTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-advance/target/classes/chapter11/two/four/TwoLinkBinTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter12/four/one/InsertSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-advance/target/classes/chapter12/four/one/InsertSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter12/four/three/ShellSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-advance/target/classes/chapter12/four/three/ShellSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter12/four/two/BinaryInsertSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-advance/target/classes/chapter12/four/two/BinaryInsertSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/target/classes/chapter12/three/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/java-advance/target/classes/chapter12/three/QuickSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithm/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithm/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java-basic/java-basic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/java-basic.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/thread-basic/thread-basic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/thread-basic/thread-basic.iml" afterDir="false" />
@@ -144,26 +194,13 @@
       <recent name="C:\Users\admin\IdeaProjects\Jmaster\design_pattern\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AppMain (1)">
+  <component name="RunManager" selected="JUnit._13Test">
     <configuration name="AppMain (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="benum.AppMain" />
       <module name="java-basic" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="benum.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AppMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="behavioral.patterns.iterator.AppMain" />
-      <module name="design-pattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="behavioral.patterns.iterator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -236,19 +273,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListDelete" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bcollection.blist.ListDelete" />
-      <module name="java-basic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="bcollection.blist.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="LongestConsecutiveSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.leetcode.LongestConsecutiveSequence" />
       <module name="java-algorithm" />
@@ -262,34 +286,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WordLadderII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.WordLadderII" />
+    <configuration name="_13Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-algorithm" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leetcode.*" />
+          <option name="PATTERN" value="com.leetcode.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.leetcode.test" />
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.test._13Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_1Test.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leetcode.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.leetcode.test" />
+      <option name="MAIN_CLASS_NAME" value="com.leetcode.test._1Test" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.AppMain" />
       <item itemvalue="Application.Bound" />
-      <item itemvalue="Application.ListDelete" />
       <item itemvalue="Application.LongestConsecutiveSequence" />
-      <item itemvalue="Application.WordLadderII" />
       <item itemvalue="Application.AppMain (1)" />
+      <item itemvalue="JUnit._1Test.test1" />
+      <item itemvalue="JUnit._13Test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit._13Test" />
+        <item itemvalue="JUnit._1Test.test1" />
         <item itemvalue="Application.AppMain (1)" />
         <item itemvalue="Application.Bound" />
         <item itemvalue="Application.LongestConsecutiveSequence" />
-        <item itemvalue="Application.ListDelete" />
-        <item itemvalue="Application.WordLadderII" />
       </list>
     </recent_temporary>
   </component>
@@ -318,7 +359,7 @@
       <workItem from="1555571834115" duration="36000" />
       <workItem from="1596962155375" duration="201000" />
       <workItem from="1596962373557" duration="600000" />
-      <workItem from="1596963049146" duration="94000" />
+      <workItem from="1596963049146" duration="793000" />
     </task>
     <task id="LOCAL-00001" summary="调整模块">
       <created>1554792177929</created>
@@ -495,7 +536,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590568473561</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="修改输出方式">
+      <created>1596963296331</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1596963296331</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TodoView">
@@ -559,9 +607,9 @@
     <MESSAGE value="增加注解的学习例子" />
     <MESSAGE value="增加guava学习" />
     <MESSAGE value="增加算法模块" />
-    <MESSAGE value="修改输出方式" />
     <MESSAGE value="数组上限和下限模板计算" />
-    <option name="LAST_COMMIT_MESSAGE" value="数组上限和下限模板计算" />
+    <MESSAGE value="修改输出方式" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改输出方式" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -593,26 +641,38 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="588" y="354" width="494" height="248" key="Github.ShareDialog/0.0.1440.900@0.0.1440.900" timestamp="1590219104202" />
-    <state width="1635" height="216" key="GridCell.Tab.0.bottom" timestamp="1594307100775">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1911" height="202" key="GridCell.Tab.0.bottom" timestamp="1596963820613">
+      <screen x="0" y="0" width="1966" height="1066" />
     </state>
     <state width="350" height="148" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1590494146799" />
     <state width="1635" height="216" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1594307100775" />
-    <state width="1635" height="216" key="GridCell.Tab.0.center" timestamp="1594307100772">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1911" height="202" key="GridCell.Tab.0.bottom/0.0.1966.1066@0.0.1966.1066" timestamp="1596963820613" />
+    <state width="1911" height="202" key="GridCell.Tab.0.center" timestamp="1596963820613">
+      <screen x="0" y="0" width="1966" height="1066" />
     </state>
     <state width="350" height="148" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1590494146798" />
     <state width="1635" height="216" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1594307100772" />
-    <state width="1635" height="216" key="GridCell.Tab.0.left" timestamp="1594307100771">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1911" height="202" key="GridCell.Tab.0.center/0.0.1966.1066@0.0.1966.1066" timestamp="1596963820613" />
+    <state width="1911" height="202" key="GridCell.Tab.0.left" timestamp="1596963820613">
+      <screen x="0" y="0" width="1966" height="1066" />
     </state>
     <state width="350" height="148" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1590494146797" />
     <state width="1635" height="216" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1594307100771" />
-    <state width="1635" height="216" key="GridCell.Tab.0.right" timestamp="1594307100773">
-      <screen x="0" y="0" width="1680" height="1050" />
+    <state width="1911" height="202" key="GridCell.Tab.0.left/0.0.1966.1066@0.0.1966.1066" timestamp="1596963820613" />
+    <state width="1911" height="202" key="GridCell.Tab.0.right" timestamp="1596963820613">
+      <screen x="0" y="0" width="1966" height="1066" />
     </state>
     <state width="350" height="148" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1590494146798" />
     <state width="1635" height="216" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1594307100773" />
+    <state width="1911" height="202" key="GridCell.Tab.0.right/0.0.1966.1066@0.0.1966.1066" timestamp="1596963820613" />
+    <state x="380" y="89" key="MergeDialog" timestamp="1596963405884">
+      <screen x="0" y="0" width="1966" height="1066" />
+    </state>
+    <state x="380" y="89" key="MergeDialog/0.0.1966.1066@0.0.1966.1066" timestamp="1596963405884" />
+    <state x="840" y="370" width="852" height="326" key="MultipleFileMergeDialog" timestamp="1596963408067">
+      <screen x="0" y="0" width="1966" height="1066" />
+    </state>
+    <state x="840" y="370" width="852" height="326" key="MultipleFileMergeDialog/0.0.1966.1066@0.0.1966.1066" timestamp="1596963408067" />
     <state x="481" y="132" key="RollbackChangesDialog" timestamp="1589966953630">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -629,10 +689,11 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="406" y="205" width="675" height="640" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1590719980268" />
-    <state x="391" y="245" key="git4idea.merge.GitPullDialog" timestamp="1590377641153">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="534" y="290" key="git4idea.merge.GitPullDialog" timestamp="1596963388051">
+      <screen x="0" y="0" width="1966" height="1066" />
     </state>
     <state x="391" y="245" key="git4idea.merge.GitPullDialog/0.0.1440.900@0.0.1440.900" timestamp="1590377641153" />
+    <state x="534" y="290" key="git4idea.merge.GitPullDialog/0.0.1966.1066@0.0.1966.1066" timestamp="1596963388051" />
     <state x="837" y="196" width="670" height="664" key="search.everywhere.popup" timestamp="1590219844374">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -641,6 +702,17 @@
       <screen x="39" y="23" width="1401" height="877" />
     </state>
     <state x="65" y="228" key="vcs.ApplyPatchDifferentiatedDialog/39.23.1401.877@39.23.1401.877" timestamp="1589966498751" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/java-algorithm/src/main/java/com/leetcode/MaximumSubarray.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
