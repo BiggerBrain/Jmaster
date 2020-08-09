@@ -19,18 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6372d871-7614-410b-8907-934c0d9e6dfb" name="Default Changelist" comment="修改输出方式">
-      <change afterPath="$PROJECT_DIR$/java-algorithm/src/main/java/com/leetcode/MaximumSubarray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_11_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_11_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_6.xml" beforeDir="false" />
+    <list default="true" id="6372d871-7614-410b-8907-934c0d9e6dfb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-algorithm/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithm/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-algorithm/src/main/java/leetcode/LongestConsecutiveSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithm/src/main/java/com/leetcode/LongestConsecutiveSequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-algorithm/src/main/java/leetcode/WordLadderII.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithm/src/main/java/com/leetcode/WordLadderII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/src/main/java/benum/EnumExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/src/main/java/benum/EnumExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -494,7 +484,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590568473561</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="增加算法测试">
+      <created>1596961422915</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1596961422915</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -563,7 +560,8 @@
     <MESSAGE value="增加算法模块" />
     <MESSAGE value="修改输出方式" />
     <MESSAGE value="数组上限和下限模板计算" />
-    <option name="LAST_COMMIT_MESSAGE" value="数组上限和下限模板计算" />
+    <MESSAGE value="增加算法测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加算法测试" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -582,11 +580,12 @@
     </state>
     <state x="297" y="381" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1440.900@0.0.1440.900" timestamp="1589968422288" />
     <state x="347" y="445" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1596958908392" />
-    <state x="215" y="0" key="CommitChangelistDialog2" timestamp="1595849060165">
+    <state x="162" y="0" key="CommitChangelistDialog2" timestamp="1596961422600">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="184" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1590568473288" />
     <state x="215" y="0" key="CommitChangelistDialog2/0.0.1680.1050/-191.-1440.2560.1440@0.0.1680.1050" timestamp="1595849060165" />
+    <state x="162" y="0" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1596961422600" />
     <state x="185" y="51" key="DiffContextDialog" timestamp="1590219024614">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -619,18 +618,20 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="481" y="132" key="RollbackChangesDialog/0.0.1440.900@0.0.1440.900" timestamp="1589966953630" />
-    <state x="292" y="127" key="Vcs.Push.Dialog.v2" timestamp="1590568490403">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="341" y="148" key="Vcs.Push.Dialog.v2" timestamp="1596961503540">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="292" y="127" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1590568490403" />
+    <state x="341" y="148" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1596961503540" />
     <state x="406" y="205" width="675" height="640" key="find.popup" timestamp="1590719980268">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="406" y="205" width="675" height="640" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1590719980268" />
-    <state x="391" y="245" key="git4idea.merge.GitPullDialog" timestamp="1590377641153">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="456" y="286" key="git4idea.merge.GitPullDialog" timestamp="1596961451492">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="391" y="245" key="git4idea.merge.GitPullDialog/0.0.1440.900@0.0.1440.900" timestamp="1590377641153" />
+    <state x="456" y="286" key="git4idea.merge.GitPullDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1596961451492" />
     <state x="837" y="196" width="670" height="664" key="search.everywhere.popup" timestamp="1590219844374">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
