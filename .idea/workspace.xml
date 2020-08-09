@@ -20,18 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6372d871-7614-410b-8907-934c0d9e6dfb" name="Default Changelist" comment="修改输出方式">
-      <change afterPath="$PROJECT_DIR$/java-algorithm/src/main/java/com/leetcode/MaximumSubarray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_11_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_11_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_6.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-algorithm/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithm/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-algorithm/src/main/java/leetcode/LongestConsecutiveSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithm/src/main/java/com/leetcode/LongestConsecutiveSequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-algorithm/src/main/java/leetcode/WordLadderII.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithm/src/main/java/com/leetcode/WordLadderII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-basic/src/main/java/benum/EnumExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/src/main/java/benum/EnumExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jmaster.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Jmaster.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/design-pattern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/design-pattern.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/java-advance.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-advance/java-advance.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basic/java-basic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/java-basic.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread-basic/thread-basic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/thread-basic/thread-basic.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,13 +112,13 @@
     <property name="editor.config.ad.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/java-advance/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.23120914" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -318,6 +316,9 @@
       <workItem from="1555402158555" duration="4735000" />
       <workItem from="1555469105344" duration="315000" />
       <workItem from="1555571834115" duration="36000" />
+      <workItem from="1596962155375" duration="201000" />
+      <workItem from="1596962373557" duration="600000" />
+      <workItem from="1596963049146" duration="94000" />
     </task>
     <task id="LOCAL-00001" summary="调整模块">
       <created>1554792177929</created>
@@ -497,9 +498,6 @@
     <option name="localTasksCounter" value="26" />
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31097000" />
-  </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
       <is-autoscroll-to-source value="true" />
@@ -510,7 +508,7 @@
     </todo-panel>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="UpdateCopyrightCheckinHandler">
     <option name="UPDATE_COPYRIGHT" value="true" />
@@ -619,6 +617,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="481" y="132" key="RollbackChangesDialog/0.0.1440.900@0.0.1440.900" timestamp="1589966953630" />
+    <state x="485" y="177" key="SettingsEditor" timestamp="1596962314694">
+      <screen x="0" y="0" width="1966" height="1066" />
+    </state>
+    <state x="485" y="177" key="SettingsEditor/0.0.1966.1066@0.0.1966.1066" timestamp="1596962314694" />
     <state x="292" y="127" key="Vcs.Push.Dialog.v2" timestamp="1590568490403">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
