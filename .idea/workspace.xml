@@ -21,7 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="6372d871-7614-410b-8907-934c0d9e6dfb" name="Default Changelist" comment="leetcode算法">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-algorithm/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithm/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithm/src/main/java/com/leetcode/solutions/_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithm/src/main/java/com/leetcode/solutions/_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -305,7 +306,7 @@
       <workItem from="1596962373557" duration="600000" />
       <workItem from="1596963049146" duration="851000" />
       <workItem from="1596963910134" duration="498000" />
-      <workItem from="1596964449509" duration="365000" />
+      <workItem from="1596964449509" duration="417000" />
     </task>
     <task id="LOCAL-00001" summary="调整模块">
       <created>1554792177929</created>
@@ -503,7 +504,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596964664962</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="leetcode算法">
+      <created>1596964838777</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1596964838777</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
