@@ -22,6 +22,7 @@
         <log4j2.version>2.11.2</log4j2.version>
         <lombok.version>1.18.12</lombok.version>
         <junit.version>4.10</junit.version>
+        <common.collection4.version>4.0</common.collection4.version>
     </properties>
     <dependencies>
         <dependency>
@@ -38,6 +39,16 @@
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
             <version>${lombok.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>${junit.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-collections4</artifactId>
+            <version>${common.collection4.version}</version>
         </dependency>
     </dependencies>
     <repositories>

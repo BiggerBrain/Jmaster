@@ -21,8 +21,13 @@
   <component name="ChangeListManager">
     <list default="true" id="6372d871-7614-410b-8907-934c0d9e6dfb" name="Default Changelist" comment="leetcode算法">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-algorithm/src/main/java/com/leetcode/solutions/_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithm/src/main/java/com/leetcode/solutions/_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jmaster.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Jmaster.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/design-pattern/design-pattern.iml" beforeDir="false" afterPath="$PROJECT_DIR$/design-pattern/design-pattern.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/java-advance.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-advance/java-advance.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-algorithm/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithm/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-basic/java-basic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-basic/java-basic.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread-basic/thread-basic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/thread-basic/thread-basic.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -306,7 +311,7 @@
       <workItem from="1596962373557" duration="600000" />
       <workItem from="1596963049146" duration="851000" />
       <workItem from="1596963910134" duration="498000" />
-      <workItem from="1596964449509" duration="417000" />
+      <workItem from="1596964449509" duration="602000" />
     </task>
     <task id="LOCAL-00001" summary="调整模块">
       <created>1554792177929</created>
@@ -511,7 +516,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596964838777</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="leetcode算法">
+      <created>1596964913214</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1596964913214</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -605,30 +617,30 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="588" y="354" width="494" height="248" key="Github.ShareDialog/0.0.1440.900@0.0.1440.900" timestamp="1590219104202" />
-    <state width="1911" height="201" key="GridCell.Tab.0.bottom" timestamp="1596964759802">
+    <state width="1911" height="201" key="GridCell.Tab.0.bottom" timestamp="1596964988485">
       <screen x="0" y="0" width="1966" height="1066" />
     </state>
     <state width="350" height="148" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1590494146799" />
     <state width="1635" height="216" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1594307100775" />
-    <state width="1911" height="201" key="GridCell.Tab.0.bottom/0.0.1966.1066@0.0.1966.1066" timestamp="1596964759802" />
-    <state width="1911" height="201" key="GridCell.Tab.0.center" timestamp="1596964759802">
+    <state width="1911" height="201" key="GridCell.Tab.0.bottom/0.0.1966.1066@0.0.1966.1066" timestamp="1596964988485" />
+    <state width="1911" height="201" key="GridCell.Tab.0.center" timestamp="1596964988484">
       <screen x="0" y="0" width="1966" height="1066" />
     </state>
     <state width="350" height="148" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1590494146798" />
     <state width="1635" height="216" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1594307100772" />
-    <state width="1911" height="201" key="GridCell.Tab.0.center/0.0.1966.1066@0.0.1966.1066" timestamp="1596964759802" />
-    <state width="1911" height="201" key="GridCell.Tab.0.left" timestamp="1596964759802">
+    <state width="1911" height="201" key="GridCell.Tab.0.center/0.0.1966.1066@0.0.1966.1066" timestamp="1596964988484" />
+    <state width="1911" height="201" key="GridCell.Tab.0.left" timestamp="1596964988483">
       <screen x="0" y="0" width="1966" height="1066" />
     </state>
     <state width="350" height="148" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1590494146797" />
     <state width="1635" height="216" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1594307100771" />
-    <state width="1911" height="201" key="GridCell.Tab.0.left/0.0.1966.1066@0.0.1966.1066" timestamp="1596964759802" />
-    <state width="1911" height="201" key="GridCell.Tab.0.right" timestamp="1596964759802">
+    <state width="1911" height="201" key="GridCell.Tab.0.left/0.0.1966.1066@0.0.1966.1066" timestamp="1596964988483" />
+    <state width="1911" height="201" key="GridCell.Tab.0.right" timestamp="1596964988485">
       <screen x="0" y="0" width="1966" height="1066" />
     </state>
     <state width="350" height="148" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1590494146798" />
     <state width="1635" height="216" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1594307100773" />
-    <state width="1911" height="201" key="GridCell.Tab.0.right/0.0.1966.1066@0.0.1966.1066" timestamp="1596964759802" />
+    <state width="1911" height="201" key="GridCell.Tab.0.right/0.0.1966.1066@0.0.1966.1066" timestamp="1596964988485" />
     <state x="380" y="89" key="MergeDialog" timestamp="1596963405884">
       <screen x="0" y="0" width="1966" height="1066" />
     </state>
