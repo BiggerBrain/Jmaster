@@ -2,7 +2,7 @@
  * Alipay.com Inc.
  * Copyright {c} 2004-2020 All Rights Reserved.
  */
-package com.leetcode;
+package com.leetcode.solutions;
 
 /**
  * Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.

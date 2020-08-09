@@ -21,7 +21,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <log4j2.version>2.11.2</log4j2.version>
         <lombok.version>1.18.12</lombok.version>
-        <junit.version>4.12</junit.version>
+        <junit.version>4.10</junit.version>
     </properties>
     <dependencies>
         <dependency>
@@ -42,8 +42,7 @@
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
-            <version>4.10</version>
-            <scope>test</scope>
+            <version>${junit.version}</version>
         </dependency>
     </dependencies>
     <repositories>
