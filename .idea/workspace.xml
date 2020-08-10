@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6372d871-7614-410b-8907-934c0d9e6dfb" name="Default Changelist" comment="collection4 算法">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +110,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.23120914" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -304,7 +304,8 @@
       <workItem from="1596962373557" duration="600000" />
       <workItem from="1596963049146" duration="851000" />
       <workItem from="1596963910134" duration="498000" />
-      <workItem from="1596964449509" duration="682000" />
+      <workItem from="1596964449509" duration="1800000" />
+      <workItem from="1597020271969" duration="343000" />
     </task>
     <task id="LOCAL-00001" summary="调整模块">
       <created>1554792177929</created>
@@ -610,10 +611,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="185" y="51" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1590219024614" />
-    <state x="831" y="217" key="FileChooserDialogImpl" timestamp="1596964474251">
+    <state x="831" y="217" key="FileChooserDialogImpl" timestamp="1597020576890">
       <screen x="0" y="0" width="1966" height="1066" />
     </state>
-    <state x="831" y="217" key="FileChooserDialogImpl/0.0.1966.1066@0.0.1966.1066" timestamp="1596964474251" />
+    <state x="831" y="217" key="FileChooserDialogImpl/0.0.1966.1066@0.0.1966.1066" timestamp="1597020576890" />
     <state x="588" y="354" width="494" height="248" key="Github.ShareDialog" timestamp="1590219104202">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -654,10 +655,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="481" y="132" key="RollbackChangesDialog/0.0.1440.900@0.0.1440.900" timestamp="1589966953630" />
-    <state x="485" y="8" key="SettingsEditor" timestamp="1596964475604">
+    <state x="485" y="8" key="SettingsEditor" timestamp="1597020614575">
       <screen x="0" y="0" width="1966" height="1066" />
     </state>
-    <state x="485" y="8" key="SettingsEditor/0.0.1966.1066@0.0.1966.1066" timestamp="1596964475604" />
+    <state x="485" y="8" key="SettingsEditor/0.0.1966.1066@0.0.1966.1066" timestamp="1597020614575" />
     <state x="292" y="127" key="Vcs.Push.Dialog.v2" timestamp="1590568490403">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -690,9 +691,5 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-  </component>
-  <component name="antWorkspaceConfiguration">
-    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
-    <option name="FILTER_TARGETS" value="false" />
   </component>
 </project>
