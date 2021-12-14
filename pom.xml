@@ -19,7 +19,7 @@
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <log4j2.version>2.11.2</log4j2.version>
+        <log4j2.version>2.16.0</log4j2.version>
         <lombok.version>1.18.12</lombok.version>
         <junit.version>4.10</junit.version>
         <common.collection4.version>4.0</common.collection4.version>
