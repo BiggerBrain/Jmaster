@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -20,9 +23,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6372d871-7614-410b-8907-934c0d9e6dfb" name="Default Changelist" comment="collection4 算法">
-      <change afterPath="$PROJECT_DIR$/java-algorithm/src/main/java/com/leetcode/solutions/LeetCode696.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_11_2.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-algorithm/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/java-algorithm/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +39,9 @@
   </component>
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="CompilerWorkspaceConfiguration">
     <option name="PARALLEL_COMPILATION" value="true" />
@@ -67,15 +78,21 @@
       </set>
     </option>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="C:\Users\Administrator\.m2\repository" />
-        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.6.3" />
+        <option name="mavenHome" value="$USER_HOME$/apache-maven-3.6.3" />
         <option name="threads" value="8" />
         <option name="userSettingsFile" value="D:\apache-maven-3.6.3\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="1S5Nl8qvrY9ZX8d8loAvhjiQGSD" />
   <component name="ProjectLevelVcsManager">
@@ -85,35 +102,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="LINKA_CHANGED_FILES_ANALYSIS_RESULTS_SCOPE" value="VCS changed files" />
-    <property name="LINKA_EXCLUDE_PROJECT_FILES_ANALYSIS_RESULTS_SCOPE" value="test case scan" />
-    <property name="LINKA_ISSUES_SPLIT_PROPORTION" value="0.57586974" />
-    <property name="LINKA_PROJECT_FILES_ANALYSIS_RESULTS_SCOPE" value="All project files" />
-    <property name="LINKA_SELECTED_FILES_ANALYSIS_RESULTS_SCOPE" value="All Selected Files" />
-    <property name="LINKC_FILTER_ACTION" value="all" />
-    <property name="LINKC_GROUP_BY_USER_ACTION" value="ALL" />
-    <property name="LINKC_SEARCH_ACTION" value="" />
-    <property name="LINKC_SERVICE_ENABLE_KEY" value="0" />
-    <property name="LINKE_TAB_PROPERTY_KEY" value="0" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="SearchEverywhereHistoryKey" value="ImmutableSample&#9;null&#9;null" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586493806290" />
-    <property name="editor.config.ad.shown" value="true" />
-    <property name="extract.method.default.visibility" value="private" />
-    <property name="jdk.selected.JAVA_MODULE" value="11" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/java-algorithm" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.23120914" />
-    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/java-algorithm/src/main/java/test" />
@@ -138,16 +135,10 @@
       <recent name="$PROJECT_DIR$/design-pattern/src/main/java" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit._1Test">
-    <configuration name="AppMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="structural.patterns.adapter.AppMain" />
-      <module name="design-pattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="structural.patterns.adapter.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+  <component name="RunManager" selected="Application.AppMain (1)">
+    <configuration name="AppMain (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AppMain" />
+      <module name="thread-pattern" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -222,21 +213,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_5Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java-algorithm" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.leetcode.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.leetcode.test" />
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.test._5Test" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="_6Test.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-algorithm" />
       <extension name="coverage">
@@ -254,22 +230,23 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit._5Test" />
-      <item itemvalue="JUnit._6Test.test1" />
+      <item itemvalue="Application.AppMain (1)" />
       <item itemvalue="Application.Bound" />
+      <item itemvalue="JUnit._6Test.test1" />
       <item itemvalue="JUnit._1Test.test1" />
       <item itemvalue="JUnit._1Test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AppMain (1)" />
         <item itemvalue="JUnit._1Test" />
         <item itemvalue="JUnit._1Test.test1" />
         <item itemvalue="Application.Bound" />
         <item itemvalue="JUnit._6Test.test1" />
-        <item itemvalue="JUnit._5Test" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -549,19 +526,11 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_WIDTH">
-                <map>
-                  <entry key="2" value="210" />
-                  <entry key="3" value="210" />
-                </map>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
@@ -588,40 +557,6 @@
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="1234" y="399" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1606615496793">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state x="1234" y="399" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.2048.1112@0.0.2048.1112" timestamp="1606615496793" />
-    <state x="1117" y="263" key="FileChooserDialogImpl" timestamp="1606615219288">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state x="1117" y="263" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1606615219288" />
-    <state width="967" height="143" key="GridCell.Tab.0.bottom" timestamp="1606615609468">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state width="967" height="143" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1606615609468" />
-    <state width="967" height="143" key="GridCell.Tab.0.center" timestamp="1606615609468">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state width="967" height="143" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1606615609468" />
-    <state width="967" height="143" key="GridCell.Tab.0.left" timestamp="1606615609468">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state width="967" height="143" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1606615609468" />
-    <state width="967" height="143" key="GridCell.Tab.0.right" timestamp="1606615609468">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state width="967" height="143" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1606615609468" />
-    <state x="754" y="54" key="SettingsEditor" timestamp="1606615633153">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state x="754" y="54" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1606615633153" />
-    <state x="1183" y="303" key="git4idea.merge.GitPullDialog" timestamp="1606615015601">
-      <screen x="0" y="0" width="2048" height="1112" />
-    </state>
-    <state x="1183" y="303" key="git4idea.merge.GitPullDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1606615015601" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

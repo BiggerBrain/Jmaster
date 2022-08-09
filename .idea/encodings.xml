@@ -10,14 +10,20 @@
     <file url="file://$PROJECT_DIR$/java-advance/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-algorithm" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-algorithm/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-algorithm/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-basic" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-basic/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/java-basic/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/thread-advance" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/thread-advance/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/thread-advance/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/thread-basic" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/thread-basic/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/thread-basic/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/thread-pattern" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/thread-pattern/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/thread-pattern/src/main/resources" charset="UTF-8" />
   </component>
 </project>
