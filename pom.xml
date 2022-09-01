@@ -23,6 +23,7 @@
         <lombok.version>1.18.12</lombok.version>
         <junit.version>4.10</junit.version>
         <common.collection4.version>4.0</common.collection4.version>
+        <oss.version>3.11.0</oss.version>
     </properties>
     <dependencies>
         <dependency>
@@ -49,6 +50,12 @@
             <groupId>org.apache.commons</groupId>
             <artifactId>commons-collections4</artifactId>
             <version>${common.collection4.version}</version>
+        </dependency>
+        <!--            阿里云oss服务-->
+        <dependency>
+            <groupId>com.aliyun.oss</groupId>
+            <artifactId>aliyun-sdk-oss</artifactId>
+            <version>${oss.version}</version>
         </dependency>
     </dependencies>
     <repositories>

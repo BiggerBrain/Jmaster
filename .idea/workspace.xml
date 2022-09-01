@@ -23,7 +23,120 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6372d871-7614-410b-8907-934c0d9e6dfb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/java-advance/src/main/java/nio/Client1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-advance/src/main/java/nio/Client2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-advance/src/main/java/nio/Client3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java-advance/src/main/java/nio/Server.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter02/four/FinalClassVaribaleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter02/four/FinalInitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter02/four/FinalInstanceVaribaleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter02/four/FinalLocalTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter02/four/FinalStaticTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter02/four/FinalTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter02/four/PriceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter02/four/StringJoinTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter02/four/StringJoinTest2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter02/four/four/ClosureTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter02/four/four/CommandTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter02/four/four/CommandTest2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter02/four/four/Milk.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter02/four/note" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter02/four/three/FinalMethodTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter02/three/Apple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter02/three/FieldAndMethodTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter02/three/HideTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter02/three/StaticSub.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter02/three/Sub.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter02/three/Wolf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter02/three/note" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter02/two/InitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter02/two/StaticInitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter02/two/Wolf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter02/two/Wolf2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter03/four/ArrayListRemove.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter03/four/IteratorTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter03/four/TreeSetRemove.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter03/one/one/Set2Map.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter03/one/one/Set2MapTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter03/one/three/TreeMapTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter03/one/two/HashSetTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter03/one/two/HashSetTest2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter03/one/two/ListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter03/two/one/MapValueTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter04/one/five/PhantomReferenceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter04/one/four/WeakHashMapTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter04/one/four/WeakReferenceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter04/one/one/NodeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter04/one/one/StatusTranfer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter04/one/three/SoftReference.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter04/one/three/SoftReferenceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter04/one/three/StrongReferenceTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter04/one/three/note" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter04/one/two/note" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter04/three/four/常见垃圾回收器" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter04/three/垃圾回收机制" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter04/two/one/Stack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter05/eight/one/InvokeRun.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter05/eight/three/StaticThreadInit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter05/eight/three/StaticThreadInit2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter05/eight/three/StaticThreadInit3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter05/eight/two/SynchronizedStatic.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter05/five/one/StringLength.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter05/seven/StringSplit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter05/six/one/RawTypeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter05/six/one/RawTypeTest2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter05/six/one/RawTypeTest3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter05/six/two/ErasureTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter05/six/two/ErasureTest2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter05/two/two/CompositeAssign.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter05/two/two/CompositeAssign2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter07/eight/NativeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter07/eight/SleepTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter07/one/NullInstanceof.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter07/seven/one/InnerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter07/six/one/Outer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter07/six/one/Outer2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter07/two/one/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter07/two/two/CloneTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter07/two/two/SerializableTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter07/two/two/SingletonTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter08/two/one/ExitFinally.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter08/two/one/ExitHook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter08/two/two/FinallyFlowTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter11/five/note" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter11/one/four/TreeChild.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter11/one/four/TreeChildTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter11/one/three/TreeParent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter11/one/three/TreeParentTesst.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter11/seven/note" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter11/six/ntoe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter11/three/four/ThreeLinkBinTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter11/three/note" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter11/three/one/ThreeLinkBinTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter11/three/three/ThreeLinkBinTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter11/three/two/ThreeLinkBinTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter11/two/five/ThreeLinkBinTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter11/two/four/TwoLinkBinTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter11/two/four/TwoLinkBinTreeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter11/two/note" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter11/two/three/ArrayBinTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter11/two/three/ArrayBinTreeTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter12/four/one/InsertSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter12/four/three/ShellSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter12/four/two/BinaryInsertSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter12/one/one/note" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter12/one/two/note" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter12/three/BubbleSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter12/three/QuickSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter12/two/one/DataWrap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter12/two/one/SelectSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter12/two/one/SelectSort2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter12/two/two/HeapSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/java-advance/src/main/java/chapter12/two/two/note" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread-advance/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/thread-advance/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thread-advance/src/main/java/a.java" beforeDir="false" afterPath="$PROJECT_DIR$/thread-advance/src/main/java/a.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +177,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
   <component name="GithubPullRequestsUISettings">
     <option name="hiddenUrls">
       <set>
@@ -95,16 +211,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/java-advance/src/main/resources" />
+      <recent name="$PROJECT_DIR$/java-advance/src/main/java" />
+      <recent name="$PROJECT_DIR$/thread-pattern/src/main/java" />
+      <recent name="$PROJECT_DIR$/thread-pattern/src/main/resources" />
+      <recent name="$PROJECT_DIR$/design-pattern/src/main/java" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/java-algorithm/src/main/java/test" />
       <recent name="$PROJECT_DIR$/java-algorithm/src/main/java" />
@@ -116,35 +240,16 @@
       <recent name="" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="nio" />
       <recent name="structural.patterns.decorate.example" />
       <recent name="creational.patterns.prototype" />
       <recent name="creational.patterns.factory.abs" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/java-advance/src/main/resources" />
-      <recent name="$PROJECT_DIR$/java-advance/src/main/java" />
-      <recent name="$PROJECT_DIR$/thread-pattern/src/main/java" />
-      <recent name="$PROJECT_DIR$/thread-pattern/src/main/resources" />
-      <recent name="$PROJECT_DIR$/design-pattern/src/main/java" />
-    </key>
   </component>
-  <component name="RunManager" selected="Application.AppMain (1)">
+  <component name="RunManager" selected="Application.nio.Server">
     <configuration name="AppMain (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AppMain" />
       <module name="thread-pattern" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AppMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="creational.patterns.build.AppMain" />
-      <module name="design-pattern" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="creational.patterns.build.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -162,12 +267,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bound" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="template.Bound" />
-      <module name="java-algorithm" />
+    <configuration name="Client1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nio.Client1" />
+      <module name="java-advance" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="template.*" />
+          <option name="PATTERN" value="nio.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,67 +280,59 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_1Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java-algorithm" />
+    <configuration name="Client2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nio.Client2" />
+      <module name="java-advance" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leetcode.test.*" />
+          <option name="PATTERN" value="nio.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.leetcode.test" />
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.test._1Test" />
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_1Test.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java-algorithm" />
+    <configuration name="Client3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nio.Client3" />
+      <module name="java-advance" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leetcode.test.*" />
+          <option name="PATTERN" value="nio.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.leetcode.test" />
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.test._1Test" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_6Test.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="java-algorithm" />
+    <configuration name="nio.Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nio.Server" />
+      <module name="java-advance" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leetcode.test.*" />
+          <option name="PATTERN" value="nio.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.leetcode.test" />
-      <option name="MAIN_CLASS_NAME" value="com.leetcode.test._6Test" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Client1" />
+      <item itemvalue="Application.Client2" />
+      <item itemvalue="Application.Client3" />
+      <item itemvalue="Application.nio.Server" />
       <item itemvalue="Application.AppMain (1)" />
-      <item itemvalue="Application.Bound" />
-      <item itemvalue="JUnit._6Test.test1" />
-      <item itemvalue="JUnit._1Test.test1" />
-      <item itemvalue="JUnit._1Test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.nio.Server" />
+        <item itemvalue="Application.Client2" />
+        <item itemvalue="Application.Client1" />
+        <item itemvalue="Application.Client3" />
         <item itemvalue="Application.AppMain (1)" />
-        <item itemvalue="JUnit._1Test" />
-        <item itemvalue="JUnit._1Test.test1" />
-        <item itemvalue="Application.Bound" />
-        <item itemvalue="JUnit._6Test.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -502,7 +599,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660031506859</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="fix log4j version">
+      <created>1660032806229</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1660032806229</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
