@@ -16,10 +16,13 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/concurrency/pom.xml" />
+        <option value="$PROJECT_DIR$/java-algorithm/pom.xml" />
+        <option value="$PROJECT_DIR$/java-basic/pom.xml" />
         <option value="$PROJECT_DIR$/jvm/pom.xml" />
         <option value="$PROJECT_DIR$/multithread.design.patterns/pom.xml" />
         <option value="$PROJECT_DIR$/multithread.foundation/pom.xml" />
         <option value="$PROJECT_DIR$/thread-advance/pom.xml" />
+        <option value="$PROJECT_DIR$/thread-basic/pom.xml" />
         <option value="$PROJECT_DIR$/thread-foundation/pom.xml" />
         <option value="$PROJECT_DIR$/thread-pattern/pom.xml" />
       </set>
