@@ -102,10 +102,13 @@ public class Server {
         this.readBuffer.clear();
 //        readBuffer.flip();
         // Attempt to read off the channel
-        int numRead;
+        int numRead = 0;
         try {
+            System.out.println("开始读取numRead为：" + numRead);
             numRead = socketChannel.read(this.readBuffer);
+            System.out.println("读取numRead为：" + numRead);
         } catch (IOException e) {
+            System.out.println("出现异常" + numRead);
             // The remote forcibly closed the connection, cancel
             // the selection key and close the channel.
             key.cancel();
@@ -113,9 +116,9 @@ public class Server {
 
             return;
         }
-
+        System.out.println("读取numRead为:" + numRead);
         str = new String(readBuffer.array(), 0, numRead);
-        System.out.println("read from :" + str);
+        System.out.println("read from李世雄 :" + str);
         socketChannel.register(selector, SelectionKey.OP_WRITE);
     }
 
