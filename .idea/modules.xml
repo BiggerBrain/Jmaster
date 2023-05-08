@@ -3,8 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Jmaster.iml" filepath="$PROJECT_DIR$/Jmaster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algorithm/algorithm.iml" filepath="$PROJECT_DIR$/algorithm/algorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/design-pattern/design-pattern.iml" filepath="$PROJECT_DIR$/design-pattern/design-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/guava/guava.iml" filepath="$PROJECT_DIR$/guava/guava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-nio/java-advance.iml" filepath="$PROJECT_DIR$/java-nio/java-advance.iml" />
       <module fileurl="file://$PROJECT_DIR$/java-advance/java-nio.iml" filepath="$PROJECT_DIR$/java-advance/java-nio.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-basic/springbasic.iml" filepath="$PROJECT_DIR$/spring-basic/springbasic.iml" />
     </modules>

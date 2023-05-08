@@ -16,6 +16,7 @@
  */
 package nio;
 
+import java.io.File;
 import java.io.IOException;
 import java.net.InetSocketAddress;
 import java.nio.ByteBuffer;
@@ -35,7 +36,32 @@ public class Client1 {
     ByteBuffer readBuffer = ByteBuffer.allocate(1024);
 
     public static void main(String[] args) throws IOException {
-        new Client1().start();
+        //new Client1().start();
+        File f = null;
+        long v;
+        boolean bool = false;
+
+        try {
+            // create new file
+            f = new File("/Users/lishixiong/github/");
+
+            // get number of unallocated bytes
+            v = f.getTotalSpace();
+
+            // true if the file path exists
+            bool = f.exists();
+
+            // if file exists
+            if (bool) {
+                // prints number of unallocated bytes: 330893479936
+                //number of unallocated bytes: 330891235328
+                //number of unallocated bytes: 330876551168
+                System.out.print("number of unallocated bytes: " + v);
+            }
+        } catch (Exception e) {
+            // if any error occurs
+            e.printStackTrace();
+        }
     }
 
     public void start() throws IOException {

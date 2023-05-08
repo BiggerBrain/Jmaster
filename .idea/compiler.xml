@@ -7,15 +7,17 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="design-pattern" />
-        <module name="springbasic" />
         <module name="java-nio" />
+        <module name="design-pattern" />
         <module name="guava" />
+        <module name="springbasic" />
+        <module name="java-advance" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="design-pattern" target="1.8" />
       <module name="guava" target="1.8" />
+      <module name="java-advance" target="1.8" />
       <module name="java-algorithm" target="1.8" />
       <module name="java-basic" target="1.8" />
       <module name="java-nio" target="1.8" />
