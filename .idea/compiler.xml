@@ -3,6 +3,7 @@
   <component name="CompilerConfiguration">
     <option name="USE_RELEASE_OPTION" value="false" />
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
@@ -15,13 +16,10 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="design-pattern" target="1.8" />
       <module name="guava" target="1.8" />
-      <module name="java-advance" target="1.8" />
       <module name="java-algorithm" target="1.8" />
       <module name="java-basic" target="1.8" />
       <module name="java-nio" target="1.8" />
-      <module name="Jmaster" target="1.8" />
       <module name="springbasic" target="1.8" />
       <module name="thread-advance" target="1.8" />
       <module name="thread-basic" target="1.8" />
