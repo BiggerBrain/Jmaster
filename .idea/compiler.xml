@@ -10,6 +10,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="java-nio" />
         <module name="design-pattern" />
+        <module name="java" />
         <module name="guava" />
         <module name="springbasic" />
         <module name="java-advance" />
