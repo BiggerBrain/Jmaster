@@ -1,10 +1,14 @@
 import com.jayway.jsonpath.JsonPath;
 
+import java.util.ArrayList;
 import java.util.List;
 
 public class Pattern {
 
     public static void main(String[] args) {
+        ArrayList<String> arrayList = new ArrayList<>(2);
+        arrayList.size();
+        arrayList.add("ss");
         String jsonPath = "[?(" +
             "=310|=240".replaceAll(">=", "mt")
                 .replaceAll("<=", "le")

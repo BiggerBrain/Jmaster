@@ -12,6 +12,7 @@
         <module>java-nio</module>
         <module>design-pattern</module>
         <module>java</module>
+        <module>scala</module>
     </modules>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

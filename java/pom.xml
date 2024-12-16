@@ -17,6 +17,28 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
     <dependencies>
+        <!-- https://mvnrepository.com/artifact/org.apache.kafka/kafka-clients -->
+        <!--        <dependency>-->
+        <!--            <groupId>org.apache.kafka</groupId>-->
+        <!--            <artifactId>kafka-clients</artifactId>-->
+        <!--            <version>3.8.0</version>-->
+        <!--        </dependency>-->
+
+        <dependency>
+            <groupId>org.apache.kafka</groupId>
+            <artifactId>kafka_2.11</artifactId>
+            <scope>system</scope>
+            <systemPath>${pom.basedir}/src/main/lib/kafka_2.11-1.1.1_1.0.5.jar</systemPath>
+            <version>1.1.1_1.0.5</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.kafka</groupId>
+            <artifactId>kafka-clients</artifactId>
+            <scope>system</scope>
+            <systemPath>${pom.basedir}/src/main/lib/kafka-clients-1.1.1_1.0.5.jar</systemPath>
+            <version>1.1.1_1.0.5</version>
+        </dependency>
+
         <dependency>
             <groupId>com.jayway.jsonpath</groupId>
             <artifactId>json-path</artifactId>

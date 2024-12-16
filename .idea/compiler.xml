@@ -2,18 +2,22 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <option name="USE_RELEASE_OPTION" value="false" />
+    <excludeFromCompile>
+      <directory url="file://$PROJECT_DIR$/scala/src/main/resources/archetype-resources" includeSubdirectories="true" />
+    </excludeFromCompile>
     <annotationProcessing>
       <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="java-nio" />
         <module name="design-pattern" />
         <module name="java" />
-        <module name="guava" />
+        <module name="scala" />
         <module name="springbasic" />
         <module name="java-advance" />
+        <module name="java-nio" />
+        <module name="guava" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
