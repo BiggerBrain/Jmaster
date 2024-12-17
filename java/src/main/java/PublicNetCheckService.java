@@ -3,7 +3,6 @@ import org.apache.kafka.clients.admin.CreateTopicsResult;
 import org.apache.kafka.clients.admin.ListTopicsOptions;
 import org.apache.kafka.clients.admin.NewTopic;
 
-import java.util.Arrays;
 import java.util.Collections;
 import java.util.Properties;
 import java.util.UUID;
