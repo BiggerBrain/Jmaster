@@ -23,7 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6372d871-7614-410b-8907-934c0d9e6dfb" name="Default Changelist" comment="构建二叉树">
-      <change afterPath="$PROJECT_DIR$/java/src/main/java/MapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/ConsumerLeader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/NullPoint.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java/src/main/java/PublicNetCheckService.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/PublicNetCheckService.java" afterDir="false" />
     </list>
@@ -111,8 +112,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.App.executor": "Run",
+    "Application.ConsumerLeader.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MapTest.executor": "Run",
+    "Application.NullPoint.executor": "Run",
     "Application.Pattern.executor": "Run",
     "Application.PublicNetCheckService (1).executor": "Run",
     "Application.PublicNetCheckService.executor": "Run",
@@ -165,7 +168,7 @@
       <command value="mvn clean" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.MapTest">
+  <component name="RunManager" selected="Application.NullPoint">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="thread-basic" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -243,8 +246,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="ConsumerLeader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConsumerLeader" />
       <module name="java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -257,8 +260,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pattern" />
+    <configuration name="NullPoint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NullPoint" />
       <module name="java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -285,19 +288,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.ConsumerLeader" />
+      <item itemvalue="Application.NullPoint" />
       <item itemvalue="Application.MapTest" />
       <item itemvalue="Application.App" />
-      <item itemvalue="Application.Pattern" />
       <item itemvalue="Application.PublicNetCheckService (1)" />
-      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NullPoint" />
+        <item itemvalue="Application.ConsumerLeader" />
+        <item itemvalue="Application.PublicNetCheckService (1)" />
         <item itemvalue="Application.MapTest" />
         <item itemvalue="Application.App" />
-        <item itemvalue="Application.Pattern" />
-        <item itemvalue="Application.PublicNetCheckService (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -636,7 +639,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734329780526</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="构建二叉树">
+      <option name="closed" value="true" />
+      <created>1734420726493</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1734420726493</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -714,6 +725,15 @@
           <url>file://$PROJECT_DIR$/java-nio/src/main/java/nio/PublicNetCheckService.java</url>
           <line>124</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/java/src/main/java/ConsumerLeader.java</url>
+          <line>1</line>
+          <properties class="ConsumerLeader" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
