@@ -23,9 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6372d871-7614-410b-8907-934c0d9e6dfb" name="Default Changelist" comment="构建二叉树">
-      <change afterPath="$PROJECT_DIR$/java/src/main/java/BrokerMetadataZoneRack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/main/java/BrokerPartitionReplicaAssignProvider.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/BrokerPartitionReplicaAssignProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/BrokerPartitionReplicaAssignProvider.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -649,7 +648,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734493918140</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="构建二叉树">
+      <option name="closed" value="true" />
+      <created>1734594307122</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1734594307122</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

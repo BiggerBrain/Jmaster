@@ -22,16 +22,17 @@ public class BrokerPartitionReplicaAssignProvider {
         Collection<BrokerMetadataZoneRack> brokerMetadata = new ArrayList<>();
         brokerMetadata.add(new BrokerMetadataZoneRack(0, 1));
         brokerMetadata.add(new BrokerMetadataZoneRack(1, 1));
-        brokerMetadata.add(new BrokerMetadataZoneRack(2, 1));
-        System.out.println(get(3, 1, brokerMetadata, -1, -1));
+        brokerMetadata.add(new BrokerMetadataZoneRack(3, 1));
+        System.out.println(get(3, 2, brokerMetadata, -1, -1));
     }
 
     private static void test2() {
         Collection<BrokerMetadataZoneRack> brokerMetadata = new ArrayList<>();
-        brokerMetadata.add(new BrokerMetadataZoneRack(0, 1));
-        brokerMetadata.add(new BrokerMetadataZoneRack(1, 2));
-        brokerMetadata.add(new BrokerMetadataZoneRack(2, 1));
-        System.out.println(get(3, 1, brokerMetadata, -1, -1));
+        brokerMetadata.add(new BrokerMetadataZoneRack(101, 1));
+        brokerMetadata.add(new BrokerMetadataZoneRack(102, 1));
+        brokerMetadata.add(new BrokerMetadataZoneRack(103, 2));
+        brokerMetadata.add(new BrokerMetadataZoneRack(104, 2));
+        System.out.println(get(4, 2, brokerMetadata, -1, -1));
     }
 
     public static Map<String, List<Long>> get(
