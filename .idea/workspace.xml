@@ -23,10 +23,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6372d871-7614-410b-8907-934c0d9e6dfb" name="Default Changelist" comment="构建二叉树">
-      <change afterPath="$PROJECT_DIR$/java/src/main/java/ConsumerLeader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/src/main/java/NullPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/BrokerMetadataZoneRack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/BrokerPartitionReplicaAssignProvider.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/main/java/PublicNetCheckService.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/PublicNetCheckService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,6 +111,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.App.executor": "Run",
+    "Application.BrokerPartitionReplicaAssignProvider.executor": "Run",
     "Application.ConsumerLeader.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MapTest.executor": "Run",
@@ -168,7 +168,7 @@
       <command value="mvn clean" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.NullPoint">
+  <component name="RunManager" selected="Application.BrokerPartitionReplicaAssignProvider">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="thread-basic" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -233,15 +233,9 @@
       <option name="USE_PATTERN" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="$com.lishixiong.App" />
-      <module name="scala" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="$com.lishixiong.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="BrokerPartitionReplicaAssignProvider" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BrokerPartitionReplicaAssignProvider" />
+      <module name="java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -288,19 +282,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.BrokerPartitionReplicaAssignProvider" />
       <item itemvalue="Application.ConsumerLeader" />
       <item itemvalue="Application.NullPoint" />
       <item itemvalue="Application.MapTest" />
-      <item itemvalue="Application.App" />
       <item itemvalue="Application.PublicNetCheckService (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BrokerPartitionReplicaAssignProvider" />
         <item itemvalue="Application.NullPoint" />
         <item itemvalue="Application.ConsumerLeader" />
         <item itemvalue="Application.PublicNetCheckService (1)" />
         <item itemvalue="Application.MapTest" />
-        <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
   </component>
@@ -647,7 +641,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734420726493</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="构建二叉树">
+      <option name="closed" value="true" />
+      <created>1734493918140</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1734493918140</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
