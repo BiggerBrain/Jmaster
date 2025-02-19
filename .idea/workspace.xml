@@ -22,9 +22,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6372d871-7614-410b-8907-934c0d9e6dfb" name="Default Changelist" comment="构建二叉树">
+    <list default="true" id="6372d871-7614-410b-8907-934c0d9e6dfb" name="Default Changelist" comment="分区分布测试">
+      <change afterPath="$PROJECT_DIR$/java/src/main/java/CompareVersion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java/src/main/java/BrokerPartitionReplicaAssignProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/BrokerPartitionReplicaAssignProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/ConsumerLeader.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/ConsumerLeader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java/src/main/java/PublicNetCheckService.java" beforeDir="false" afterPath="$PROJECT_DIR$/java/src/main/java/PublicNetCheckService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,6 +113,7 @@
   "keyToString": {
     "Application.App.executor": "Run",
     "Application.BrokerPartitionReplicaAssignProvider.executor": "Run",
+    "Application.CompareVersion.executor": "Run",
     "Application.ConsumerLeader.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MapTest.executor": "Run",
@@ -130,8 +133,8 @@
     "jdk.selected.JAVA_MODULE": "1.8",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/lishixiong/IdeaProjects/apache/jmaster/java/src/main/lib",
-    "project.structure.last.edited": "Global Libraries",
-    "project.structure.proportion": "0.12023461",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.28027344",
     "project.structure.side.proportion": "0.74453396",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
@@ -167,7 +170,7 @@
       <command value="mvn clean" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.BrokerPartitionReplicaAssignProvider">
+  <component name="RunManager" selected="Application.ConsumerLeader">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="thread-basic" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -239,15 +242,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConsumerLeader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConsumerLeader" />
+    <configuration name="CompareVersion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CompareVersion" />
       <module name="java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MapTest" />
+    <configuration name="ConsumerLeader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConsumerLeader" />
       <module name="java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -282,18 +285,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.BrokerPartitionReplicaAssignProvider" />
+      <item itemvalue="Application.CompareVersion" />
       <item itemvalue="Application.ConsumerLeader" />
       <item itemvalue="Application.NullPoint" />
-      <item itemvalue="Application.MapTest" />
       <item itemvalue="Application.PublicNetCheckService (1)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BrokerPartitionReplicaAssignProvider" />
-        <item itemvalue="Application.NullPoint" />
         <item itemvalue="Application.ConsumerLeader" />
         <item itemvalue="Application.PublicNetCheckService (1)" />
-        <item itemvalue="Application.MapTest" />
+        <item itemvalue="Application.CompareVersion" />
+        <item itemvalue="Application.BrokerPartitionReplicaAssignProvider" />
+        <item itemvalue="Application.NullPoint" />
       </list>
     </recent_temporary>
   </component>
@@ -656,7 +659,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734594307122</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="分区分布测试">
+      <option name="closed" value="true" />
+      <created>1734594712574</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1734594712574</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -712,7 +723,8 @@
     <MESSAGE value="rm useless code" />
     <MESSAGE value="rm useless module" />
     <MESSAGE value="构建二叉树" />
-    <option name="LAST_COMMIT_MESSAGE" value="构建二叉树" />
+    <MESSAGE value="分区分布测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="分区分布测试" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
